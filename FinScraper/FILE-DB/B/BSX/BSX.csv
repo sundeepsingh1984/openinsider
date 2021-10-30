@@ -1,0 +1,954 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type  ,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m
+0,,,,,,,,,,,,,,,,
+1,,2021-10-18 16:52:17,2021-10-15,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$43.58,"-3,322","161,251",-2%,"-$144,773",,,,
+2,D,2021-10-05 16:32:00,2021-10-04,BSX,Mahoney Michael F,"COB, Pres, CEO",S - Sale+OE,$42.92,"-201,042","2,081,822",-9%,"-$8,629,038",,,,
+3,,2021-10-04 17:21:34,2021-10-01,BSX,Olson Scott,"SVP, Pres, Rhythm Management",S - Sale,$43.49,-700,"12,762",-5%,"-$30,443",,,,
+4,,2021-09-15 18:42:43,2021-09-15,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$44.88,"-3,321","164,573",-2%,"-$149,046",,,,
+5,D,2021-09-08 18:50:04,2021-09-07,BSX,Mahoney Michael F,"COB, Pres, CEO",S - Sale+OE,$44.57,"-201,041","2,081,822",-9%,"-$8,959,895",,,,
+6,,2021-09-01 17:28:44,2021-09-01,BSX,Eddy Jodi Euerle,"SVP, Chief Info, Digital Offic",S - Sale,$45.33,-728,"20,419",-3%,"-$33,000",,,,
+7,,2021-08-17 16:12:55,2021-08-16,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$44.30,"-3,322","167,894",-2%,"-$147,165",,,,
+8,D,2021-08-04 16:37:09,2021-08-02,BSX,Mahoney Michael F,"COB, Pres, CEO",S - Sale+OE,$45.74,"-201,043","2,081,822",-9%,"-$9,194,782",,,,
+9,D,2021-08-04 16:36:51,2021-08-02,BSX,Eddy Jodi Euerle,"SVP, Chief Info, Digital Offic",S - Sale+OE,$45.77,-727,"21,147",-3%,"-$33,275",,,,
+10,A,2021-08-02 18:08:08,2021-07-27,BSX,Butcher Arthur C,"EVP, Pres, Asia Pacific",S - Sale,$45.00,"-9,673","25,749",-27%,"-$435,287",,,,
+11,D,2021-07-27 20:28:48,2021-07-27,BSX,Scanlon Meghan,"SVP,Pres,Urology Pelvic Health",S - Sale+OE,$45.01,"-13,850","19,142",-42%,"-$623,389",,,,
+12,D,2021-07-27 20:28:39,2021-07-27,BSX,Fitzgerald Joseph Michael,"EVP, Pres, Interven Cardio",S - Sale+OE,$45.00,"-105,490","277,892",-28%,"-$4,747,377",,,,
+13,,2021-07-27 20:28:29,2021-07-27,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale,$45.22,"-6,748","133,118",-5%,"-$305,145",,,,
+14,DM,2021-07-27 20:28:19,2021-07-23,BSX,Eddy Jodi Euerle,"SVP, Chief Info, Digital Offic",S - Sale+OE,$44.06,"-12,076","20,777",-37%,"-$532,072",,,,
+15,DE,2021-07-27 20:28:17,2021-07-27,BSX,Butcher Arthur C,"EVP, Pres, Asia Pacific",S - Sale+OE,$0.47,"-9,673","28,302",-25%,"-$4,500",,,,
+16,,2021-07-19 16:23:07,2021-07-15,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$42.42,"-3,321","171,216",-2%,"-$140,877",,,,
+17,D,2021-06-28 16:18:30,2021-06-24,BSX,Scanlon Meghan,"SVP,Pres,Urology Pelvic Health",S - Sale+OE,$44.03,"-16,450","17,830",-48%,"-$724,294",,,,
+18,,2021-06-17 16:14:41,2021-06-16,BSX,Monson Jonathan,"VP, Global Controller, CAO",S - Sale,$42.76,"-8,833","28,229",-24%,"-$377,734",,,,
+19,DM,2021-06-16 16:22:30,2021-06-14,BSX,Monson Jonathan,"VP, Global Controller, CAO",S - Sale+OE,$42.84,"-12,901","37,062",-26%,"-$552,738",,,,
+20,,2021-06-16 16:16:10,2021-06-15,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$42.70,"-3,322","174,537",-2%,"-$141,849",,,,
+21,,2021-06-07 16:07:46,2021-06-03,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$41.36,"-1,654","2,057",-45%,"-$68,409",,,,
+22,,2021-06-02 16:19:26,2021-05-28,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale,$42.59,"-78,192","166,869",-32%,"-$3,330,440",,,,
+23,,2021-06-02 16:19:23,2021-06-01,BSX,Mackey Edward F,"EVP, Operations",S - Sale,$42.71,"-68,173","23,722",-74%,"-$2,911,580",,,,
+24,,2021-05-03 16:09:32,2021-04-30,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$43.51,"-3,572","45,134",-7%,"-$155,400",,,,
+25,,2021-05-03 16:09:26,2021-04-30,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$43.72,"-13,750","177,859",-7%,"-$601,193",,,,
+26,D,2021-04-29 16:12:01,2021-04-28,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale+OE,$43.98,"-48,439","139,158",-26%,"-$2,130,347",,,,
+27,D,2021-04-16 16:12:47,2021-04-15,BSX,Butcher Arthur C,"EVP, Pres, Asia Pacific",S - Sale+OE,$40.00,"-9,676","31,952",-23%,"-$387,040",,,,
+28,D,2021-04-16 16:11:44,2021-04-15,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale+OE,$40.95,"-28,123","139,158",-17%,"-$1,151,640",,,,
+29,,2021-04-02 16:13:11,2021-04-01,BSX,Olson Scott,"SVP, Pres, Rhythm Management",S - Sale,$38.61,-700,"12,844",-5%,"-$27,027",,,,
+30,,2021-03-17 16:08:54,2021-03-16,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$39.36,"-7,603","2,057",-79%,"-$299,246",,,,
+31,,2021-03-04 16:07:41,2021-03-02,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.90,"-1,360","9,660",-12%,"-$52,904",,,,
+32,M,2021-03-04 16:07:27,2021-03-02,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale,$38.76,"-21,602","263,243",-8%,"-$837,210",,,,
+33,,2021-02-24 16:07:26,2021-02-23,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$39.20,"-2,836","9,660",-23%,"-$111,171",,,,
+34,D,2021-02-24 16:07:24,2021-02-23,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale+OE,$39.23,"-24,846","282,352",-8%,"-$974,704",,,,
+35,D,2021-02-23 17:15:03,2021-02-19,BSX,Pierce David A,EVP Pres MedSurg,S - Sale+OE,$38.00,"-1,484","12,496",-11%,"-$56,392",,,,
+36,D,2021-02-17 16:18:33,2021-02-12,BSX,Thepaut Eric Francis Yves,"EVP, Pres, Eur, Mid-East, Afr",S - Sale+OE,$38.65,"-28,883","72,046",-29%,"-$1,116,354",,,,
+37,D,2021-02-17 16:16:34,2021-02-16,BSX,Pierce David A,EVP Pres MedSurg,S - Sale+OE,$38.28,"-1,540","9,660",-14%,"-$58,951",,,,
+38,D,2021-02-17 16:15:50,2021-02-12,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale+OE,$38.75,"-5,494","133,001",-4%,"-$212,893",,,,
+39,D,2021-02-10 16:08:00,2021-02-08,BSX,Butcher Arthur C,"EVP, Pres, Asia Pacific",S - Sale+OE,$39.39,"-16,902","30,678",-36%,"-$665,812",,,,
+40,,2021-02-08 17:28:12,2021-02-04,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.00,"-11,317","2,057",-85%,"-$430,046",,,,
+41,,2021-01-06 16:18:10,2021-01-05,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale,$35.31,"-8,108","131,636",-6%,"-$286,333",,,,
+42,,2021-01-06 16:18:04,2021-01-05,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale,$35.32,"-17,083","263,243",-6%,"-$603,407",,,,
+43,,2021-01-05 16:20:43,2021-01-04,BSX,Olson Scott,"SVP, Pres, Rhythm Management",S - Sale,$36.08,-700,"11,181",-6%,"-$25,256",,,,
+44,D,2020-12-02 16:12:17,2020-12-01,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale+OE,$33.53,"-46,584","131,483",-26%,"-$1,562,106",,,,
+45,,2020-11-10 16:13:12,2020-11-09,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$39.00,"-2,028",662,-75%,"-$79,092",,,,
+46,,2020-11-04 16:07:13,2020-11-03,BSX,Mahoney Michael F,"COB, Pres, CEO",S - Sale,$35.06,"-259,207","1,960,421",-12%,"-$9,087,227",,,,
+47,,2020-10-05 16:23:58,2020-10-01,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.56,"-2,282","2,690",-46%,"-$87,994",,,,
+48,D,2020-09-14 16:04:36,2020-09-11,BSX,Fitzgerald Joseph Michael,"EVP, Pres, Interven Cardio",S - Sale+OE,$40.76,"-77,640","296,122",-21%,"-$3,164,653",,,,
+49,,2020-09-08 16:10:51,2020-09-03,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale,$42.31,"-9,139","131,483",-6%,"-$386,671",,,,
+50,D,2020-09-02 16:32:12,2020-09-01,BSX,Mirviss Jeffrey B.,"EVP, Pres, Periph Intervent",S - Sale+OE,$40.93,"-60,000","140,622",-30%,"-$2,456,028",,,,
+51,,2020-09-02 16:32:08,2020-09-01,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$40.70,"-2,044","4,972",-29%,"-$83,191",,,,
+52,D,2020-08-31 16:10:09,2020-08-28,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$40.45,"-38,000","228,993",-14%,"-$1,537,165",,,,
+53,,2020-08-27 16:17:12,2020-08-26,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$39.16,"-10,200","178,973",-5%,"-$399,401",,,,
+54,,2020-08-27 16:17:08,2020-08-26,BSX,Eddy Jodi Euerle,"SVP, Chief Info, Digital Offic",S - Sale,$38.98,"-7,750","10,299",-43%,"-$302,129",,,,
+55,,2020-08-27 16:16:00,2020-08-26,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$39.06,"-7,500","38,171",-16%,"-$292,971",,,,
+56,,2020-08-24 16:06:52,2020-08-20,BSX,Ralls-Morrison Desiree,"SVP, GC, Corp Secretary",S - Sale,$39.00,"-1,182","11,450",-9%,"-$46,098",,,,
+57,,2020-08-04 16:05:47,2020-08-03,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.69,"-2,385","7,016",-25%,"-$92,276",,,,
+58,,2020-07-23 16:06:42,2020-07-22,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.00,"-2,170","9,401",-19%,"-$82,460",,,,
+59,,2020-06-04 16:17:40,2020-06-03,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.00,"-1,624","11,571",-12%,"-$61,712",,,,
+60,D,2020-06-03 16:06:33,2020-06-01,BSX,Pierce David A,EVP Pres MedSurg,S - Sale+OE,$38.00,"-1,969","13,195",-13%,"-$74,822",,,,
+61,,2020-05-11 16:45:57,2020-05-08,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.00,"-2,057","13,540",-13%,"-$78,166",,,,
+62,,2020-04-20 16:30:26,2020-04-17,BSX,Pierce David A,EVP Pres MedSurg,S - Sale,$38.00,"-14,793","15,597",-49%,"-$562,134",,,,
+63,D,2020-03-05 16:10:29,2020-03-04,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$38.05,"-1,796","80,085",-2%,"-$68,338",,,,
+64,D,2020-03-03 16:15:06,2020-03-02,BSX,Pierce David A,EVP Pres MedSurg,S - Sale+OE,$38.00,"-3,485","30,390",-10%,"-$132,430",,,,
+65,D,2020-03-03 16:15:02,2020-03-02,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$37.47,"-16,763","259,591",-6%,"-$628,183",,,,
+66,,2020-03-03 16:09:31,2020-03-02,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale,$37.21,"-15,783","80,085",-16%,"-$587,221",,,,
+67,D,2020-02-26 16:33:23,2020-02-25,BSX,Pierce David A,EVP Pres MedSurg,S - Sale+OE,$41.15,"-4,122","32,540",-11%,"-$169,620",,,,
+68,D,2020-02-26 16:24:14,2020-02-25,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$41.15,"-5,658","95,868",-6%,"-$232,827",,,,
+69,D,2020-02-19 17:32:15,2020-02-19,BSX,Pierce David A,EVP Pres MedSurg,S - Sale+OE,$42.31,"-1,511","32,540",-4%,"-$63,930",,,,
+70,D,2020-02-19 17:28:59,2020-02-19,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$42.31,"-1,757","95,868",-2%,"-$74,339",,,,
+71,D,2020-02-13 17:17:13,2020-02-13,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale+OE,$42.03,"-20,463","230,247",-8%,"-$860,041",,,,
+72,,2020-02-11 16:12:44,2020-02-10,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$42.48,"-7,500","34,073",-18%,"-$318,632",,,,
+73,,2020-02-04 16:21:04,2020-02-03,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$42.17,"-2,150","19,899",-10%,"-$90,666",,,,
+74,D,2020-02-04 16:21:00,2020-02-03,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$42.17,"-9,623","255,194",-4%,"-$405,802",,,,
+75,D,2020-01-21 16:29:38,2020-01-17,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale+OE,$44.00,"-23,077","125,484",-16%,"-$1,015,388",,,,
+76,,2020-01-06 16:13:56,2020-01-03,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$44.73,"-8,270","22,049",-27%,"-$369,944",,,,
+77,,2020-01-06 16:12:36,2020-01-03,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale,$44.73,"-5,025","255,194",-2%,"-$224,757",,,,
+78,,2020-01-06 16:12:32,2020-01-03,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale,$44.52,"-11,036","80,057",-12%,"-$491,323",,,,
+79,,2020-01-03 16:21:49,2020-01-02,BSX,Ralls-Morrison Desiree,"SVP, GC, Corp Secretary",S - Sale,$45.50,"-4,050","10,437",-28%,"-$184,275",,,,
+80,D,2020-01-03 16:21:45,2020-01-02,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$45.50,"-2,152","30,319",-7%,"-$97,916",,,,
+81,D,2020-01-03 16:20:53,2020-01-02,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$45.33,"-9,623","260,219",-4%,"-$436,214",,,,
+82,D,2019-12-16 16:08:52,2019-12-13,BSX,Fitzgerald Joseph Michael,"EVP, Pres, Rhythm Mgmt",S - Sale+OE,$45.00,"-107,692","269,065",-29%,"-$4,846,140",,,,
+83,D,2019-12-16 16:08:49,2019-12-13,BSX,Carruthers Wendy,"SVP, HR",S - Sale+OE,$45.03,"-24,220","168,848",-13%,"-$1,090,670",,,,
+84,D,2019-12-05 16:21:08,2019-12-04,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$42.89,"-9,623","255,194",-4%,"-$412,712",,,,
+85,D,2019-12-03 16:15:04,2019-12-02,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$43.33,"-5,000","24,201",-17%,"-$216,650",,,,
+86,D,2019-12-02 16:08:30,2019-11-27,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$43.27,"-20,552","255,194",-7%,"-$889,322",,,,
+87,D,2019-11-27 16:08:54,2019-11-26,BSX,Thepaut Eric Francis Yves,"SVP, Pres, Eur, Mid-East, Afr",S - Sale+OE,$42.70,"-22,487","76,357",-23%,"-$960,256",,,,
+88,,2019-11-21 16:10:48,2019-11-20,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$42.58,"-4,800","37,585",-11%,"-$204,393",,,,
+89,,2019-11-12 16:04:55,2019-11-08,BSX,Butcher Arthur C,"SVP, Pres, Endoscopy",S - Sale,$40.75,"-1,104","12,373",-8%,"-$44,991",,,,
+90,D,2019-11-05 16:30:50,2019-11-04,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$41.66,"-9,623","255,194",-4%,"-$400,894",,,,
+91,D,2019-11-04 16:26:37,2019-11-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$42.05,"-5,000","24,201",-17%,"-$210,250",,,,
+92,D,2019-10-07 16:08:12,2019-10-03,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$39.25,"-9,623","255,194",-4%,"-$377,744",,,,
+93,D,2019-10-03 16:13:58,2019-10-02,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale+OE,$39.44,"-20,462","214,960",-9%,"-$807,040",,,,
+94,D,2019-10-03 16:13:51,2019-10-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$41.14,"-5,000","24,201",-17%,"-$205,686",,,,
+95,D,2019-09-04 16:25:39,2019-09-03,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$42.50,"-5,000","24,201",-17%,"-$212,500",,,,
+96,D,2019-09-03 16:10:26,2019-08-29,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$42.65,"-34,035","255,194",-12%,"-$1,451,423",,,,
+97,D,2019-08-19 16:07:26,2019-08-15,BSX,Butcher Arthur C,"SVP, Pres, Endoscopy",S - Sale+OE,$41.98,"-6,329","15,974",-28%,"-$265,680",,,,
+98,,2019-08-14 17:46:32,2019-08-13,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$42.79,"-6,000","42,385",-12%,"-$256,757",,,,
+99,D,2019-08-05 16:07:47,2019-08-02,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$42.62,"-5,000","24,201",-17%,"-$213,092",,,,
+100,,2019-07-16 16:13:41,2019-07-15,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$42.30,"-3,728","48,385",-7%,"-$157,694",,,,
+101,M,2019-07-02 16:07:21,2019-06-28,BSX,Fitzgerald Joseph Michael,"EVP, Pres, Rhythm Mgmt",S - Sale,$43.38,"-22,579","272,661",-8%,"-$979,373",,,,
+102,D,2019-07-02 16:06:47,2019-07-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$43.41,"-5,000","24,201",-17%,"-$217,050",,,,
+103,D,2019-06-18 16:23:00,2019-06-17,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$40.46,"-3,039","254,469",-1%,"-$122,958",,,,
+104,,2019-06-05 16:10:25,2019-06-04,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$38.60,"-1,650","24,201",-6%,"-$63,684",,,,
+105,,2019-06-04 16:15:02,2019-06-03,BSX,Wang Xin Warren,"SVP, Pres, Asia Pacific",S - Sale,$38.45,"-10,000","75,469",-12%,"-$384,534",,,,
+106,D,2019-06-04 16:14:54,2019-06-03,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$38.45,"-5,140","25,851",-17%,"-$197,650",,,,
+107,,2019-05-30 16:14:38,2019-05-29,BSX,Thepaut Eric Francis Yves,"SVP, Pres, Eur, Mid-East, Afr",S - Sale,$38.03,"-22,047","88,978",-20%,"-$838,432",,,,
+108,,2019-05-29 16:16:10,2019-05-28,BSX,Eddy Jodi Euerle,"SVP, CIO",S - Sale,$38.42,"-7,803","12,584",-38%,"-$299,792",,,,
+109,D,2019-05-16 16:12:54,2019-05-15,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$36.74,"-3,038","254,469",-1%,"-$111,616",,,,
+110,,2019-05-02 16:18:35,2019-05-01,BSX,Mackey Edward F,"EVP, Operations",S - Sale,$36.83,"-55,320","27,117",-67%,"-$2,037,297",,,,
+111,D,2019-05-02 16:18:32,2019-05-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$37.10,"-5,000","24,201",-17%,"-$185,500",,,,
+112,M,2019-04-17 16:26:27,2019-04-15,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$37.92,"-3,197","52,113",-6%,"-$121,223",,,,
+113,D,2019-04-16 16:24:55,2019-04-15,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$37.81,"-3,039","254,469",-1%,"-$114,905",,,,
+114,D,2019-04-02 16:20:35,2019-04-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$38.82,"-5,000","24,201",-17%,"-$194,100",,,,
+115,,2019-03-19 16:18:14,2019-03-18,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$39.13,"-14,739","24,201",-38%,"-$576,762",,,,
+116,D,2019-03-18 16:22:45,2019-03-15,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$40.11,"-3,038","254,469",-1%,"-$121,854",,,,
+117,,2019-03-15 16:13:10,2019-03-14,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale,$40.02,"-46,360","214,960",-18%,"-$1,855,545",,,,
+118,D,2019-03-13 16:14:58,2019-03-12,BSX,Carruthers Wendy,"SVP, HR",S - Sale+OE,$40.00,"-24,219","171,339",-12%,"-$968,760",,,,
+119,D,2019-03-12 16:17:04,2019-03-11,BSX,Carruthers Wendy,"SVP, HR",S - Sale+OE,$39.63,"-29,412","171,339",-15%,"-$1,165,677",,,,
+120,,2019-03-12 16:15:59,2019-03-11,BSX,Mackey Edward F,"EVP, Operations",S - Sale,$39.72,"-35,906","82,437",-30%,"-$1,426,186",,,,
+121,,2019-03-07 16:31:01,2019-03-06,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$40.25,"-1,357","38,940",-3%,"-$54,619",,,,
+122,,2019-03-05 16:08:55,2019-03-04,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale,$40.84,"-64,223","261,320",-20%,"-$2,622,553",,,,
+123,D,2019-03-04 16:36:07,2019-03-01,BSX,Wang Xin Warren,"SVP, Pres, Asia Pacific",S - Sale+OE,$40.31,"-10,000","84,427",-11%,"-$403,056",,,,
+124,D,2019-03-04 16:34:48,2019-03-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$40.34,"-5,000","40,297",-11%,"-$201,679",,,,
+125,D,2019-03-04 16:29:41,2019-03-01,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$40.74,"-20,900","79,368",-21%,"-$851,552",,,,
+126,,2019-02-28 16:19:13,2019-02-27,BSX,Thepaut Eric Francis Yves,"SVP, Pres, Eur, Mid-East, Afr",S - Sale,$39.94,"-11,980","110,169",-10%,"-$478,520",,,,
+127,,2019-02-27 16:18:43,2019-02-26,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$39.83,"-4,508","38,940",-10%,"-$179,561",,,,
+128,D,2019-02-25 18:35:41,2019-02-21,BSX,Butcher Arthur C,"SVP, Pres, Endoscopy",S - Sale+OE,$39.95,"-15,225","13,842",-52%,"-$608,239",,,,
+129,D,2019-02-22 18:17:28,2019-02-20,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$39.86,"-1,952","38,940",-5%,"-$77,807",,,,
+130,D,2019-02-19 18:17:30,2019-02-15,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale+OE,$40.22,"-5,000","41,599",-11%,"-$201,081",,,,
+131,D,2019-02-19 18:17:21,2019-02-15,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$40.32,"-3,039","241,254",-1%,"-$122,532",,,,
+132,D,2019-02-19 18:14:37,2019-02-14,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale+OE,$39.57,"-22,438","281,489",-7%,"-$887,912",,,,
+133,D,2019-02-13 16:12:25,2019-02-12,BSX,Fitzgerald Joseph Michael,"EVP, Pres, Rhythm Mgmt",S - Sale+OE,$40.00,"-44,236","266,360",-14%,"-$1,769,440",,,,
+134,D,2019-02-05 16:49:23,2019-02-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$38.15,"-5,000","24,201",-17%,"-$190,750",,,,
+135,D,2019-01-16 16:11:40,2019-01-15,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$35.46,"-3,038","240,168",-1%,"-$107,727",,,,
+136,,2019-01-10 16:16:58,2019-01-09,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$35.67,"-10,319","24,201",-30%,"-$368,079",,,,
+137,,2019-01-10 16:16:53,2019-01-09,BSX,Ralls-Morrison Desiree,"SVP, GC, Corp Secretary",S - Sale,$36.00,"-4,047","4,632",-47%,"-$145,692",,,,
+138,D,2019-01-09 16:27:53,2019-01-08,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$35.00,"-5,000","34,520",-13%,"-$175,000",,,,
+139,,2019-01-04 16:12:52,2019-01-03,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale,$33.65,"-14,740","69,623",-17%,"-$495,954",,,,
+140,D,2018-12-04 16:56:23,2018-12-03,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$38.11,"-5,000","24,201",-17%,"-$190,574",,,,
+141,D,2018-12-04 16:55:01,2018-12-03,BSX,Wang Xin Warren,"SVP, Pres, Asia Pacific",S - Sale+OE,$38.00,"-10,000","86,661",-10%,"-$379,994",,,,
+142,,2018-12-03 16:32:31,2018-11-29,BSX,Thepaut Eric Francis Yves,"SVP, Pres, Eur, Mid-East, Afr",S - Sale,$36.74,"-15,298","98,884",-13%,"-$562,019",,,,
+143,,2018-12-03 16:31:20,2018-11-30,BSX,Fujimori Yoshiaki,Dir,S - Sale,$37.13,"-6,143",0,-100%,"-$228,090",,,,
+144,D,2018-11-19 16:25:44,2018-11-16,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$37.28,"-23,458","233,351",-9%,"-$874,446",,,,
+145,D,2018-11-13 16:16:58,2018-11-09,BSX,Thepaut Eric Francis Yves,"SVP, Pres, Eur, Mid-East, Afr",S - Sale+OE,$37.51,"-23,458","114,182",-17%,"-$879,886",,,,
+146,,2018-11-13 16:10:15,2018-11-09,BSX,Butcher Arthur C,"SVP, Pres, Endoscopy",S - Sale,$38.50,"-4,000","12,963",-24%,"-$154,000",,,,
+147,,2018-11-06 16:14:34,2018-11-02,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$36.64,"-1,500","141,468",-1%,"-$54,965",,,,
+148,D,2018-11-02 16:13:04,2018-11-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$36.40,"-5,000","24,201",-17%,"-$181,976",,,,
+149,,2018-11-02 16:13:01,2018-11-01,BSX,Mahoney Michael F,"COB, Pres, CEO",S - Sale,$36.35,"-116,666","1,789,772",-6%,"-$4,240,739",,,,
+150,,2018-10-02 16:24:26,2018-10-01,BSX,Mahoney Michael F,"COB, Pres, CEO",S - Sale,$38.80,"-116,666","1,906,438",-6%,"-$4,526,466",,,,
+151,D,2018-10-02 16:24:21,2018-10-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$38.80,"-5,000","24,201",-17%,"-$194,010",,,,
+152,D,2018-09-25 16:01:57,2018-09-24,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$38.00,"-37,430","72,008",-34%,"-$1,422,340",,,,
+153,,2018-09-11 16:29:03,2018-09-10,BSX,Wang Xin Warren,"SVP, Pres, Asia Pacific",S - Sale,$35.86,"-10,000","92,162",-10%,"-$358,595",,,,
+154,,2018-09-11 16:28:58,2018-09-10,BSX,Mahoney Michael F,"COB, Pres, CEO",S - Sale,$35.88,"-116,666","2,023,104",-5%,"-$4,186,104",,,,
+155,D,2018-09-11 16:22:48,2018-09-10,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale+OE,$35.86,"-10,000","34,636",-22%,"-$358,607",,,,
+156,D,2018-09-05 16:15:30,2018-09-04,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$36.02,"-5,000","24,201",-17%,"-$180,100",,,,
+157,,2018-08-16 08:28:22,2018-08-15,BSX,Sununu John E,Dir,S - Sale,$34.87,-72,"32,265",0%,"-$2,511",,,,
+158,D,2018-08-02 16:21:05,2018-08-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$33.66,"-5,000","24,201",-17%,"-$168,323",,,,
+159,D,2018-07-11 16:25:31,2018-07-10,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale+OE,$34.00,"-33,512","89,162",-27%,"-$1,139,415",,,,
+160,D,2018-07-02 16:29:07,2018-07-02,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$32.42,"-5,000","24,201",-17%,"-$162,119",,,,
+161,M,2018-07-02 16:28:01,2017-04-24,BSX,Sununu John E,Dir,P - Purchase,$26.83,+72,"32,337",0%,"+$1,932",,,,
+162,,2018-06-18 16:14:49,2018-06-14,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$32.64,"-19,323","89,162",-18%,"-$630,703",,,,
+163,D,2018-06-13 16:17:35,2018-06-11,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$34.12,"-68,486","71,151",-49%,"-$2,337,043",,,,
+164,,2018-06-11 16:15:59,2018-06-07,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale,$30.83,"-1,650","24,201",-6%,"-$50,875",,,,
+165,D,2018-06-04 16:08:14,2018-06-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$30.58,"-5,000","25,851",-16%,"-$152,914",,,,
+166,,2018-05-18 16:08:58,2018-05-17,BSX,Thepaut Eric Francis Yves,"SVP, Pres, Eur, Mid-East, Afr",S - Sale,$30.15,"-20,015","112,859",-15%,"-$603,368",,,,
+167,,2018-05-11 18:28:33,2018-05-10,BSX,Butcher Arthur C,"SVP, Pres, Endoscopy",S - Sale,$30.06,"-7,500","15,046",-33%,"-$225,413",,,,
+168,D,2018-05-08 17:17:11,2018-05-07,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$30.00,"-31,056","71,151",-30%,"-$931,680",,,,
+169,D,2018-05-02 16:08:03,2018-05-01,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$28.80,"-5,000","24,201",-17%,"-$143,982",,,,
+170,D,2018-04-03 16:07:16,2018-04-02,BSX,Pierce David A,"EVP,Pres MedSurg",S - Sale+OE,$27.22,"-5,000","24,201",-17%,"-$136,125",,,,
+171,,2018-03-21 16:14:55,2018-03-20,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$27.63,"-2,200","34,636",-6%,"-$60,786",,,,
+172,D,2018-03-20 18:47:37,2018-03-19,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale+OE,$27.87,"-60,209","279,183",-18%,"-$1,678,013",,,,
+173,D,2018-03-15 16:08:48,2018-03-14,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale+OE,$28.32,"-42,803","71,151",-38%,"-$1,212,322",,,,
+174,,2018-03-06 16:18:10,2018-03-05,BSX,Pierce David A,"SVP,Pres Urology,Pelvic Health",S - Sale,$27.00,"-3,800","24,201",-14%,"-$102,600",,,,
+175,,2018-03-06 16:18:06,2018-03-05,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$27.43,"-1,950","36,836",-5%,"-$53,496",,,,
+176,D,2018-03-05 16:20:54,2018-03-01,BSX,Pierce David A,"SVP,Pres Urology,Pelvic Health",S - Sale+OE,$27.19,"-5,000","28,001",-15%,"-$135,958",,,,
+177,D,2018-03-05 16:20:50,2018-03-01,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale+OE,$26.99,"-14,150","38,786",-27%,"-$381,949",,,,
+178,D,2018-02-23 16:13:44,2018-02-21,BSX,Pierce David A,"SVP,Pres Urology,Pelvic Health",S - Sale+OE,$27.00,"-16,286","25,649",-39%,"-$439,722",,,,
+179,D,2018-02-12 16:38:10,2018-02-09,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$25.38,"-15,568","214,189",-7%,"-$395,113",,,,
+180,D,2018-02-08 16:14:55,2018-02-07,BSX,Fitzgerald Joseph Michael,"EVP, Pres, Rhythm Mgmt",S - Sale+OE,$26.48,"-85,227","229,248",-27%,"-$2,256,675",,,,
+181,D,2018-02-01 16:11:39,2018-02-01,BSX,Pierce David A,"SVP,Pres Urology,Pelvic Health",S - Sale+OE,$27.43,"-5,152","24,201",-18%,"-$141,319",,,,
+182,,2018-01-11 16:11:14,2018-01-11,BSX,Pierce David A,"SVP,Pres Urology,Pelvic Health",S - Sale,$27.74,"-8,763","24,201",-27%,"-$243,074",,,,
+183,D,2018-01-10 16:08:37,2018-01-09,BSX,Pierce David A,"SVP,Pres Urology,Pelvic Health",S - Sale+OE,$27.00,"-5,152","32,964",-14%,"-$139,104",,,,
+184,D,2018-01-03 19:53:19,2017-12-29,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$25.25,"-15,835","106,673",-13%,"-$399,865",,,,
+185,,2017-12-04 17:26:31,2017-12-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$26.04,"-10,000","154,681",-6%,"-$260,375",,,,
+186,D,2017-11-30 16:13:05,2017-11-29,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$26.66,"-15,500","97,910",-14%,"-$413,252",,,,
+187,,2017-11-02 16:09:33,2017-11-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$28.22,"-10,000","164,681",-6%,"-$282,214",,,,
+188,D,2017-10-30 16:02:11,2017-10-30,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$28.42,"-15,500","102,666",-13%,"-$440,547",,,,
+189,DM,2017-10-05 16:16:07,2017-10-03,BSX,Bose Supratim,"EVP, Pres, Asia-Pacific",S - Sale+OE,$29.12,"-347,137","320,301",-52%,"-$10,109,559",,,,
+190,,2017-10-02 16:16:36,2017-10-02,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$29.24,"-11,061","174,681",-6%,"-$323,435",,,,
+191,D,2017-10-02 16:15:31,2017-09-29,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$28.72,"-15,500","102,666",-13%,"-$445,137",,,,
+192,,2017-09-01 16:10:26,2017-09-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$27.46,"-10,104","185,742",-5%,"-$277,475",,,,
+193,DM,2017-09-01 16:10:22,2017-08-30,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$27.28,"-57,031","208,233",-21%,"-$1,555,622",,,,
+194,D,2017-08-30 16:10:10,2017-08-29,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$26.87,"-15,500","102,666",-13%,"-$416,559",,,,
+195,,2017-08-04 16:10:29,2017-08-03,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$26.75,"-12,433","111,253",-10%,"-$332,584",,,,
+196,D,2017-08-04 16:10:26,2017-08-02,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale+OE,$26.37,"-7,900","18,880",-29%,"-$208,328",,,,
+197,,2017-08-02 16:06:44,2017-08-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$26.67,"-10,000","195,846",-5%,"-$266,650",,,,
+198,,2017-08-01 16:50:04,2017-07-31,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$27.15,"-2,100","18,880",-10%,"-$57,015",,,,
+199,D,2017-08-01 16:49:00,2017-07-31,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$27.13,"-15,500","101,919",-13%,"-$420,541",,,,
+200,D,2017-07-12 16:08:11,2017-07-11,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale+OE,$27.48,"-92,158","214,960",-30%,"-$2,532,069",,,,
+201,,2017-07-05 17:50:31,2017-07-03,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$27.87,"-10,000","205,846",-5%,"-$278,653",,,,
+202,D,2017-06-29 17:15:03,2017-06-29,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$28.02,"-15,500","101,919",-13%,"-$434,290",,,,
+203,D,2017-06-12 16:10:58,2017-06-09,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$28.00,"-13,562","24,201",-36%,"-$379,736",,,,
+204,D,2017-06-05 16:17:32,2017-06-02,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$27.70,"-2,972","24,201",-11%,"-$82,313",,,,
+205,,2017-06-01 16:08:27,2017-06-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$27.13,"-10,000","215,846",-4%,"-$271,261",,,,
+206,D,2017-05-30 16:15:27,2017-05-30,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$27.25,"-15,500","104,339",-13%,"-$422,369",,,,
+207,,2017-05-18 16:25:13,2017-05-17,BSX,Ballinger Kevin J.,"EVP, Pres, Interven Cardio",S - Sale,$26.14,"-28,864","57,366",-33%,"-$754,454",,,,
+208,D,2017-05-02 16:11:30,2017-05-01,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$26.37,"-15,500","104,340",-13%,"-$408,778",0,-1,,
+209,,2017-05-02 16:11:21,2017-05-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$26.37,"-10,000","225,846",-4%,"-$263,728",0,-1,,
+210,D,2017-04-27 16:10:24,2017-04-26,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$26.00,"-10,250","25,600",-29%,"-$266,500",+1,+1,,
+211,D,2017-04-27 16:10:21,2017-04-26,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$26.00,"-34,773","104,340",-25%,"-$904,098",+1,+1,,
+212,,2017-04-11 16:11:55,2017-04-10,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$24.66,"-2,950","20,980",-12%,"-$72,747",0,0,+8,
+213,,2017-04-04 16:09:27,2017-04-03,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$24.87,"-10,000","235,846",-4%,"-$248,725",-1,0,+7,
+214,D,2017-03-30 16:37:01,2017-03-29,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$24.55,"-79,045","104,340",-43%,"-$1,940,341",+2,0,+8,
+215,,2017-03-03 17:50:51,2017-03-03,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$25.01,"-25,012","25,600",-49%,"-$625,668",-1,-1,0,
+216,,2017-03-03 17:50:49,2017-03-03,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$25.01,"-23,540","245,846",-9%,"-$588,846",-1,-1,0,
+217,D,2017-03-02 19:34:29,2017-02-28,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale+OE,$24.67,"-25,000","78,675",-24%,"-$616,663",0,-2,-2,
+218,D,2017-03-02 19:17:54,2017-02-28,BSX,Dawkins Keith D,"EVP, Global Chief Med. Officer",S - Sale+OE,$24.64,"-30,000","68,165",-31%,"-$739,134",0,-2,-2,
+219,D,2017-02-28 17:59:27,2017-02-27,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$24.84,"-4,832","240,621",-2%,"-$120,034",+2,+1,+1,
+220,D,2017-02-28 17:58:23,2017-02-27,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$24.84,"-3,417","29,816",-10%,"-$84,883",+2,+1,+1,
+221,,2017-02-08 16:24:18,2017-02-06,BSX,Thepaut Eric Francis Yves,"SVP, Pres, Europe",S - Sale,$24.94,"-23,775","98,458",-19%,"-$592,858",0,0,-2,
+222,,2017-02-08 16:24:15,2017-02-07,BSX,Dawkins Keith D,"EVP, Global Chief Med. Officer",S - Sale,$25.21,"-80,783","75,864",-52%,"-$2,036,523",0,0,-2,
+223,,2017-01-10 16:08:58,2017-01-09,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$22.24,"-10,232","25,600",-29%,"-$227,546",-1,+1,+7,
+224,,2017-01-10 16:06:53,2017-01-09,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$22.24,"-6,195","231,273",-3%,"-$137,769",-1,+1,+7,
+225,D,2016-12-05 16:07:03,2016-12-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$20.48,"-26,726","233,704",-10%,"-$547,367",0,0,+7,
+226,D,2016-11-03 16:50:09,2016-11-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$21.89,"-24,752","241,669",-9%,"-$541,826",0,+1,-6,+23
+227,D,2016-10-04 16:04:04,2016-10-03,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$23.54,"-24,000","249,421",-9%,"-$564,970",+1,+2,-7,+6
+228,D,2016-09-06 16:08:42,2016-09-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$24.10,"-24,074","256,421",-9%,"-$580,073",0,-2,-4,+1
+229,,2016-08-15 07:43:03,2016-08-11,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$23.90,"-2,500","12,615",-17%,"-$59,750",0,+1,-3,+6
+230,,2016-08-02 16:12:45,2016-08-01,BSX,Mahoney Michael F,"Pres, CEO",S - Sale,$24.44,"-44,400","1,388,177",-3%,"-$1,084,994",-1,-1,0,0
+231,D,2016-08-02 16:10:41,2016-08-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$24.46,"-24,000","263,495",-8%,"-$586,956",-1,-1,0,0
+232,D,2016-07-21 16:05:17,2016-07-20,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale+OE,$24.03,"-78,122","46,970",-62%,"-$1,877,272",0,-1,0,0
+233,D,2016-07-20 16:30:17,2016-07-20,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$24.03,"-2,480","25,600",-9%,"-$59,594",-1,-1,-2,-1
+234,D,2016-07-20 16:29:13,2016-07-20,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$24.03,"-35,000","91,733",-28%,"-$841,050",-1,-1,-2,-1
+235,D,2016-07-05 16:09:38,2016-07-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$23.39,"-24,000","270,495",-8%,"-$561,425",+2,+2,+4,-7
+236,,2016-07-05 16:09:34,2016-07-01,BSX,Mahoney Michael F,"Pres, CEO",S - Sale,$23.43,"-100,000","1,432,577",-7%,"-$2,342,570",+2,+2,+4,-7
+237,D,2016-06-03 07:58:38,2016-06-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$22.66,"-24,229","277,495",-8%,"-$548,976",-1,+1,+2,-11
+238,,2016-06-03 07:57:33,2016-06-01,BSX,Mahoney Michael F,"Pres, CEO",S - Sale,$22.69,"-100,000","1,532,577",-6%,"-$2,268,650",-1,+1,+2,-11
+239,,2016-05-12 16:07:59,2016-05-11,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$22.15,"-2,800","15,115",-16%,"-$62,020",+1,+1,+4,+1
+240,,2016-05-12 16:06:54,2016-05-10,BSX,Dawkins Keith D,"EVP, Global Chief Med. Officer",S - Sale,$22.15,"-80,000","150,227",-35%,"-$1,772,224",+1,+1,+4,+1
+241,,2016-05-09 16:15:09,2016-05-06,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$21.94,"-24,659","71,975",-26%,"-$541,038",0,+1,+2,-3
+242,,2016-05-04 16:26:56,2016-05-03,BSX,Fitzgerald Joseph Michael,"EVP, Pres, CRM",S - Sale,$21.81,"-79,960","160,810",-33%,"-$1,743,536",0,+2,+5,+1
+243,,2016-05-03 16:12:53,2016-05-02,BSX,Mahoney Michael F,"Pres, CEO",S - Sale,$22.12,"-100,000","1,632,577",-6%,"-$2,212,270",0,+2,+4,+1
+244,D,2016-05-03 16:11:41,2016-05-02,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$21.93,"-24,000","284,724",-8%,"-$526,438",0,+2,+4,+1
+245,D,2016-04-28 16:33:08,2016-04-27,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$22.00,"-35,000","91,738",-28%,"-$770,000",0,0,+3,+3
+246,,2016-04-28 16:29:54,2016-04-27,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$21.40,"-39,927","291,724",-12%,"-$854,438",0,0,+3,+3
+247,D,2016-04-28 16:26:50,2016-04-27,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$21.69,"-16,512","25,600",-39%,"-$358,162",0,0,+3,+3
+248,D,2016-04-28 16:22:44,2016-04-27,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale+OE,$21.62,"-111,807","46,970",-70%,"-$2,416,775",0,0,+3,+3
+249,,2016-04-05 16:36:37,2016-04-01,BSX,Mahoney Michael F,"Pres, CEO",S - Sale,$18.90,"-100,000","1,732,577",-5%,"-$1,890,270",+2,0,+13,+24
+250,D,2016-04-05 16:35:34,2016-04-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$18.73,"-24,000","331,651",-7%,"-$449,462",+2,0,+13,+24
+251,,2016-04-05 16:33:31,2016-04-04,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$19.00,"-18,422","96,634",-16%,"-$350,018",+2,0,+13,+24
+252,,2016-03-14 16:10:31,2016-03-11,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$18.00,"-16,705","46,970",-26%,"-$300,690",-1,0,+6,+30
+253,,2016-03-08 16:16:09,2016-03-08,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$17.27,"-51,763","25,600",-67%,"-$894,185",0,+5,+13,+40
+254,,2016-03-08 16:13:04,2016-03-08,BSX,Prange Karen,"SVP, Pres, Uro, Pelvic Health",S - Sale,$17.27,"-14,747","39,395",-27%,"-$254,749",0,+5,+13,+40
+255,,2016-03-02 16:13:00,2016-03-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$16.97,"-15,068","338,651",-4%,"-$255,755",0,0,+8,+40
+256,,2016-03-02 16:10:57,2016-03-02,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$17.17,"-10,665","91,738",-10%,"-$183,103",0,0,+8,+40
+257,,2016-03-02 16:07:54,2016-03-01,BSX,Mahoney Michael F,"Pres, CEO",S - Sale,$16.96,"-100,000","1,832,577",-5%,"-$1,695,600",0,0,+8,+40
+258,D,2016-03-01 16:38:35,2016-02-29,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$17.19,"-2,426","353,719",-1%,"-$41,707",+1,+1,+9,+40
+259,D,2016-03-01 16:32:08,2016-02-29,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$17.19,"-1,819","102,403",-2%,"-$31,272",+1,+1,+9,+40
+260,D,2016-03-01 16:17:56,2016-02-29,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale+OE,$17.17,"-2,114","63,675",-3%,"-$36,297",+1,+1,+9,+40
+261,D,2016-02-26 16:48:16,2016-02-25,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$17.28,"-13,570","341,077",-4%,"-$234,530",-1,+1,+5,+37
+262,D,2016-02-26 16:45:03,2016-02-25,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$17.28,"-34,106","93,557",-27%,"-$589,454",-1,+1,+5,+37
+263,DM,2016-02-26 16:29:00,2016-02-24,BSX,Brennan Daniel J.,"EVP, CFO",S - Sale+OE,$17.22,"-103,211","149,029",-41%,"-$1,777,239",-1,+1,+5,+37
+264,D,2016-02-26 16:21:28,2016-02-25,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale+OE,$17.48,"-1,903","58,267",-3%,"-$33,264",-1,+1,+5,+37
+265,,2016-02-18 16:16:09,2016-02-17,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$17.37,"-7,616","23,080",-25%,"-$132,290",0,+1,+4,+38
+266,,2016-02-16 16:07:02,2016-02-12,BSX,Dockendorff Charles J,Dir,P - Purchase,$16.49,"+30,000","41,598",+259%,"+$494,688",+2,+1,+5,+40
+267,,2016-02-09 16:06:35,2016-02-08,BSX,Prange Karen,"SVP, Pres, Uro, Pelvic Health",S - Sale,$16.05,"-6,216","24,647",-20%,"-$99,785",0,+2,+3,+44
+268,,2016-01-11 08:53:48,2016-01-08,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$17.67,"-7,160","303,776",-2%,"-$126,549",-2,+3,-3,+36
+269,,2016-01-11 08:53:46,2016-01-08,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$17.67,"-18,221","91,400",-17%,"-$322,045",-2,+3,-3,+36
+270,,2016-01-07 16:42:21,2016-01-07,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$17.73,"-19,059","30,323",-39%,"-$337,826",-1,-1,-6,+33
+271,,2016-01-06 16:14:48,2016-01-05,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$18.00,"-16,114","49,382",-25%,"-$290,052",-2,-1,-4,+31
+272,,2016-01-06 16:14:46,2016-01-05,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$18.00,"-9,953","82,535",-11%,"-$179,154",-2,-1,-4,+31
+273,D,2015-12-02 16:11:23,2015-12-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$18.43,"-24,000","282,295",-8%,"-$442,414",-2,+2,0,+25
+274,,2015-11-17 16:12:48,2015-11-16,BSX,Mario Ernest,Dir,S - Sale,$17.63,"-125,000","86,032",-59%,"-$2,203,163",+1,+3,+7,+27
+275,,2015-11-10 16:20:04,2015-11-09,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$18.68,"-4,469","5,605",-44%,"-$83,483",-4,-6,-2,+18
+276,,2015-11-10 16:19:03,2015-11-09,BSX,Fitzgerald Joseph Michael,"EVP, Pres, CRM",S - Sale,$18.58,"-26,220","172,715",-13%,"-$487,280",-4,-6,-2,+18
+277,,2015-11-06 16:14:41,2015-11-05,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$19.00,"-19,598","289,295",-6%,"-$372,362",-1,-5,-1,+18
+278,,2015-10-30 16:10:16,2015-10-28,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$18.00,"-3,500","315,893",-1%,"-$63,000",+3,+4,0,+20
+279,,2015-10-30 16:10:14,2015-10-28,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$18.00,"-9,492","81,262",-10%,"-$170,856",+3,+4,0,+20
+280,,2015-10-05 16:10:22,2015-10-05,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$17.34,"-3,500","319,393",-1%,"-$60,690",-3,-1,+11,+12
+281,D,2015-10-02 16:21:51,2015-10-01,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale+OE,$16.33,"-17,000","322,893",-5%,"-$277,663",+1,-1,+8,+15
+282,M,2015-08-24 16:05:48,2015-08-20,BSX,Abele John E,Director Emeritus,P - Purchase,$16.77,"+200,000","1,344,081",+17%,"+$3,354,330",-1,+7,+4,+8
+283,M,2015-08-20 16:05:48,2015-08-18,BSX,Abele John E,Director Emeritus,P - Purchase,$17.48,"+200,000","1,144,081",+21%,"+$3,496,410",-3,-3,-1,+2
+284,,2015-08-18 16:05:19,2015-08-17,BSX,Abele John E,Director Emeritus,P - Purchase,$17.50,"+100,000","944,081",+12%,"+$1,749,530",-1,-10,-3,0
+285,,2015-08-11 16:06:41,2015-08-10,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$17.41,"-3,413","10,074",-25%,"-$59,420",+1,+2,-3,-2
+286,,2015-07-07 16:08:39,2015-07-07,BSX,Prange Karen,"SVP, Pres, Uro, Women's Health",S - Sale,$17.66,"-17,456","18,430",-49%,"-$308,308",-2,-1,-4,+1
+287,D,2015-06-01 16:08:59,2015-05-29,BSX,Nanavaty Maulik,"SVP, Pres, Neuromodulation",S - Sale+OE,$18.52,"-71,558","134,534",-35%,"-$1,325,283",-1,-4,-4,-1
+288,D,2015-06-01 16:08:55,2015-05-28,BSX,Carruthers Wendy,"SVP, HR",S - Sale+OE,$17.91,"-42,281","43,584",-49%,"-$757,253",-1,-4,-4,-1
+289,,2015-05-19 16:19:41,2015-05-18,BSX,Johnson Kristina M,Dir,S - Sale,$18.10,"-16,301",0,-100%,"-$295,022",-1,-2,-3,-3
+290,,2015-05-19 16:19:39,2015-05-18,BSX,Mario Ernest,Dir,S - Sale,$18.09,"-50,000","211,032",-19%,"-$904,630",-1,-2,-3,-3
+291,,2015-05-15 08:29:24,2015-05-14,BSX,Sununu John E,Dir,S - Sale,$17.87,"-10,000","10,650",-48%,"-$178,700",0,0,-3,+1
+292,D,2015-05-12 16:09:07,2015-05-11,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale+OE,$17.49,"-8,735","13,487",-39%,"-$152,808",0,+5,+3,+9
+293,D,2015-05-06 16:47:35,2015-05-04,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale+OE,$17.91,"-67,964","45,049",-60%,"-$1,217,385",-1,0,+4,+9
+294,DM,2015-03-23 16:05:16,2015-03-19,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$17.94,"-46,085","90,414",-34%,"-$826,964",-1,-1,+2,-7
+295,D,2015-03-23 16:05:14,2015-03-20,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$18.00,"-18,050","25,600",-41%,"-$324,900",-1,-1,+2,-7
+296,,2015-03-16 16:23:57,2015-03-16,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$17.18,"-30,022","101,499",-23%,"-$515,634",+1,+4,+4,-2
+297,,2015-03-16 16:23:55,2015-03-13,BSX,Sorenson John Bradley,"SVP, Manuf, Sup Chn",S - Sale,$16.84,"-3,830","11,476",-25%,"-$64,497",+1,+4,+4,-2
+298,,2015-03-09 16:03:22,2015-03-09,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$16.54,"-2,561","25,600",-9%,"-$42,359",-1,0,+7,0
+299,,2015-03-04 16:17:58,2015-03-03,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$16.79,"-12,768","131,521",-9%,"-$214,359",+1,-2,+5,0
+300,,2015-03-04 16:17:56,2015-03-03,BSX,Prange Karen,"SVP, Pres, Uro, Women's Health",S - Sale,$16.79,"-2,492","18,430",-12%,"-$41,838",+1,-2,+5,0
+301,,2015-03-04 16:17:54,2015-03-03,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$16.79,"-8,983","28,161",-24%,"-$150,814",+1,-2,+5,0
+302,,2015-03-02 16:13:59,2015-02-27,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$16.80,"-1,819","131,521",-1%,"-$30,567",-2,-3,+6,-1
+303,,2015-03-02 16:13:58,2015-02-27,BSX,Prange Karen,"SVP, Pres, Uro, Women's Health",S - Sale,$16.80,"-1,307","18,430",-7%,"-$21,963",-2,-3,+6,-1
+304,,2015-03-02 16:13:56,2015-02-27,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$16.80,"-19,046","28,161",-40%,"-$320,055",-2,-3,+6,-1
+305,,2015-02-20 16:05:03,2015-02-18,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$16.35,"-19,136","69,738",-22%,"-$312,888",-1,+2,+8,+5
+306,,2015-02-20 16:05:00,2015-02-19,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$16.44,"-13,188","101,499",-11%,"-$216,865",-1,+2,+8,+5
+307,DM,2015-02-20 16:04:58,2015-02-18,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$16.46,"-11,958","28,161",-30%,"-$196,860",-1,+2,+8,+5
+308,,2015-02-11 16:06:13,2015-02-10,BSX,Fitzgerald Joseph Michael,"EVP, Pres, CRM",S - Sale,$14.66,"-61,208","153,273",-29%,"-$897,450",+1,+14,+16,+17
+309,,2015-02-10 16:09:43,2015-02-06,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$15.06,"-21,408","28,440",-43%,"-$322,360",-1,+1,+13,+18
+310,,2015-02-10 16:09:42,2015-02-09,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$14.66,"-5,000","28,161",-15%,"-$73,301",-1,+1,+13,+18
+311,,2015-01-20 16:06:54,2015-01-20,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$14.54,"-10,000","111,078",-8%,"-$145,407",0,+4,+16,+25
+312,,2015-01-09 16:15:00,2015-01-08,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$14.31,"-27,589","121,078",-19%,"-$394,782",0,-2,-1,+20
+313,,2015-01-09 16:14:59,2015-01-08,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$14.31,"-18,612","33,161",-36%,"-$266,327",0,-2,-1,+20
+314,,2015-01-06 16:17:44,2015-01-05,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$13.75,"-10,000","148,667",-6%,"-$137,500",+2,+6,+9,+30
+315,,2014-12-10 16:10:37,2014-12-10,BSX,Prange Karen,"SVP, Pres, Uro, Women's Health",S - Sale,$12.64,"-19,753","18,430",-52%,"-$249,607",+2,+3,+16,+40
+316,,2014-12-09 16:13:08,2014-12-08,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$12.90,"-5,000","38,161",-12%,"-$64,501",-3,-2,+12,+36
+317,,2014-12-02 16:17:17,2014-12-01,BSX,Mario Ernest,Dir,S - Sale,$12.96,"-10,000","261,032",-4%,"-$129,618",+1,0,+2,+41
+318,,2014-12-02 16:17:16,2014-11-28,BSX,Mahoney Michael F,"Pres, CEO",P - Purchase,$12.89,"+11,700","734,795",+2%,"+$150,832",+1,0,+2,+41
+319,,2014-11-12 16:03:48,2014-11-10,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale,$13.40,"-15,000","106,020",-12%,"-$201,000",0,+2,-4,+34
+320,,2014-11-12 16:03:46,2014-11-10,BSX,Ludwig Edward J,Dir,P - Purchase,$13.38,"+10,000","12,323",+430%,"+$133,836",0,+2,-4,+34
+321,,2014-11-07 16:06:07,2014-11-05,BSX,Sununu John E,Dir,S - Sale,$13.38,"-8,997","10,000",-47%,"-$120,380",+2,+1,-2,+32
+322,,2014-11-04 16:02:39,2014-11-03,BSX,Mario Ernest,Dir,S - Sale,$13.30,"-10,000","271,032",-4%,"-$132,998",+1,+1,-2,+30
+323,,2014-10-09 16:06:33,2014-10-08,BSX,Mario Ernest,Dir,S - Sale,$12.06,"-10,000","267,855",-4%,"-$120,600",0,-4,+12,+51
+324,,2014-09-03 16:11:25,2014-09-02,BSX,Mario Ernest,Dir,S - Sale,$12.60,"-10,000","277,855",-3%,"-$125,992",-2,0,-5,+35
+325,D,2014-08-15 16:20:18,2014-08-15,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$12.58,"-11,471","129,919",-8%,"-$144,305",+1,+2,-1,+20
+326,,2014-08-05 16:13:59,2014-08-01,BSX,Mario Ernest,Dir,S - Sale,$12.58,"-10,000","287,855",-3%,"-$125,817",0,-5,-3,+14
+327,D,2014-07-30 16:20:48,2014-07-30,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$12.97,-157,"43,161",0%,"-$2,036",-3,-2,-6,+11
+328,D,2014-07-16 16:11:21,2014-07-15,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$13.04,"-67,500","129,919",-34%,"-$879,998",-3,0,-3,+13
+329,,2014-07-02 16:16:20,2014-07-01,BSX,Mario Ernest,Dir,S - Sale,$12.95,"-10,000","297,855",-3%,"-$129,468",0,-1,-3,+2
+330,D,2014-06-17 16:06:34,2014-06-16,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$13.02,"-13,500","129,918",-9%,"-$175,829",0,0,+2,+3
+331,,2014-06-03 17:27:37,2014-06-02,BSX,Mario Ernest,Dir,S - Sale,$12.88,"-10,000","307,855",-3%,"-$128,790",+1,-2,0,-1
+332,D,2014-05-16 16:16:19,2014-05-15,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$12.76,"-13,500","129,918",-9%,"-$172,206",0,-1,+1,+5
+333,,2014-05-02 16:10:51,2014-05-01,BSX,Mario Ernest,Dir,S - Sale,$12.58,"-10,000","317,855",-3%,"-$125,836",+2,0,+1,+3
+334,D,2014-04-17 16:25:17,2014-04-15,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$13.25,"-13,500","129,918",-9%,"-$178,866",+1,+1,-6,-16
+335,,2014-04-02 16:06:37,2014-04-01,BSX,Mario Ernest,Dir,S - Sale,$13.55,"-10,000","327,855",-3%,"-$135,527",+1,-6,-8,-14
+336,D,2014-03-18 16:08:39,2014-03-17,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$13.05,"-13,500","129,921",-9%,"-$176,110",0,-3,+1,-6
+337,,2014-03-06 16:07:34,2014-03-06,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$13.44,"-7,281","129,919",-5%,"-$97,873",+1,-5,+2,-8
+338,,2014-03-06 16:07:33,2014-03-06,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$13.44,"-5,316","43,161",-11%,"-$71,459",+1,-5,+2,-8
+339,,2014-03-05 16:08:16,2014-03-03,BSX,Mario Ernest,Dir,S - Sale,$12.98,"-10,000","337,855",-3%,"-$129,755",+1,-2,+2,-6
+340,,2014-03-05 16:08:14,2014-03-03,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$12.97,"-3,362","137,200",-2%,"-$43,605",+1,-2,+2,-6
+341,,2014-03-05 16:08:12,2014-03-03,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$12.97,"-4,829","48,477",-9%,"-$62,633",+1,-2,+2,-6
+342,D,2014-03-04 16:44:57,2014-02-28,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$13.20,"-10,000","120,165",-8%,"-$131,979",+1,+2,+3,-4
+343,D,2014-02-28 16:16:21,2014-02-27,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$13.29,"-3,166","133,281",-2%,"-$42,086",-1,+3,+1,-5
+344,D,2014-02-28 16:16:19,2014-02-27,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale+OE,$13.29,"-2,057","47,990",-4%,"-$27,344",-1,+3,+1,-5
+345,,2014-02-25 16:45:48,2014-02-21,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$13.19,"-30,588","22,626",-57%,"-$403,523",0,-3,-1,-7
+346,,2014-02-25 16:45:46,2014-02-21,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$13.19,"-8,000","60,244",-12%,"-$105,530",0,-3,-1,-7
+347,,2014-02-21 16:28:16,2014-02-21,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale,$13.22,"-3,222","86,733",-4%,"-$42,579",0,+1,-2,-4
+348,,2014-02-21 16:26:10,2014-02-21,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$13.22,"-3,199","25,600",-11%,"-$42,275",0,+1,-2,-4
+349,,2014-02-21 16:18:34,2014-02-19,BSX,Pucel Kenneth,"EVP, Glob Ops, Qual, Tech",S - Sale,$13.32,"-78,000","59,000",-57%,"-$1,038,820",0,+1,-2,-4
+350,,2014-02-20 09:15:21,2014-02-14,BSX,Sununu John E,Dir,S - Sale,$13.17,"-29,561","18,997",-61%,"-$389,318",+1,+2,0,-4
+351,D,2014-02-19 20:52:47,2014-02-18,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$13.30,"-13,500","89,955",-13%,"-$179,550",+1,+2,+1,-3
+352,,2014-02-14 17:35:32,2014-02-13,BSX,Johnson Kristina M,Dir,S - Sale,$13.01,"-18,000","3,124",-85%,"-$234,106",+1,-1,-2,-6
+353,,2014-02-07 16:03:42,2014-02-06,BSX,Mario Ernest,Dir,S - Sale,$12.80,"-17,104","347,855",-5%,"-$218,935",-1,-1,+3,-7
+354,,2014-02-04 16:20:17,2014-02-03,BSX,Mario Ernest,Dir,S - Sale,$13.19,"-10,000","364,959",-3%,"-$131,884",-1,0,+4,0
+355,D,2014-01-17 16:22:42,2014-01-15,BSX,Phalen Michael P.,"EVP, Pres, MedSurg",S - Sale+OE,$13.19,"-13,500","86,168",-14%,"-$178,100",+3,-1,-1,-6
+356,,2014-01-08 16:04:17,2014-01-06,BSX,Mario Ernest,Dir,S - Sale,$12.50,"-10,000","374,959",-3%,"-$125,000",0,+3,0,+2
+357,,2013-12-30 16:19:39,2013-12-26,BSX,Mario Ernest,Dir,S - Sale,$12.06,"-10,000","384,959",-3%,"-$120,600",0,+3,+10,+6
+358,ADM,2013-12-04 17:28:32,2013-11-08,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale+OE,$11.91,"-26,000","59,190",-31%,"-$309,530",0,+2,+5,+16
+359,,2013-12-02 16:11:35,2013-11-27,BSX,Capello Jeffrey D,"EVP, CFO",S - Sale,$11.70,"-108,595",447,-100%,"-$1,270,583",+2,+2,+3,+12
+360,D,2013-11-27 16:35:45,2013-11-26,BSX,Capello Jeffrey D,"EVP, CFO",S - Sale+OE,$11.82,"-85,106","109,042",-44%,"-$1,005,698",-1,-3,+3,+10
+361,,2013-11-26 16:13:21,2013-11-25,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$12.05,"-33,334","45,147",-42%,"-$401,675",0,+1,+4,+11
+362,DM,2013-11-26 16:04:03,2013-11-22,BSX,Capello Jeffrey D,"EVP, CFO",S - Sale+OE,$12.02,"-392,504","147,447",-73%,"-$4,718,158",0,+1,+4,+11
+363,D,2013-11-25 16:43:49,2013-11-21,BSX,Dawkins Keith D,"EVP, Global Chief Med. Officer",S - Sale+OE,$12.00,"-138,850","81,802",-63%,"-$1,666,339",-1,-2,+1,+10
+364,,2013-11-21 16:03:39,2013-11-19,BSX,Pratt Timothy A.,"EVP, GC, Chief Admin Officer",S - Sale,$11.94,"-20,132","119,011",-14%,"-$240,376",+1,-2,-1,+8
+365,M,2013-11-12 16:51:11,2013-11-08,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$11.91,"-26,000","40,835",-39%,"-$309,530",0,-3,-6,+7
+366,,2013-11-12 16:19:50,2013-11-08,BSX,Mario Ernest,Dir,S - Sale,$11.73,"-135,645","394,959",-26%,"-$1,591,360",0,-3,-6,+7
+367,,2013-11-05 16:13:42,2013-11-01,BSX,Fitzgerald Joseph Michael,"SVP, Pres, CRM",S - Sale,$11.69,"-9,236","152,912",-6%,"-$107,982",-1,0,-6,+6
+368,D,2013-09-03 19:25:41,2013-08-29,BSX,Capello Jeffrey D,"EVP, CFO",S - Sale+OE,$10.68,"-525,000","147,447",-78%,"-$5,607,309",0,+10,+8,+22
+369,,2013-08-19 17:01:59,2013-08-16,BSX,Fitzgerald Joseph Michael,"SVP, Pres, CRM",S - Sale,$11.02,"-9,202","162,197",-5%,"-$101,420",0,+1,+8,+22
+370,,2013-08-16 16:12:51,2013-08-14,BSX,Ballinger Kevin J.,"SVP, Pres, Interven Cardio",S - Sale,$11.28,"-38,171","73,519",-34%,"-$430,630",-1,+1,+8,+20
+371,,2013-06-04 17:02:08,2013-05-31,BSX,Mirviss Jeffrey B.,"SVP, Pres, Periph Intervent",S - Sale,$9.37,"-10,941","64,604",-14%,"-$102,467",-2,+3,0,+26
+372,,2013-06-03 18:30:36,2013-05-30,BSX,Carruthers Wendy,"SVP, HR",S - Sale,$9.16,"-25,001","19,158",-57%,"-$228,939",-3,-1,0,+25
+373,,2013-05-31 17:06:43,2013-05-29,BSX,Connors Nelda J,Dir,S - Sale,$9.17,"-24,116",0,-100%,"-$221,144",+2,-1,0,+27
+374,D,2013-05-08 17:39:17,2013-05-06,BSX,Mario Ernest,Dir,P - Purchase,$7.76,"+30,000","530,604",+6%,"+$232,800",+6,+11,+17,+54
+375,,2012-11-15 16:58:05,2012-11-13,BSX,Nicholas Nj Jr,Dir,P - Purchase,$5.28,"+20,000","518,475",+4%,"+$105,596",+1,+8,+11,+78
+376,,2012-11-13 06:05:44,2012-11-09,BSX,Nicholas Nj Jr,Dir,P - Purchase,$5.17,"+25,000","498,475",+5%,"+$129,305",0,0,+9,+75
+377,,2012-08-08 16:57:40,2012-08-06,BSX,Mario Ernest,Dir,P - Purchase,$5.29,"+32,000","500,604",+7%,"+$169,280",+2,+2,+3,+44
+378,,2012-08-02 16:56:41,2012-07-31,BSX,Mahoney Michael F,Pres,P - Purchase,$5.19,"+22,000","22,000",New,"+$114,134",+4,+5,+6,+45
+379,,2012-08-02 16:56:35,2012-07-31,BSX,Kucheman William,CEO,P - Purchase,$5.21,"+10,000","180,828",+6%,"+$52,089",+4,+5,+6,+45
+380,,2012-02-27 19:21:05,2012-02-23,BSX,Mario Ernest,Dir,P - Purchase,$5.91,"+10,000","468,604",+2%,"+$59,100",+1,-4,-3,-14
+381,,2012-02-23 17:20:39,2012-02-22,BSX,Mario Ernest,Dir,P - Purchase,$5.93,"+10,000","458,604",+2%,"+$59,300",+6,+5,+2,-5
+382,,2012-02-22 18:10:53,2012-02-21,BSX,Mario Ernest,Dir,P - Purchase,$6.12,"+20,000","448,604",+5%,"+$122,400",0,+7,+2,-5
+383,,2011-12-01 16:53:15,2011-11-29,BSX,Nicholas Nj Jr,Dir,P - Purchase,$5.56,"+10,000","473,475",+2%,"+$55,600",-7,-5,-9,-5
+384,,2011-11-30 16:37:02,2011-11-28,BSX,Mario Ernest,Dir,P - Purchase,$5.40,"+100,000","428,604",+30%,"+$540,000",0,-5,-10,-3
+385,,2011-11-30 16:37:00,2011-11-28,BSX,Bartlett Katharine T,Dir,P - Purchase,$5.42,"+8,000","29,708",+37%,"+$43,360",0,-5,-10,-3
+386,,2011-11-23 17:23:20,2011-11-21,BSX,Mario Ernest,Dir,P - Purchase,$5.30,"+25,000","328,604",+8%,"+$132,500",-1,+11,-2,+11
+387,,2011-11-15 17:13:06,2011-11-14,BSX,Connors Nelda J,Dir,S - Sale,$5.84,"-2,500",0,-100%,"-$14,600",-4,-9,-12,+5
+388,,2011-11-08 16:35:57,2011-11-04,BSX,Pierce David A,"SVP, Pres, Endoscopy",S - Sale,$5.77,"-15,869",4,-100%,"-$91,548",-1,0,-4,+6
+389,,2011-10-28 16:46:20,2011-10-26,BSX,Mario Ernest,Dir,P - Purchase,$5.45,"+25,000","303,604",+9%,"+$136,250",+1,+1,-7,+8
+390,,2011-10-27 17:24:21,2011-10-25,BSX,Mario Ernest,Dir,P - Purchase,$5.50,"+25,000","278,604",+10%,"+$137,500",+3,+1,-7,+12
+391,,2011-08-15 16:14:37,2011-08-11,BSX,Pedersen John B.,"Pres,  Uro, Women's Health",S - Sale,$5.97,"-2,061","13,932",-13%,"-$12,304",-2,-6,-4,-9
+392,,2011-08-05 16:44:09,2011-08-03,BSX,Mario Ernest,Dir,P - Purchase,$6.70,+100,"253,604",0%,+$670,-8,-2,-1,-7
+393,,2011-08-04 16:53:29,2011-08-02,BSX,Mario Ernest,Dir,P - Purchase,$6.82,"+100,000","253,504",+65%,"+$682,230",+2,-7,+5,-8
+394,,2011-05-25 16:21:15,2011-05-23,BSX,Nicholas Nj Jr,Dir,P - Purchase,$6.57,"+10,000","463,475",+2%,"+$65,700",+1,+2,+3,-24
+395,,2011-05-18 16:34:22,2011-05-17,BSX,Mario Ernest,Dir,P - Purchase,$6.72,+272,"153,504",0%,"+$1,828",+1,-2,0,-14
+396,,2011-05-17 16:18:14,2011-05-13,BSX,Nicholas Nj Jr,Dir,P - Purchase,$6.78,"+20,000","453,475",+5%,"+$135,500",0,-4,+1,-14
+397,,2011-05-17 16:18:11,2011-05-13,BSX,Mario Ernest,Dir,P - Purchase,$6.72,"+2,228","153,232",+1%,"+$14,972",0,-4,+1,-14
+398,,2011-05-04 17:37:48,2011-05-02,BSX,Pedersen John B.,"Pres,  Uro, Women's Health",S - Sale,$7.64,"-4,081","13,542",-23%,"-$31,183",-2,-9,-10,-24
+399,,2011-02-28 19:48:37,2010-04-29,BSX,Connors Nelda J,Dir,P - Purchase,$7.00,"+2,500","2,500",New,"+$17,500",+5,+5,+2,-11
+400,A,2011-02-28 17:59:01,2010-08-06,BSX,Abele John E,Dir,S - Sale,$5.74,"-50,000","13,466,918",0%,"-$286,875",+5,+5,+2,-11
+401,,2011-02-09 16:12:40,2011-02-07,BSX,Mario Ernest,Dir,P - Purchase,$6.94,"+50,000","151,004",+50%,"+$346,990",0,+1,+8,-8
+402,D,2010-11-17 16:02:38,2010-11-15,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$6.74,"-2,963","58,595",-5%,"-$19,971",0,0,+10,+4
+403,,2010-11-16 16:07:11,2010-11-12,BSX,Pedersen John B.,"Pres,  Uro, Women's Health",S - Sale,$6.77,"-3,502","12,210",-22%,"-$23,716",+1,+2,+7,+5
+404,,2010-11-05 16:17:04,2010-11-03,BSX,Nicholas Peter M,Dir,S - Sale,$6.43,"-25,000","15,006,234",0%,"-$160,678",-2,-1,-4,+12
+405,,2010-11-04 16:36:05,2010-11-04,BSX,Mario Ernest,Dir,P - Purchase,$6.44,"+10,000","101,004",+11%,"+$64,393",+7,+5,+5,+17
+406,,2010-11-04 16:35:00,2010-11-02,BSX,Nicholas Peter M,Dir,S - Sale,$6.40,"-25,000","15,031,234",0%,"-$159,963",+7,+5,+5,+17
+407,,2010-11-03 16:24:04,2010-11-01,BSX,Nicholas Peter M,Dir,S - Sale,$6.36,"-25,000","15,056,234",0%,"-$159,083",0,+4,+3,+20
+408,,2010-11-02 16:02:45,2010-10-29,BSX,Nicholas Peter M,Dir,S - Sale,$6.34,"-25,000","15,081,234",0%,"-$158,560",0,+6,+1,+21
+409,,2010-11-01 16:13:33,2010-10-28,BSX,Nicholas Peter M,Dir,S - Sale,$6.35,"-25,000","15,106,234",0%,"-$158,698",+2,+9,+2,+22
+410,D,2010-10-29 16:26:17,2010-10-27,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.28,"-25,000","15,131,234",0%,"-$156,963",-1,+2,+2,+17
+411,D,2010-10-28 16:07:51,2010-10-26,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.29,"-25,000","15,206,234",0%,"-$157,343",0,+1,+3,+17
+412,,2010-10-27 16:31:46,2010-10-25,BSX,Nicholas Peter M,Dir,S - Sale,$6.33,"-25,000","15,281,234",0%,"-$158,158",+1,+2,+7,+16
+413,D,2010-10-26 16:22:44,2010-10-22,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.32,"-25,000","15,306,234",0%,"-$158,048",0,0,+4,+16
+414,D,2010-10-25 16:10:40,2010-10-21,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.36,"-25,000","15,381,234",0%,"-$158,908",0,+1,+6,+16
+415,D,2010-10-22 16:13:20,2010-10-20,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.47,"-25,000","15,456,234",0%,"-$161,800",0,+1,+7,+14
+416,D,2010-10-21 16:33:51,2010-10-19,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.07,"-25,000","15,531,234",0%,"-$151,788",-1,0,+3,+12
+417,D,2010-10-20 16:59:02,2010-10-18,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.16,"-25,000","15,731,234",0%,"-$153,993",+1,0,+4,+12
+418,D,2010-10-19 16:44:49,2010-10-15,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$6.26,"-2,963","58,442",-5%,"-$18,548",+6,+6,+9,+16
+419,D,2010-10-19 16:43:44,2010-10-15,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.18,"-25,000","15,931,234",0%,"-$154,390",+6,+6,+9,+16
+420,D,2010-10-18 16:29:46,2010-10-14,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.15,"-25,000","16,006,234",0%,"-$153,833",-4,+2,+8,+14
+421,D,2010-10-15 16:50:28,2010-10-13,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.21,"-25,000","16,081,234",0%,"-$155,365",+1,+3,+10,+16
+422,D,2010-10-14 16:30:51,2010-10-12,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.12,"-25,000","16,281,234",0%,"-$153,100",0,+2,+11,+13
+423,,2010-10-13 17:11:19,2010-10-11,BSX,Nicholas Peter M,Dir,S - Sale,$6.12,"-25,000","16,531,234",0%,"-$153,113",-1,-4,+10,+15
+424,D,2010-10-13 16:48:51,2010-10-08,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.16,"-25,000","16,556,234",0%,"-$153,958",-1,-4,+10,+15
+425,D,2010-10-12 16:06:10,2010-10-07,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.13,"-25,000","16,631,234",0%,"-$153,180",+1,+1,+9,+18
+426,D,2010-10-08 16:16:33,2010-10-06,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.12,"-25,000","16,706,234",0%,"-$153,058",0,0,+13,+21
+427,D,2010-10-07 16:28:21,2010-10-05,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.14,"-25,000","16,781,234",0%,"-$153,480",0,+1,+5,+17
+428,D,2010-10-06 16:32:55,2010-10-04,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.07,"-25,000","16,931,234",0%,"-$151,688",0,0,+5,+15
+429,,2010-10-05 16:08:21,2010-10-01,BSX,Nicholas Peter M,Dir,S - Sale,$6.10,"-25,000","17,081,234",0%,"-$152,388",-2,-2,+3,+16
+430,,2010-10-04 16:08:32,2010-09-30,BSX,Nicholas Peter M,Dir,S - Sale,$6.13,"-25,000","17,106,234",0%,"-$153,153",+3,+1,+4,+20
+431,D,2010-10-04 16:08:07,2010-09-30,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$6.20,"-5,926","58,442",-9%,"-$36,741",+3,+1,+4,+20
+432,D,2010-10-01 16:16:51,2010-09-29,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.08,"-25,000","17,131,234",0%,"-$151,933",0,+1,+5,+18
+433,,2010-09-30 16:08:22,2010-09-28,BSX,Nicholas Peter M,Dir,S - Sale,$5.91,"-25,000","17,281,234",0%,"-$147,810",-1,0,+4,+21
+434,,2010-09-29 16:07:20,2010-09-27,BSX,Nicholas Peter M,Dir,S - Sale,$5.72,"-25,000","17,306,234",0%,"-$142,875",0,+2,+3,+19
+435,D,2010-09-28 16:10:56,2010-09-24,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.69,"-25,000","17,331,234",0%,"-$142,330",-1,-2,+2,+19
+436,,2010-09-27 16:16:24,2010-09-23,BSX,Nicholas Peter M,Dir,S - Sale,$5.58,"-25,000","17,481,234",0%,"-$139,380",+8,+6,+10,+26
+437,D,2010-09-24 16:34:21,2010-09-22,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.57,"-25,000","17,506,234",0%,"-$139,223",0,+7,+10,+24
+438,,2010-09-23 16:16:53,2010-09-21,BSX,Nicholas Peter M,Dir,S - Sale,$5.66,"-25,000","17,656,234",0%,"-$141,435",+4,+10,+14,+26
+439,D,2010-09-22 16:29:41,2010-09-20,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.47,"-25,000","17,681,234",0%,"-$136,713",-2,+10,+12,+24
+440,D,2010-09-21 16:09:58,2010-09-17,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.38,"-25,000","17,831,234",0%,"-$134,548",+1,+3,+7,+30
+441,,2010-09-20 16:37:42,2010-09-16,BSX,Nicholas Peter M,Dir,S - Sale,$5.43,"-25,000","17,981,234",0%,"-$135,655",+1,+4,+12,+31
+442,,2010-09-17 17:00:41,2010-09-15,BSX,Nicholas Peter M,Dir,S - Sale,$5.37,"-25,000","18,006,234",0%,"-$134,338",+2,+2,+13,+31
+443,,2010-09-16 16:12:22,2010-09-14,BSX,Nicholas Peter M,Dir,S - Sale,$5.26,"-25,000","18,031,234",0%,"-$131,588",-1,+3,+13,+27
+444,,2010-09-15 17:09:25,2010-09-13,BSX,Nicholas Peter M,Dir,S - Sale,$5.32,"-25,000","18,056,234",0%,"-$133,000",+1,+4,+15,+32
+445,D,2010-09-14 16:05:47,2010-09-10,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.33,"-25,000","18,081,234",0%,"-$133,293",+1,+4,+15,+38
+446,,2010-09-13 16:33:35,2010-09-09,BSX,Nicholas Peter M,Dir,S - Sale,$5.27,"-25,000","18,231,234",0%,"-$131,723",+2,+3,+17,+43
+447,D,2010-09-10 16:14:58,2010-09-08,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.14,"-25,000","18,256,234",0%,"-$128,623",-2,+2,+15,+40
+448,,2010-09-09 16:59:42,2010-09-07,BSX,Nicholas Peter M,Dir,S - Sale,$5.22,"-25,000","18,406,234",0%,"-$130,380",+1,+2,+17,+48
+449,D,2010-09-08 16:25:51,2010-09-03,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.32,"-25,000","18,431,234",0%,"-$132,900",+3,+3,+19,+48
+450,D,2010-09-07 17:35:58,2010-09-02,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.24,"-25,000","18,581,234",0%,"-$131,053",-1,+1,+19,+42
+451,,2010-09-03 08:13:33,2010-09-01,BSX,Nicholas Peter M,Dir,S - Sale,$5.19,"-25,000","18,731,234",0%,"-$129,673",+1,0,+15,+42
+452,,2010-09-02 16:12:48,2010-08-31,BSX,Nicholas Peter M,Dir,S - Sale,$5.28,"-25,000","18,756,234",0%,"-$131,973",+1,0,+15,+44
+453,,2010-09-01 16:53:45,2010-08-30,BSX,Nicholas Peter M,Dir,S - Sale,$5.43,"-25,000","18,781,234",0%,"-$135,765",+3,0,+19,+43
+454,D,2010-08-31 16:03:58,2010-08-27,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.45,"-25,000","18,806,234",0%,"-$136,185",-1,0,+17,+43
+455,D,2010-08-30 17:14:41,2010-08-26,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.36,"-25,000","18,831,234",0%,"-$134,063",-4,-1,+14,+32
+456,,2010-08-27 16:10:16,2010-08-25,BSX,Nicholas Peter M,Dir,S - Sale,$5.44,"-25,000","18,856,234",0%,"-$136,098",-2,-3,+4,+31
+457,,2010-08-26 16:28:40,2010-08-24,BSX,Nicholas Peter M,Dir,S - Sale,$5.47,"-25,000","18,881,234",0%,"-$136,705",+2,-5,+6,+30
+458,,2010-08-25 16:13:40,2010-08-23,BSX,Nicholas Peter M,Dir,S - Sale,$5.68,"-25,000","18,906,234",0%,"-$141,890",-1,-5,+1,+29
+459,D,2010-08-24 16:16:19,2010-08-20,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.67,"-25,000","18,931,234",0%,"-$141,648",-1,-2,+2,+32
+460,,2010-08-23 17:34:46,2010-08-19,BSX,Nicholas Peter M,Dir,S - Sale,$5.85,"-25,000","18,956,234",0%,"-$146,335",-2,-2,-1,+34
+461,D,2010-08-20 16:08:15,2010-08-18,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.94,"-25,000","18,981,234",0%,"-$148,568",-1,-5,-3,+29
+462,,2010-08-19 16:11:01,2010-08-17,BSX,Nicholas Peter M,Dir,S - Sale,$5.52,"-25,000","19,006,234",0%,"-$137,910",-3,-7,-7,+21
+463,D,2010-08-19 16:10:58,2010-08-17,BSX,Abele John E,Dir,S - Sale+OE,$5.52,"-4,200","13,913,816",0%,"-$23,201",-3,-7,-7,+21
+464,,2010-08-18 16:01:58,2010-08-16,BSX,Nicholas Peter M,Dir,S - Sale,$5.45,"-25,000","19,031,234",0%,"-$136,360",-2,-8,-9,+18
+465,,2010-08-18 16:01:54,2010-08-16,BSX,Abele John E,Dir,S - Sale,$5.45,"-50,000","13,918,016",0%,"-$272,450",-2,-8,-9,+18
+466,,2010-08-17 17:07:43,2010-08-13,BSX,Nicholas Peter M,Dir,S - Sale,$5.50,"-25,000","19,056,234",0%,"-$137,540",+3,-3,-7,+21
+467,,2010-08-16 16:07:50,2010-08-12,BSX,Abele John E,Dir,S - Sale,$5.55,"-50,000","14,018,016",0%,"-$277,330",+6,+4,-3,+26
+468,D,2010-08-16 16:07:48,2010-08-12,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.56,"-25,000","19,081,234",0%,"-$139,045",+6,+4,-3,+26
+469,,2010-08-13 16:07:27,2010-08-11,BSX,Abele John E,Dir,S - Sale,$5.64,"-50,000","14,068,016",0%,"-$282,245",0,+7,-4,+26
+470,,2010-08-13 16:07:27,2010-08-11,BSX,Nicholas Peter M,Dir,S - Sale,$5.65,"-25,000","19,106,234",0%,"-$141,333",0,+7,-4,+26
+471,,2010-08-12 16:23:35,2010-08-10,BSX,Abele John E,Dir,S - Sale,$5.83,"-50,000","14,118,016",0%,"-$291,585",-1,+8,-3,+24
+472,,2010-08-12 16:23:33,2010-08-10,BSX,Nicholas Peter M,Dir,S - Sale,$5.82,"-25,000","19,131,234",0%,"-$145,478",-1,+8,-3,+24
+473,D,2010-08-11 16:04:43,2010-08-09,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.82,"-25,000","19,156,234",0%,"-$145,450",-1,+4,-5,+24
+474,,2010-08-11 16:04:41,2010-08-09,BSX,Abele John E,Dir,S - Sale,$5.83,"-50,000","14,168,016",0%,"-$291,375",-1,+4,-5,+24
+475,D,2010-08-10 16:31:44,2010-08-06,BSX,Abele John E,Dir,S - Sale+OE,$5.74,"-50,000","14,218,016",0%,"-$286,875",-5,-6,-12,+19
+476,,2010-08-10 16:31:38,2010-08-06,BSX,Nicholas Peter M,Dir,S - Sale,$5.74,"-25,000","19,181,234",0%,"-$143,400",-5,-6,-12,+19
+477,,2010-08-09 16:04:14,2010-08-05,BSX,Abele John E,Dir,S - Sale,$5.78,"-50,000","14,268,016",0%,"-$289,185",-1,-7,-12,+19
+478,,2010-08-09 16:04:14,2010-08-05,BSX,Nicholas Peter M,Dir,S - Sale,$5.79,"-25,000","19,206,234",0%,"-$144,690",-1,-7,-12,+19
+479,,2010-08-06 16:18:46,2010-08-04,BSX,Abele John E,Dir,S - Sale,$5.68,"-50,000","14,318,016",0%,"-$284,160",+1,-5,-8,+21
+480,,2010-08-06 16:18:45,2010-08-04,BSX,Nicholas Peter M,Dir,S - Sale,$5.66,"-25,000","19,231,234",0%,"-$141,380",+1,-5,-8,+21
+481,D,2010-08-05 15:59:35,2010-08-03,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.56,"-25,000","19,256,234",0%,"-$139,033",-1,-3,-8,+19
+482,,2010-08-05 15:59:32,2010-08-03,BSX,Abele John E,Dir,S - Sale,$5.56,"-50,000","14,368,016",0%,"-$277,775",-1,-3,-8,+19
+483,D,2010-08-04 16:07:34,2010-08-02,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.59,"-25,000","19,281,234",0%,"-$139,648",-1,+2,-11,+25
+484,,2010-08-04 16:07:25,2010-08-02,BSX,Abele John E,Dir,S - Sale,$5.59,"-50,000","14,418,016",0%,"-$279,620",-1,+2,-11,+25
+485,,2010-08-03 16:13:15,2010-07-30,BSX,Abele John E,Dir,S - Sale,$5.59,"-50,000","14,468,016",0%,"-$279,655",+4,+6,-6,+26
+486,D,2010-08-03 16:13:12,2010-07-30,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.59,"-25,000","19,306,234",0%,"-$139,798",+4,+6,-6,+26
+487,,2010-08-02 16:06:57,2010-07-29,BSX,Nicholas Peter M,Dir,S - Sale,$5.62,"-25,000","19,331,234",0%,"-$140,583",0,+5,-3,+26
+488,D,2010-08-02 16:06:50,2010-07-29,BSX,Abele John E,Dir,S - Sale+OE,$5.63,"-50,000","14,518,016",0%,"-$281,430",0,+5,-3,+26
+489,,2010-07-30 16:41:59,2010-07-28,BSX,Nicholas Peter M,Dir,S - Sale,$5.80,"-25,000","19,356,234",0%,"-$144,945",-1,+2,-2,+28
+490,,2010-07-30 16:41:56,2010-07-28,BSX,Abele John E,Dir,S - Sale,$5.79,"-50,000","14,568,016",0%,"-$289,605",-1,+2,-2,+28
+491,,2010-07-29 16:04:45,2010-07-27,BSX,Abele John E,Dir,S - Sale,$5.93,"-50,000","14,618,016",0%,"-$296,400",0,+3,-4,+27
+492,D,2010-07-29 16:04:43,2010-07-27,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.93,"-25,000","19,381,234",0%,"-$148,330",0,+3,-4,+27
+493,,2010-07-28 16:04:00,2010-07-26,BSX,Abele John E,Dir,S - Sale,$5.94,"-75,000","14,668,016",-1%,"-$445,743",-2,-2,-4,+23
+494,,2010-07-28 16:04:00,2010-07-26,BSX,Nicholas Peter M,Dir,S - Sale,$5.95,"-25,000","19,406,234",0%,"-$148,703",-2,-2,-4,+23
+495,,2010-07-27 18:10:39,2010-07-23,BSX,Nicholas Peter M,Dir,S - Sale,$5.93,"-25,000","19,431,234",0%,"-$148,358",-4,-6,-7,+21
+496,D,2010-07-27 18:10:39,2010-07-23,BSX,Abele John E,Dir,S - Sale+OE,$5.93,"-62,749","14,743,016",0%,"-$372,321",-4,-6,-7,+21
+497,,2010-07-26 16:18:44,2010-07-22,BSX,Nicholas Peter M,Dir,S - Sale,$6.04,"-25,000","19,456,234",0%,"-$151,110",-1,-6,-5,+20
+498,,2010-07-26 16:18:40,2010-07-22,BSX,Abele John E,Dir,S - Sale,$6.03,"-75,000","14,805,765",-1%,"-$452,515",-1,-6,-5,+20
+499,,2010-07-23 16:46:01,2010-07-21,BSX,Nicholas Peter M,Dir,S - Sale,$6.04,"-25,000","19,481,234",0%,"-$150,978",0,-6,-4,+22
+500,,2010-07-23 16:45:59,2010-07-21,BSX,Abele John E,Dir,S - Sale,$6.03,"-75,000","14,880,765",-1%,"-$451,893",0,-6,-4,+22
+501,,2010-07-22 16:08:26,2010-07-20,BSX,Abele John E,Dir,S - Sale,$6.12,"-75,000","14,955,765",0%,"-$459,003",0,-4,-2,+20
+502,D,2010-07-22 16:08:23,2010-07-20,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.10,"-25,000","19,506,234",0%,"-$152,598",0,-4,-2,+20
+503,D,2010-07-21 16:35:59,2010-07-19,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.11,"-25,000","19,531,234",0%,"-$152,718",-1,-1,0,+22
+504,,2010-07-21 16:35:56,2010-07-19,BSX,Abele John E,Dir,S - Sale,$6.10,"-75,000","15,030,765",0%,"-$457,438",-1,-1,0,+22
+505,D,2010-07-20 16:18:23,2010-07-16,BSX,Abele John E,Dir,S - Sale+OE,$6.24,"-75,000","15,105,765",0%,"-$467,725",-5,-5,-8,+21
+506,,2010-07-20 16:18:23,2010-07-16,BSX,Nicholas Peter M,Dir,S - Sale,$6.22,"-25,000","19,556,234",0%,"-$155,510",-5,-5,-8,+21
+507,,2010-07-19 16:05:41,2010-07-15,BSX,Nicholas Peter M,Dir,S - Sale,$6.49,"-25,000","19,581,234",0%,"-$162,360",+3,-3,-10,+22
+508,,2010-07-19 16:05:39,2010-07-15,BSX,Abele John E,Dir,S - Sale,$6.50,"-75,000","15,180,765",0%,"-$487,715",+3,-3,-10,+22
+509,D,2010-07-19 16:05:37,2010-07-15,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$6.49,"-2,963","58,164",-5%,"-$19,230",+3,-3,-10,+22
+510,D,2010-07-16 16:15:51,2010-07-14,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.48,"-25,000","19,606,234",0%,"-$162,123",0,-3,-10,+20
+511,,2010-07-16 16:15:49,2010-07-14,BSX,Abele John E,Dir,S - Sale,$6.49,"-75,000","15,255,765",0%,"-$486,503",0,-3,-10,+20
+512,D,2010-07-15 16:27:11,2010-07-13,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.46,"-25,000","19,631,234",0%,"-$161,525",-7,-10,-16,+13
+513,,2010-07-15 16:27:05,2010-07-13,BSX,Abele John E,Dir,S - Sale,$6.46,"-75,000","15,330,765",0%,"-$484,850",-7,-10,-16,+13
+514,,2010-07-14 16:16:42,2010-07-12,BSX,Abele John E,Dir,S - Sale,$6.42,"-75,000","15,405,765",0%,"-$481,770",+1,-4,-15,+13
+515,,2010-07-14 16:16:38,2010-07-12,BSX,Nicholas Peter M,Dir,S - Sale,$6.42,"-25,000","19,656,234",0%,"-$160,485",+1,-4,-15,+13
+516,,2010-07-13 16:29:23,2010-07-09,BSX,Abele John E,Dir,S - Sale,$6.41,"-75,000","15,480,765",0%,"-$480,418",0,-6,-10,+12
+517,D,2010-07-13 16:29:22,2010-07-09,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.40,"-25,000","19,681,234",0%,"-$160,113",0,-6,-10,+12
+518,D,2010-07-12 16:40:44,2010-07-08,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.25,"-25,000","19,706,234",0%,"-$156,178",+1,-5,-9,+15
+519,,2010-07-12 16:40:42,2010-07-08,BSX,Abele John E,Dir,S - Sale,$6.26,"-75,000","1,641,949",-4%,"-$469,298",+1,-5,-9,+15
+520,,2010-07-09 16:45:37,2010-07-07,BSX,Nicholas Peter M,Dir,S - Sale,$6.07,"-25,000","19,731,234",0%,"-$151,708",0,+2,-10,+17
+521,,2010-07-09 16:45:33,2010-07-07,BSX,Abele John E,Dir,S - Sale,$6.10,"-75,000","15,630,765",0%,"-$457,353",0,+2,-10,+17
+522,D,2010-07-08 17:05:18,2010-07-06,BSX,Abele John E,Dir,S - Sale+OE,$6.11,"-75,000","15,705,765",0%,"-$458,100",+1,+2,-11,+18
+523,,2010-07-08 17:05:18,2010-07-06,BSX,Nicholas Peter M,Dir,S - Sale,$6.12,"-25,000","19,756,234",0%,"-$152,975",+1,+2,-11,+18
+524,,2010-07-07 16:09:20,2010-07-02,BSX,Nicholas Peter M,Dir,S - Sale,$6.07,"-25,000","19,781,234",0%,"-$151,835",+2,+4,-9,+22
+525,,2010-07-07 16:09:20,2010-07-02,BSX,Abele John E,Dir,S - Sale,$6.08,"-75,000","15,780,765",0%,"-$456,180",+2,+4,-9,+22
+526,,2010-07-06 16:07:13,2010-07-01,BSX,Nicholas Peter M,Dir,S - Sale,$5.82,"-25,000","19,806,234",0%,"-$145,380",+4,+7,-8,+25
+527,,2010-07-06 16:07:13,2010-07-01,BSX,Abele John E,Dir,S - Sale,$5.82,"-75,000","15,855,765",0%,"-$436,535",+4,+7,-8,+25
+528,,2010-07-02 08:06:14,2010-06-30,BSX,Nicholas Peter M,Dir,S - Sale,$5.85,"-25,000","19,831,234",0%,"-$146,230",+4,+9,-6,+31
+529,,2010-07-02 08:06:07,2010-06-30,BSX,Abele John E,Dir,S - Sale,$5.84,"-75,000","2,016,949",-4%,"-$438,160",+4,+9,-6,+31
+530,,2010-07-01 16:08:47,2010-06-29,BSX,Nicholas Peter M,Dir,S - Sale,$5.88,"-25,000","19,856,234",0%,"-$147,088",+4,+8,-5,+32
+531,,2010-07-01 16:08:46,2010-06-29,BSX,Abele John E,Dir,S - Sale,$5.87,"-75,000","16,005,765",0%,"-$440,383",+4,+8,-5,+32
+532,D,2010-06-30 16:03:41,2010-06-28,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.08,"-25,000","19,881,234",0%,"-$152,075",+2,+8,-3,+35
+533,D,2010-06-30 16:03:38,2010-06-28,BSX,Abele John E,Dir,S - Sale+OE,$6.07,"-75,000","16,080,765",0%,"-$455,345",+2,+8,-3,+35
+534,,2010-06-29 16:04:41,2010-06-25,BSX,Nicholas Peter M,Dir,S - Sale,$6.00,"-25,000","19,906,234",0%,"-$150,055",+1,+4,-1,+32
+535,,2010-06-29 16:04:40,2010-06-25,BSX,Abele John E,Dir,S - Sale,$6.02,"-75,000","16,155,765",0%,"-$451,210",+1,+4,-1,+32
+536,,2010-06-28 16:06:37,2010-06-24,BSX,Nicholas Peter M,Dir,S - Sale,$5.99,"-25,000","19,931,234",0%,"-$149,710",-5,+1,-2,+27
+537,D,2010-06-28 16:06:33,2010-06-24,BSX,Abele John E,Dir,S - Sale+OE,$5.99,"-75,000","16,230,765",0%,"-$449,345",-5,+1,-2,+27
+538,,2010-06-25 16:34:55,2010-06-23,BSX,Nicholas Peter M,Dir,S - Sale,$6.00,"-25,000","19,956,234",0%,"-$149,903",-1,-4,-3,+27
+539,,2010-06-25 16:34:52,2010-06-23,BSX,Abele John E,Dir,S - Sale,$5.99,"-75,000","16,305,765",0%,"-$449,258",-1,-4,-3,+27
+540,D,2010-06-24 16:16:31,2010-06-22,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.12,"-25,000","19,981,234",0%,"-$153,058",+3,-3,0,+31
+541,,2010-06-24 16:16:25,2010-06-22,BSX,Abele John E,Dir,S - Sale,$6.12,"-75,000","16,380,765",0%,"-$459,148",+3,-3,0,+31
+542,D,2010-06-23 16:41:23,2010-06-21,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.23,"-25,000","20,006,234",0%,"-$155,650",-1,-4,-2,+30
+543,,2010-06-23 16:41:03,2010-06-21,BSX,Abele John E,Dir,S - Sale,$6.23,"-75,000","16,455,765",0%,"-$467,015",-1,-4,-2,+30
+544,D,2010-06-22 16:07:54,2010-06-18,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$6.20,"-2,963","56,237",-5%,"-$18,371",0,0,-1,+26
+545,,2010-06-22 16:07:52,2010-06-18,BSX,Abele John E,Dir,S - Sale,$6.16,"-75,000","16,530,765",0%,"-$461,768",0,0,-1,+26
+546,,2010-06-22 16:07:51,2010-06-18,BSX,Nicholas Peter M,Dir,S - Sale,$6.15,"-25,000","20,031,234",0%,"-$153,813",0,0,-1,+26
+547,,2010-06-21 16:01:48,2010-06-17,BSX,Abele John E,Dir,S - Sale,$6.04,"-75,000","16,605,765",0%,"-$453,095",-3,-1,+1,+16
+548,D,2010-06-21 16:01:44,2010-06-17,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.03,"-25,000","20,056,234",0%,"-$150,870",-3,-1,+1,+16
+549,,2010-06-18 16:08:43,2010-06-16,BSX,Nicholas Peter M,Dir,S - Sale,$6.07,"-25,000","20,081,234",0%,"-$151,780",-2,-6,-4,+10
+550,D,2010-06-18 16:08:40,2010-06-16,BSX,Abele John E,Dir,S - Sale+OE,$6.07,"-75,000","16,680,765",0%,"-$454,975",-2,-6,-4,+10
+551,D,2010-06-17 16:22:12,2010-06-15,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.96,"-25,000","20,106,234",0%,"-$149,003",+4,-1,0,+15
+552,,2010-06-17 16:22:07,2010-06-15,BSX,Abele John E,Dir,S - Sale,$5.98,"-75,000","16,755,765",0%,"-$448,333",+4,-1,0,+15
+553,,2010-06-16 16:25:31,2010-06-14,BSX,Nicholas Peter M,Dir,S - Sale,$5.85,"-25,000","20,131,234",0%,"-$146,360",0,-1,+8,+16
+554,,2010-06-16 16:25:31,2010-06-14,BSX,Abele John E,Dir,S - Sale,$5.85,"-75,000","16,830,765",0%,"-$438,930",0,-1,+8,+16
+555,,2010-06-15 16:11:42,2010-06-11,BSX,Nicholas Peter M,Dir,S - Sale,$5.65,"-25,000","20,156,234",0%,"-$141,200",0,+1,+7,+17
+556,,2010-06-15 16:11:39,2010-06-11,BSX,Abele John E,Dir,S - Sale,$5.66,"-75,000","16,905,765",0%,"-$424,515",0,+1,+7,+17
+557,,2010-06-14 16:09:02,2010-06-10,BSX,Abele John E,Dir,S - Sale,$5.55,"-75,000","16,980,765",0%,"-$415,908",+5,+9,+12,+18
+558,,2010-06-14 16:09:02,2010-06-10,BSX,Nicholas Peter M,Dir,S - Sale,$5.55,"-25,000","20,181,234",0%,"-$138,743",+5,+9,+12,+18
+559,,2010-06-11 16:10:07,2010-06-09,BSX,Nicholas Peter M,Dir,S - Sale,$5.52,"-25,000","20,206,234",0%,"-$138,075",+1,+6,+12,+16
+560,,2010-06-11 16:10:01,2010-06-09,BSX,Abele John E,Dir,S - Sale,$5.52,"-75,000","17,055,765",0%,"-$413,910",+1,+6,+12,+16
+561,D,2010-06-10 16:42:23,2010-06-08,BSX,Abele John E,Dir,S - Sale+OE,$5.49,"-75,000","17,130,765",0%,"-$411,795",+4,+10,+16,+19
+562,,2010-06-10 16:42:22,2010-06-08,BSX,Nicholas Peter M,Dir,S - Sale,$5.49,"-25,000","20,231,234",0%,"-$137,350",+4,+10,+16,+19
+563,,2010-06-09 16:02:42,2010-06-07,BSX,Abele John E,Dir,S - Sale,$5.65,"-75,000","17,205,765",0%,"-$423,568",+2,+12,+17,+22
+564,D,2010-06-09 16:02:42,2010-06-07,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.65,"-25,000","20,256,234",0%,"-$141,223",+2,+12,+17,+22
+565,,2010-06-08 16:02:01,2010-06-04,BSX,Abele John E,Dir,S - Sale,$5.88,"-75,000","17,280,765",0%,"-$440,718",-1,+5,+14,+23
+566,D,2010-06-08 16:01:59,2010-06-04,BSX,Nicholas Peter M,Dir,S - Sale+OE,$5.89,"-25,000","20,281,234",0%,"-$147,328",-1,+5,+14,+23
+567,D,2010-06-07 16:26:59,2010-06-03,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.02,"-25,000","20,306,234",0%,"-$150,598",-1,+3,+8,+19
+568,,2010-06-07 16:26:58,2010-06-03,BSX,Abele John E,Dir,S - Sale,$6.02,"-75,000","17,355,765",0%,"-$451,783",-1,+3,+8,+19
+569,D,2010-06-04 16:16:33,2010-06-02,BSX,Abele John E,Dir,S - Sale+OE,$6.06,"-75,000","17,430,765",0%,"-$454,450",-3,-3,+7,+13
+570,,2010-06-04 16:16:33,2010-06-02,BSX,Nicholas Peter M,Dir,S - Sale,$6.06,"-25,000","20,331,234",0%,"-$151,380",-3,-3,+7,+13
+571,,2010-06-03 16:06:56,2010-06-01,BSX,Nicholas Peter M,Dir,S - Sale,$6.03,"-25,000","20,356,234",0%,"-$150,838",-5,-10,-2,+6
+572,,2010-06-03 16:06:52,2010-06-01,BSX,Abele John E,Dir,S - Sale,$6.03,"-75,000","17,505,765",0%,"-$452,298",-5,-10,-2,+6
+573,,2010-06-02 16:04:24,2010-05-28,BSX,Abele John E,Dir,S - Sale,$6.12,"-75,000","17,580,765",0%,"-$458,923",-1,-10,-5,+7
+574,,2010-06-02 16:04:18,2010-05-28,BSX,Nicholas Peter M,Dir,S - Sale,$6.13,"-25,000","20,381,234",0%,"-$153,258",-1,-10,-5,+7
+575,,2010-06-01 16:08:28,2010-05-27,BSX,Nicholas Peter M,Dir,S - Sale,$6.10,"-25,000","20,406,234",0%,"-$152,548",+2,-6,-3,+10
+576,,2010-06-01 16:08:27,2010-05-27,BSX,Abele John E,Dir,S - Sale,$6.10,"-75,000","17,655,765",0%,"-$457,633",+2,-6,-3,+10
+577,,2010-05-28 20:24:43,2010-05-26,BSX,Nicholas Peter M,Dir,S - Sale,$6.10,"-25,000","20,431,234",0%,"-$152,498",-1,-5,0,+11
+578,D,2010-05-28 20:24:42,2010-05-26,BSX,Abele John E,Dir,S - Sale+OE,$6.10,"-75,000","17,730,765",0%,"-$457,293",-1,-5,0,+11
+579,D,2010-05-27 16:04:43,2010-05-25,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.00,"-25,000","20,456,234",0%,"-$149,903",-2,-3,-1,+6
+580,,2010-05-27 16:04:38,2010-05-25,BSX,Abele John E,Dir,S - Sale,$6.02,"-75,000","17,805,765",0%,"-$451,288",-2,-3,-1,+6
+581,,2010-05-26 16:01:30,2010-05-24,BSX,Abele John E,Dir,S - Sale,$6.32,"-75,000","17,880,765",0%,"-$474,203",+3,+1,-1,+10
+582,D,2010-05-26 16:01:28,2010-05-24,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.33,"-25,000","20,481,234",0%,"-$158,143",+3,+1,-1,+10
+583,,2010-05-25 08:48:14,2010-05-21,BSX,Nicholas Peter M,Dir,S - Sale,$6.34,"-25,000","20,506,234",0%,"-$158,380",-2,-4,-3,+8
+584,,2010-05-25 08:48:09,2010-05-21,BSX,Abele John E,Dir,S - Sale,$6.31,"-75,000","17,955,765",0%,"-$473,025",-2,-4,-3,+8
+585,,2010-05-24 16:01:12,2010-05-20,BSX,Abele John E,Dir,S - Sale,$6.45,"-75,000","18,030,765",0%,"-$483,598",-2,-3,-4,+5
+586,,2010-05-24 16:00:23,2010-05-20,BSX,Nicholas Peter M,Dir,S - Sale,$6.45,"-25,000","20,531,234",0%,"-$161,368",-2,-3,-4,+5
+587,D,2010-05-21 16:38:56,2010-05-19,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.64,"-25,000","20,556,234",0%,"-$165,925",0,-1,-1,+5
+588,,2010-05-21 16:02:07,2010-05-19,BSX,Abele John E,Dir,S - Sale,$6.64,"-75,000","18,105,765",0%,"-$497,885",0,-1,-1,+5
+589,D,2010-05-20 16:11:16,2010-05-18,BSX,Abele John E,Dir,S - Sale+OE,$6.68,"-75,000","18,180,765",0%,"-$501,350",-2,-4,0,+3
+590,,2010-05-20 16:11:14,2010-05-18,BSX,Nicholas Peter M,Dir,S - Sale,$6.71,"-25,000","20,581,234",0%,"-$167,740",-2,-4,0,+3
+591,,2010-05-19 16:04:24,2010-05-17,BSX,Abele John E,Dir,S - Sale,$6.69,"-75,000","18,255,765",0%,"-$502,008",-5,-9,-9,0
+592,D,2010-05-19 16:03:22,2010-05-17,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$6.82,"-2,963","55,954",-5%,"-$20,208",-5,-9,-9,0
+593,D,2010-05-19 16:03:15,2010-05-17,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.69,"-25,000","20,606,234",0%,"-$167,348",-5,-9,-9,0
+594,D,2010-05-05 16:20:08,2010-05-03,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.86,"-25,000","20,612,237",0%,"-$171,500",-3,-3,-11,-7
+595,,2010-05-05 16:20:03,2010-05-03,BSX,Abele John E,Dir,S - Sale,$6.86,"-75,000","18,311,768",0%,"-$514,695",-3,-3,-11,-7
+596,D,2010-04-30 15:56:17,2010-04-28,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.00,"-25,000","9,031,021",0%,"-$174,930",-1,-5,-13,-9
+597,,2010-04-30 15:56:17,2010-04-28,BSX,Abele John E,Dir,S - Sale,$7.00,"-75,000","18,386,768",0%,"-$524,855",-1,-5,-13,-9
+598,,2010-04-29 16:20:47,2010-04-27,BSX,Nicholas Peter M,Dir,S - Sale,$7.15,"-25,000","20,662,237",0%,"-$178,688",-1,-3,-11,-10
+599,,2010-04-29 16:20:42,2010-04-27,BSX,Abele John E,Dir,S - Sale,$7.12,"-75,000","18,461,768",0%,"-$534,288",-1,-3,-11,-10
+600,D,2010-04-28 16:05:33,2010-04-26,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.13,"-25,000","20,687,237",0%,"-$178,185",0,-4,-13,-10
+601,,2010-04-28 16:05:27,2010-04-26,BSX,Abele John E,Dir,S - Sale,$7.13,"-75,000","18,536,768",0%,"-$534,995",0,-4,-13,-10
+602,,2010-04-27 16:42:45,2010-04-23,BSX,Nicholas Peter M,Dir,S - Sale,$7.19,"-25,000","20,712,237",0%,"-$179,873",-2,-3,-14,-11
+603,,2010-04-27 16:42:42,2010-04-23,BSX,Abele John E,Dir,S - Sale,$7.20,"-75,000","18,611,768",0%,"-$539,753",-2,-3,-14,-11
+604,,2010-04-26 16:27:07,2010-04-22,BSX,Abele John E,Dir,S - Sale,$7.18,"-75,000","18,686,768",0%,"-$538,585",+1,-3,-11,-10
+605,,2010-04-26 16:27:03,2010-04-22,BSX,Nicholas Peter M,Dir,S - Sale,$7.18,"-25,000","20,737,237",0%,"-$179,490",+1,-3,-11,-10
+606,D,2010-04-23 16:55:51,2010-04-21,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.24,"-25,000","20,762,237",0%,"-$181,105",-2,-3,-13,-13
+607,D,2010-04-23 16:55:50,2010-04-21,BSX,Abele John E,Dir,S - Sale+OE,$7.24,"-75,000","18,761,768",0%,"-$543,300",-2,-3,-13,-13
+608,,2010-04-22 16:25:25,2010-04-20,BSX,Abele John E,Dir,S - Sale,$7.33,"-75,000","18,936,768",0%,"-$550,065",0,-3,-12,-17
+609,D,2010-04-22 16:22:02,2010-04-20,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.34,"-25,000","20,787,237",0%,"-$183,390",0,-3,-12,-17
+610,,2010-04-21 16:59:20,2010-04-19,BSX,Nicholas Peter M,Dir,S - Sale,$7.35,"-25,000","20,912,237",0%,"-$183,865",0,-2,-7,-14
+611,D,2010-04-21 16:59:19,2010-04-19,BSX,Abele John E,Dir,S - Sale+OE,$7.35,"-75,000","19,011,768",0%,"-$551,310",0,-2,-7,-14
+612,,2010-04-20 16:09:07,2010-04-16,BSX,Nicholas Peter M,Dir,S - Sale,$7.39,"-25,000","20,937,237",0%,"-$184,693",-1,-4,-9,-16
+613,,2010-04-20 16:09:06,2010-04-16,BSX,Abele John E,Dir,S - Sale,$7.38,"-75,000","19,086,768",0%,"-$553,158",-1,-4,-9,-16
+614,D,2010-04-19 16:17:03,2010-04-15,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$7.12,"-2,963","55,954",-5%,"-$21,097",0,-2,-7,-16
+615,,2010-04-19 16:17:00,2010-04-15,BSX,Nicholas Peter M,Dir,S - Sale,$7.14,"-25,000","20,962,237",0%,"-$178,503",0,-2,-7,-16
+616,,2010-04-19 16:16:57,2010-04-15,BSX,Abele John E,Dir,S - Sale,$7.14,"-75,000","19,161,768",0%,"-$535,333",0,-2,-7,-16
+617,,2010-04-16 16:11:15,2010-04-14,BSX,Abele John E,Dir,S - Sale,$7.09,"-75,000","19,236,768",0%,"-$531,893",0,-2,-7,-16
+618,D,2010-04-16 16:11:14,2010-04-14,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.08,"-25,000","20,987,237",0%,"-$177,093",0,-2,-7,-16
+619,D,2010-04-15 16:18:48,2010-04-13,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.91,"-25,000","21,012,237",0%,"-$172,730",+3,+1,-4,-14
+620,D,2010-04-15 16:18:43,2010-04-13,BSX,Abele John E,Dir,S - Sale+OE,$6.91,"-75,000","19,311,768",0%,"-$517,990",+3,+1,-4,-14
+621,D,2010-04-14 16:10:02,2010-04-12,BSX,Abele John E,Dir,S - Sale+OE,$7.01,"-75,000","19,486,768",0%,"-$526,063",0,+2,-5,-15
+622,,2010-04-14 16:10:02,2010-04-12,BSX,Nicholas Peter M,Dir,S - Sale,$7.02,"-25,000","21,137,237",0%,"-$175,458",0,+2,-5,-15
+623,D,2010-04-13 16:32:35,2010-04-09,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.95,"-25,000","21,162,237",0%,"-$173,733",+4,+6,-5,-11
+624,,2010-04-13 16:32:34,2010-04-09,BSX,Abele John E,Dir,S - Sale,$6.94,"-75,000","19,561,768",0%,"-$520,868",+4,+6,-5,-11
+625,,2010-04-12 16:20:40,2010-04-08,BSX,Nicholas Peter M,Dir,S - Sale,$7.04,"-25,000","21,187,237",0%,"-$175,990",-1,+6,-5,-11
+626,D,2010-04-12 16:20:39,2010-04-08,BSX,Abele John E,Dir,S - Sale+OE,$7.04,"-75,000","19,636,768",0%,"-$527,775",-1,+6,-5,-11
+627,,2010-04-09 16:35:46,2010-04-07,BSX,Nicholas Peter M,Dir,S - Sale,$7.11,"-25,000","21,212,237",0%,"-$177,798",0,+2,-8,-12
+628,,2010-04-09 16:35:40,2010-04-07,BSX,Abele John E,Dir,S - Sale,$7.11,"-75,000","19,711,768",0%,"-$533,103",0,+2,-8,-12
+629,D,2010-04-08 16:05:27,2010-04-06,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.15,"-25,000","21,237,237",0%,"-$178,693",0,+3,-5,-10
+630,D,2010-04-08 16:05:26,2010-04-06,BSX,Abele John E,Dir,S - Sale+OE,$7.15,"-75,000","19,786,768",0%,"-$536,118",0,+3,-5,-10
+631,D,2010-04-07 16:18:21,2010-04-05,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.20,"-25,000","21,362,237",0%,"-$180,028",-2,-4,-5,-15
+632,,2010-04-07 16:18:18,2010-04-05,BSX,Abele John E,Dir,S - Sale,$7.20,"-75,000","19,961,768",0%,"-$539,733",-2,-4,-5,-15
+633,,2010-04-05 16:11:56,2010-04-01,BSX,Abele John E,Dir,S - Sale,$7.22,"-75,000","20,036,768",0%,"-$541,140",-1,-3,-5,-15
+634,,2010-04-05 16:11:56,2010-04-01,BSX,Nicholas Peter M,Dir,S - Sale,$7.22,"-25,000","21,387,237",0%,"-$180,465",-1,-3,-5,-15
+635,D,2010-04-02 15:43:52,2010-03-31,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.21,"-25,000","21,412,237",0%,"-$180,318",0,-4,-5,-15
+636,,2010-04-02 15:43:49,2010-03-31,BSX,Abele John E,Dir,S - Sale,$7.21,"-75,000","20,111,768",0%,"-$540,883",0,-4,-5,-15
+637,D,2010-04-01 16:06:56,2010-03-30,BSX,Abele John E,Dir,S - Sale+OE,$7.14,"-75,000","20,186,768",0%,"-$535,170",0,-3,-5,-16
+638,D,2010-04-01 16:06:56,2010-03-30,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.14,"-25,000","21,437,237",0%,"-$178,600",0,-3,-5,-16
+639,D,2010-03-31 16:05:54,2010-03-29,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.05,"-25,000","21,562,237",0%,"-$176,345",0,-1,-4,-14
+640,D,2010-03-31 16:05:51,2010-03-29,BSX,Abele John E,Dir,S - Sale+OE,$7.04,"-75,000","20,261,768",0%,"-$528,340",0,-1,-4,-14
+641,,2010-03-30 16:12:06,2010-03-26,BSX,Abele John E,Dir,S - Sale,$6.98,"-75,000","20,436,768",0%,"-$523,163",0,-2,-4,-21
+642,,2010-03-30 16:12:06,2010-03-26,BSX,Nicholas Peter M,Dir,S - Sale,$6.98,"-25,000","21,587,237",0%,"-$174,533",0,-2,-4,-21
+643,,2010-03-29 16:58:39,2010-03-25,BSX,Nicholas Peter M,Dir,S - Sale,$6.97,"-25,000","21,612,237",0%,"-$174,345",+1,0,-1,-21
+644,,2010-03-29 16:58:36,2010-03-25,BSX,Abele John E,Dir,S - Sale,$6.97,"-75,000","20,511,768",0%,"-$522,895",+1,0,-1,-21
+645,D,2010-03-26 16:13:22,2010-03-24,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.04,"-25,000","21,637,237",0%,"-$175,963",+3,+3,+1,-21
+646,,2010-03-26 16:12:16,2010-03-24,BSX,Abele John E,Dir,S - Sale,$7.03,"-75,000","20,586,768",0%,"-$527,578",+3,+3,+1,-21
+647,D,2010-03-25 16:03:13,2010-03-23,BSX,Abele John E,Dir,S - Sale+OE,$6.91,"-75,000","20,661,768",0%,"-$518,170",+1,+4,+4,-19
+648,D,2010-03-25 16:03:10,2010-03-23,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.94,"-25,000","21,662,237",0%,"-$173,615",+1,+4,+4,-19
+649,D,2010-03-24 16:04:27,2010-03-22,BSX,Abele John E,Dir,S - Sale+OE,$7.03,"-75,000","20,736,768",0%,"-$527,593",-1,+3,+2,-21
+650,D,2010-03-24 16:04:27,2010-03-22,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.01,"-25,000","21,687,237",0%,"-$175,303",-1,+3,+2,-21
+651,,2010-03-23 16:14:36,2010-03-19,BSX,Abele John E,Dir,S - Sale,$7.12,"-75,000","20,911,768",0%,"-$534,330",0,+2,+3,-21
+652,D,2010-03-23 16:14:33,2010-03-19,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.13,"-25,000","21,812,237",0%,"-$178,125",0,+2,+3,-21
+653,D,2010-03-22 16:08:44,2010-03-18,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.90,"-25,000","21,837,237",0%,"-$172,603",+1,+1,+5,-21
+654,,2010-03-22 16:08:40,2010-03-18,BSX,Abele John E,Dir,S - Sale,$6.93,"-75,000","20,986,768",0%,"-$519,398",+1,+1,+5,-21
+655,D,2010-03-17 16:14:06,2010-03-15,BSX,Lance Jean Fitterer,"SVP, Chief Compliance Officer",S - Sale+OE,$6.40,"-2,963","55,870",-5%,"-$18,963",+2,+1,+3,-23
+656,,2009-11-17 16:08:50,2009-11-13,BSX,Nicholas Peter M,Dir,S - Sale,$8.29,"-205,482","23,790,694",-1%,"-$1,702,652",+1,-1,+6,-19
+657,,2009-11-16 16:07:57,2009-11-12,BSX,Nicholas Peter M,Dir,S - Sale,$8.29,"-150,000","23,996,176",-1%,"-$1,243,995",-1,-4,+6,-20
+658,,2009-11-13 16:13:16,2009-11-11,BSX,Nicholas Peter M,Dir,S - Sale,$8.34,"-150,000","24,146,176",-1%,"-$1,251,375",+1,-1,+8,-18
+659,,2009-11-12 16:10:00,2009-11-09,BSX,Nicholas Peter M,Dir,S - Sale,$8.16,"-200,000","24,446,176",-1%,"-$1,631,860",+1,+2,+6,-16
+660,,2009-11-12 16:09:59,2009-11-10,BSX,Nicholas Peter M,Dir,S - Sale,$8.21,"-150,000","24,296,176",-1%,"-$1,230,855",+1,+2,+6,-16
+661,,2009-11-10 16:05:13,2009-11-06,BSX,Nicholas Peter M,Dir,S - Sale,$8.08,"-150,000","24,646,176",-1%,"-$1,211,940",+1,+1,+3,-18
+662,,2009-11-09 16:20:58,2009-11-05,BSX,Nicholas Peter M,Dir,S - Sale,$8.00,"-250,000","24,796,176",-1%,"-$2,000,540",0,-1,+2,-21
+663,,2009-11-02 17:42:07,2009-10-29,BSX,Nicholas Peter M,Dir,S - Sale,$8.21,"-50,000","24,946,176",0%,"-$410,280",-3,-2,+3,-19
+664,,2009-11-02 17:42:07,2009-10-29,BSX,Abele John E,Dir,S - Sale,$8.23,"-125,000","22,998,628",-1%,"-$1,029,143",-3,-2,+3,-19
+665,D,2009-10-30 16:08:55,2009-10-28,BSX,Nicholas Peter M,Dir,S - Sale+OE,$8.22,"-50,000","24,996,176",0%,"-$411,075",+1,-1,+3,-15
+666,D,2009-10-30 16:08:54,2009-10-28,BSX,Abele John E,Dir,S - Sale+OE,$8.23,"-100,000","23,123,628",0%,"-$823,055",+1,-1,+3,-15
+667,D,2009-10-29 16:33:51,2009-10-27,BSX,Nicholas Peter M,Dir,S - Sale+OE,$8.43,"-50,000","25,046,176",0%,"-$421,475",-3,-3,+2,-18
+668,D,2009-10-29 16:33:49,2009-10-27,BSX,Abele John E,Dir,S - Sale+OE,$8.44,"-100,000","23,223,628",0%,"-$843,660",-3,-3,+2,-18
+669,D,2009-10-28 16:29:56,2009-10-26,BSX,Nicholas Peter M,Dir,S - Sale+OE,$8.50,"-50,000","25,096,176",0%,"-$424,920",+3,-2,+6,-14
+670,D,2009-10-28 16:29:53,2009-10-26,BSX,Abele John E,Dir,S - Sale+OE,$8.62,"-100,000","23,323,628",0%,"-$861,835",+3,-2,+6,-14
+671,D,2009-10-27 16:19:37,2009-10-23,BSX,Abele John E,Dir,S - Sale+OE,$8.62,"-100,000","23,423,628",0%,"-$861,605",-3,-2,+2,-16
+672,,2009-10-26 16:44:07,2009-10-22,BSX,Abele John E,Dir,S - Sale,$8.40,"-50,000","23,523,628",0%,"-$420,000",-1,-4,-4,-16
+673,D,2009-10-23 16:19:41,2009-10-21,BSX,Nicholas Peter M,Dir,S - Sale+OE,$8.35,"-100,000","25,289,785",0%,"-$835,290",-3,-5,-8,-20
+674,D,2009-10-22 16:09:02,2009-10-20,BSX,Nicholas Peter M,Dir,S - Sale+OE,$8.98,"-100,000","25,389,785",0%,"-$898,130",+4,-3,-2,-14
+675,D,2009-10-21 16:34:47,2009-10-19,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.19,"-100,000","25,489,785",0%,"-$1,018,825",+2,+2,+2,-12
+676,D,2009-10-20 16:07:24,2009-10-16,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.03,"-100,000","25,589,785",0%,"-$1,003,335",-3,0,-2,-13
+677,D,2009-10-19 16:16:18,2009-10-15,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.06,"-100,000","25,752,282",0%,"-$1,005,700",-16,-14,-18,-28
+678,D,2009-10-16 16:09:10,2009-10-14,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.03,"-100,000","25,915,901",0%,"-$1,002,685",+1,-16,-17,-26
+679,D,2009-10-15 16:14:09,2009-10-13,BSX,Nicholas Peter M,Dir,S - Sale+OE,$9.94,"-100,000","26,015,901",0%,"-$993,550",-1,-19,-19,-27
+680,D,2009-10-14 16:19:39,2009-10-09,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.30,"-100,000","26,215,901",0%,"-$1,029,850",0,-15,-17,-29
+681,D,2009-10-14 16:19:30,2009-10-12,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.06,"-100,000","26,115,901",0%,"-$1,005,595",0,-15,-17,-29
+682,D,2009-10-13 16:13:56,2009-10-08,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.31,"-100,000","26,381,203",0%,"-$1,031,080",+1,+2,-17,-28
+683,D,2009-10-09 16:07:12,2009-10-07,BSX,Nicholas Peter M,Dir,S - Sale+OE,$10.03,"-100,000","26,550,657",0%,"-$1,003,390",-3,-2,-22,-33
+684,D,2009-10-08 16:15:02,2009-10-06,BSX,Nicholas Peter M,Dir,S - Sale+OE,$9.95,"-100,000","26,650,657",0%,"-$995,485",0,-2,-22,-32
+685,D,2009-08-24 16:07:07,2009-08-20,BSX,Kucheman William,"SVP, Group Pres",S - Sale+OE,$11.20,"-11,668","77,649",-13%,"-$130,682",+1,0,-4,-33
+686,,2009-08-13 16:05:50,2009-08-11,BSX,Elliott John Raymond,"Pres, CEO",P - Purchase,$11.06,"+100,000","118,264",+548%,"+$1,105,770",+1,+2,+3,-32
+687,,2009-05-28 16:05:17,2009-05-26,BSX,McConnell William F Jr,"SVP, Administration CRM",S - Sale,$8.87,"-23,060","81,827",-22%,"-$204,611",+3,+7,+10,-10
+688,M,2009-05-19 16:12:44,2009-05-15,BSX,Abele John E,Dir,S - Sale,$8.73,"-200,000","23,573,628",-1%,"-$1,745,300",-1,+1,+3,-8
+689,M,2009-05-15 16:15:17,2009-05-13,BSX,Abele John E,Dir,S - Sale,$8.89,"-200,000","23,773,628",-1%,"-$1,778,400",+1,0,+3,-4
+690,,2009-05-13 16:02:07,2009-05-11,BSX,Pepper John E,Dir,P - Purchase,$9.18,"+6,000","59,400",+11%,"+$55,080",+2,+3,+8,-4
+691,M,2009-05-13 16:02:03,2009-05-11,BSX,Abele John E,Dir,S - Sale,$9.19,"-200,000","23,973,628",-1%,"-$1,838,600",+2,+3,+8,-4
+692,M,2009-05-11 16:09:57,2009-05-07,BSX,Abele John E,Dir,S - Sale,$9.04,"-200,000","24,173,628",-1%,"-$1,807,900",-1,-3,+4,-11
+693,,2009-05-08 16:07:48,2009-05-06,BSX,Pepper John E,Dir,P - Purchase,$8.60,"+6,000","53,400",+13%,"+$51,600",-3,-6,+1,-14
+694,,2009-05-07 16:21:31,2009-05-06,BSX,Mario Ernest,Dir,P - Purchase,$8.49,"+50,000","91,004",+122%,"+$424,650",+6,-1,+9,-9
+695,M,2009-05-07 16:21:29,2009-05-05,BSX,Abele John E,Dir,S - Sale,$8.49,"-200,000","24,373,628",-1%,"-$1,698,400",+6,-1,+9,-9
+696,DM,2009-04-23 16:11:38,2009-04-21,BSX,Abele John E,Dir,S - Sale+OE,$8.55,"-300,000","24,559,127",-1%,"-$2,566,200",+1,0,+6,+3
+697,M,2009-04-21 16:05:17,2009-04-17,BSX,Abele John E,Dir,S - Sale,$8.87,"-300,000","24,859,127",-1%,"-$2,660,400",+2,-3,+5,+18
+698,M,2009-04-17 16:03:12,2009-04-15,BSX,Abele John E,Dir,S - Sale,$9.00,"-300,000","25,159,127",-1%,"-$2,700,600",-4,-8,-3,+11
+699,DM,2009-04-15 16:09:10,2009-04-13,BSX,Abele John E,Dir,S - Sale+OE,$8.90,"-300,000","25,459,127",-1%,"-$2,668,650",0,-7,-5,+10
+700,,2009-04-13 16:16:52,2009-04-09,BSX,Abele John E,Dir,S - Sale,$8.88,"-150,000","25,759,127",-1%,"-$1,332,000",-1,0,+1,+14
+701,M,2009-04-09 13:34:26,2009-04-07,BSX,Abele John E,Dir,S - Sale,$8.46,"-300,000","25,909,127",-1%,"-$2,536,500",+4,+5,+8,+17
+702,DM,2009-04-07 16:04:11,2009-04-03,BSX,Abele John E,Dir,S - Sale+OE,$8.40,"-300,000","26,209,127",-1%,"-$2,519,850",+4,+7,+2,+21
+703,M,2009-04-03 16:07:55,2009-04-01,BSX,Abele John E,Dir,S - Sale,$8.23,"-300,000","26,509,127",-1%,"-$2,468,550",+1,+7,+3,+22
+704,DM,2009-04-01 16:12:33,2009-03-30,BSX,Abele John E,Dir,S - Sale+OE,$8.00,"-300,000","26,809,127",-1%,"-$2,399,700",+3,+1,+2,+31
+705,M,2009-03-30 16:15:02,2009-03-26,BSX,Abele John E,Dir,S - Sale,$8.33,"-300,000","27,109,127",-1%,"-$2,498,400",0,+5,+1,+29
+706,M,2009-03-26 16:03:41,2009-03-24,BSX,Abele John E,Dir,S - Sale,$8.16,"-300,000","27,409,127",-1%,"-$2,447,700",-5,-4,-2,+28
+707,DM,2009-03-24 16:10:50,2009-03-20,BSX,Abele John E,Dir,S - Sale+OE,$7.73,"-300,000","27,709,127",-1%,"-$2,318,700",-2,-3,+6,+35
+708,M,2009-03-20 16:10:06,2009-03-18,BSX,Abele John E,Dir,S - Sale,$7.84,"-300,000","28,009,127",-1%,"-$2,353,050",+6,+13,+15,+44
+709,DM,2009-03-18 16:10:31,2009-03-16,BSX,Abele John E,Dir,S - Sale+OE,$7.63,"-300,000","28,309,127",-1%,"-$2,289,000",-6,0,+11,+39
+710,M,2009-03-16 16:16:41,2009-03-12,BSX,Abele John E,Dir,S - Sale,$7.25,"-300,000","28,609,127",-1%,"-$2,175,300",0,-1,+18,+50
+711,,2009-03-12 16:09:22,2009-03-10,BSX,Nicholas Peter M,Dir,S - Sale,$6.67,"-275,975","29,246,012",-1%,"-$1,840,477",+3,+15,+27,+63
+712,M,2009-03-12 16:09:18,2009-03-10,BSX,Abele John E,Dir,S - Sale,$6.76,"-300,000","28,909,127",-1%,"-$2,028,900",+3,+15,+27,+63
+713,M,2009-03-10 16:09:23,2009-03-06,BSX,Nicholas Peter M,Dir,S - Sale,$6.20,"-968,669","29,521,987",-3%,"-$6,004,779",+2,+15,+27,+76
+714,M,2009-03-10 16:06:10,2009-03-06,BSX,Abele John E,Dir,S - Sale,$6.27,"-300,000","29,209,127",-1%,"-$1,879,800",+2,+15,+27,+76
+715,M,2009-03-06 16:06:15,2009-03-04,BSX,Nicholas Peter M,Dir,S - Sale,$6.64,"-355,749","30,490,656",-1%,"-$2,363,421",-3,+13,+32,+74
+716,M,2009-03-06 16:04:12,2009-03-04,BSX,Abele John E,Dir,S - Sale,$6.73,"-300,000","29,509,127",-1%,"-$2,017,950",-3,+13,+32,+74
+717,M,2009-03-04 16:26:54,2009-03-02,BSX,Abele John E,Dir,S - Sale,$6.77,"-300,000","29,809,127",-1%,"-$2,029,800",-9,-5,+17,+69
+718,M,2009-03-04 16:25:50,2009-03-02,BSX,Nicholas Peter M,Dir,S - Sale,$6.73,"-460,256","30,846,405",-1%,"-$3,096,203",-9,-5,+17,+69
+719,,2009-02-26 16:06:51,2009-02-24,BSX,Abele John E,Dir,S - Sale,$8.23,"-200,000","30,109,127",-1%,"-$1,646,000",-5,-5,+14,+51
+720,,2009-02-25 16:05:59,2009-02-23,BSX,Abele John E,Dir,S - Sale,$8.26,"-100,000","30,309,127",0%,"-$825,500",-7,-15,0,+41
+721,M,2009-02-23 16:02:52,2009-02-19,BSX,Abele John E,Dir,S - Sale,$8.53,"-400,000","30,409,127",-1%,"-$3,410,925",+3,-13,0,+40
+722,,2009-02-20 17:03:31,2009-02-18,BSX,Abele John E,Dir,S - Sale,$8.45,"-150,000","30,809,127",0%,"-$1,267,800",-1,-8,-7,+35
+723,,2009-02-17 16:07:22,2009-02-13,BSX,Abele John E,Dir,S - Sale,$8.91,"-175,000","30,959,127",-1%,"-$1,559,775",-1,-6,-11,+30
+724,M,2009-02-13 16:10:24,2009-02-11,BSX,Abele John E,Dir,S - Sale,$8.74,"-300,000","31,134,127",-1%,"-$2,622,450",-1,-5,-12,+27
+725,M,2009-02-04 17:07:23,2008-10-31,BSX,Kucheman William,"SVP, Group Pres",P - Purchase,$6.54,"+4,600","43,323",+12%,"+$30,070",+2,-6,-30,+22
+726,M,2009-02-02 16:37:52,2009-01-29,BSX,Nicholas Peter M,Dir,S - Sale,$8.91,"-200,000","31,306,661",-1%,"-$1,781,700",0,+7,-23,+22
+727,DM,2009-02-02 16:36:38,2009-01-29,BSX,Abele John E,Dir,S - Sale+OE,$8.91,"-200,000","31,434,127",-1%,"-$1,781,700",0,+7,-23,+22
+728,DM,2009-01-29 16:08:05,2009-01-27,BSX,Abele John E,Dir,S - Sale+OE,$8.56,"-200,000","31,634,127",-1%,"-$1,711,000",+1,+4,-20,+26
+729,DM,2009-01-29 16:07:01,2009-01-27,BSX,Nicholas Peter M,Dir,S - Sale+OE,$8.56,"-200,000","31,506,661",-1%,"-$1,711,000",+1,+4,-20,+26
+730,DM,2009-01-27 16:07:21,2009-01-23,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.81,"-200,000","31,706,661",-1%,"-$1,562,400",0,+4,-6,+25
+731,DM,2009-01-27 16:06:16,2009-01-23,BSX,Abele John E,Dir,S - Sale+OE,$7.81,"-200,000","31,834,127",-1%,"-$1,562,400",0,+4,-6,+25
+732,DM,2009-01-23 16:08:51,2009-01-21,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.77,"-200,000","31,906,661",-1%,"-$1,554,900",+3,+13,+4,+34
+733,DM,2009-01-23 16:07:45,2009-01-21,BSX,Abele John E,Dir,S - Sale+OE,$7.77,"-200,000","32,034,127",-1%,"-$1,554,800",+3,+13,+4,+34
+734,M,2009-01-21 16:05:10,2009-01-16,BSX,Abele John E,Dir,S - Sale,$7.71,"-200,000","32,234,127",-1%,"-$1,542,000",+1,+8,+11,+32
+735,DM,2009-01-21 16:05:06,2009-01-16,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.71,"-200,000","32,106,661",-1%,"-$1,542,000",+1,+8,+11,+32
+736,DM,2009-01-16 15:18:20,2009-01-14,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.34,"-200,000","32,306,661",-1%,"-$1,468,200",-1,+2,+13,+32
+737,DM,2009-01-16 15:18:16,2009-01-14,BSX,Abele John E,Dir,S - Sale+OE,$7.34,"-200,000","32,434,127",-1%,"-$1,468,200",-1,+2,+13,+32
+738,DM,2009-01-14 16:11:07,2009-01-12,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.42,"-200,000","32,506,661",-1%,"-$1,483,100",+3,+6,+19,+37
+739,DM,2009-01-14 16:11:03,2009-01-12,BSX,Abele John E,Dir,S - Sale+OE,$7.42,"-200,000","32,634,127",-1%,"-$1,483,100",+3,+6,+19,+37
+740,DM,2009-01-12 16:40:21,2009-01-08,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.70,"-200,000","32,706,661",-1%,"-$1,539,600",+1,+7,+16,+34
+741,DM,2009-01-12 16:40:17,2009-01-08,BSX,Abele John E,Dir,S - Sale+OE,$7.70,"-200,000","32,834,127",-1%,"-$1,539,600",+1,+7,+16,+34
+742,DM,2009-01-08 16:20:58,2009-01-06,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.91,"-200,000","32,906,661",-1%,"-$1,582,000",-2,-5,+21,+24
+743,DM,2009-01-08 16:20:53,2009-01-06,BSX,Abele John E,Dir,S - Sale+OE,$7.91,"-200,000","33,034,127",-1%,"-$1,582,000",-2,-5,+21,+24
+744,ADM,2009-01-06 16:14:41,2008-12-09,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.31,"-200,000","19,830,032",-1%,"-$1,461,100",-3,-8,+15,+26
+745,ADM,2009-01-06 16:10:54,2008-12-19,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.65,"-200,000","19,030,032",-1%,"-$1,530,900",-3,-8,+15,+26
+746,ADM,2009-01-06 16:10:36,2008-12-19,BSX,Abele John E,Dir,S - Sale+OE,$7.65,"-200,000","33,283,029",-1%,"-$1,530,900",-3,-8,+15,+26
+747,M,2009-01-06 16:05:58,2009-01-02,BSX,Nicholas Peter M,Dir,S - Sale,$7.73,"-200,000","33,106,661",-1%,"-$1,545,100",-3,-8,+15,+26
+748,M,2009-01-06 16:05:25,2009-01-02,BSX,Abele John E,Dir,S - Sale,$7.73,"-200,000","33,234,127",-1%,"-$1,545,100",-3,-8,+15,+26
+749,DM,2009-01-02 14:44:26,2008-12-30,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.47,"-200,000","33,306,661",-1%,"-$1,493,800",-2,+1,+13,+27
+750,DM,2009-01-02 14:44:21,2008-12-30,BSX,Abele John E,Dir,S - Sale+OE,$7.47,"-200,000","33,434,127",-1%,"-$1,493,800",-2,+1,+13,+27
+751,DM,2008-12-30 13:22:59,2008-12-26,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.35,"-200,000","33,506,661",-1%,"-$1,470,900",0,+9,+19,+38
+752,DM,2008-12-30 13:22:55,2008-12-26,BSX,Abele John E,Dir,S - Sale+OE,$7.35,"-200,000","33,634,127",-1%,"-$1,470,900",0,+9,+19,+38
+753,DM,2008-12-24 15:44:32,2008-12-23,BSX,Abele John E,Dir,S - Sale+OE,$7.43,"-200,000","33,834,127",-1%,"-$1,486,400",+1,+5,+8,+36
+754,DM,2008-12-24 15:44:30,2008-12-23,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.43,"-200,000","33,706,661",-1%,"-$1,486,400",+1,+5,+8,+36
+755,DM,2008-12-23 17:05:18,2008-12-19,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.65,"-200,000","33,906,661",-1%,"-$1,530,900",+1,0,+5,+28
+756,DM,2008-12-23 17:05:16,2008-12-19,BSX,Abele John E,Dir,S - Sale+OE,$7.65,"-200,000","34,034,127",-1%,"-$1,530,900",+1,0,+5,+28
+757,DM,2008-12-19 12:20:47,2008-12-17,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.82,"-200,000","34,106,661",-1%,"-$1,563,900",0,-5,+1,+18
+758,DM,2008-12-19 12:20:42,2008-12-17,BSX,Abele John E,Dir,S - Sale+OE,$7.82,"-200,000","34,234,127",-1%,"-$1,563,900",0,-5,+1,+18
+759,M,2008-12-17 16:16:08,2008-12-15,BSX,Abele John E,Dir,S - Sale,$7.24,"-200,000","34,434,127",-1%,"-$1,447,700",0,-5,+1,+22
+760,DM,2008-12-17 16:16:08,2008-12-15,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.24,"-200,000","34,306,661",-1%,"-$1,447,700",0,-5,+1,+22
+761,DM,2008-12-15 16:06:56,2008-12-11,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.27,"-200,000","34,506,661",-1%,"-$1,454,700",+3,+8,+2,+25
+762,DM,2008-12-15 16:06:51,2008-12-11,BSX,Abele John E,Dir,S - Sale+OE,$7.28,"-200,000","34,634,127",-1%,"-$1,455,000",+3,+8,+2,+25
+763,DM,2008-12-11 16:05:25,2008-12-09,BSX,Nicholas Peter M,Dir,S - Sale+OE,$7.31,"-200,000","34,706,661",-1%,"-$1,461,100",-1,+7,+1,+29
+764,M,2008-12-09 16:07:15,2008-12-05,BSX,Nicholas Peter M,Dir,S - Sale,$7.18,"-200,000","34,906,661",-1%,"-$1,436,148",-2,-2,+6,+27
+765,DM,2008-12-05 16:06:04,2008-12-03,BSX,Nicholas Peter M,Dir,S - Sale+OE,$6.54,"-312,986","35,106,661",-1%,"-$2,046,229",-2,-6,+5,+27
+766,D,2008-12-05 16:05:58,2008-12-03,BSX,Abele John E,Dir,S - Sale+OE,$6.39,"-27,471","34,834,127",0%,"-$175,430",-2,-6,+5,+27
+767,M,2008-12-03 16:15:48,2008-12-01,BSX,Nicholas Peter M,Dir,S - Sale,$6.01,"-1,159,964","35,419,647",-3%,"-$6,972,324",-5,+7,+16,+40
+768,M,2008-12-03 16:15:43,2008-12-01,BSX,Abele John E,Dir,S - Sale,$6.01,"-220,454","34,861,598",-1%,"-$1,324,708",-5,+7,+16,+40
+769,M,2008-12-01 16:52:50,2008-11-26,BSX,Abele John E,Dir,S - Sale,$6.10,"-1,274,000","35,082,052",-4%,"-$7,774,986",+5,+28,+24,+67
+770,M,2008-12-01 16:52:50,2008-11-26,BSX,Nicholas Peter M,Dir,S - Sale,$6.10,"-2,489,000","36,579,611",-6%,"-$15,184,473",+5,+28,+24,+67
+771,,2008-11-26 15:31:33,2008-11-25,BSX,Nicholas Peter M,Dir,S - Sale,$6.17,"-1,021,100","39,068,611",-3%,"-$6,297,052",-1,+13,+21,+54
+772,,2008-11-26 15:31:08,2008-11-25,BSX,Abele John E,Dir,S - Sale,$6.15,"-198,000","36,356,052",-1%,"-$1,218,096",-1,+13,+21,+54
+773,M,2008-11-25 16:10:19,2008-11-21,BSX,Nicholas Peter M,Dir,S - Sale,$5.78,"-3,861,700","40,089,711",-9%,"-$22,322,559",-1,+2,+22,+49
+774,M,2008-11-25 16:09:35,2008-11-21,BSX,Abele John E,Dir,S - Sale,$5.81,"-518,500","36,554,052",-1%,"-$3,013,573",-1,+2,+22,+49
+775,M,2008-11-21 16:11:38,2008-11-20,BSX,Nicholas Peter M,Dir,S - Sale,$6.17,"-2,321,500","43,951,411",-5%,"-$14,312,785",-1,+1,+26,+53
+776,,2008-11-21 16:11:34,2008-11-20,BSX,Nicholas Nj Jr,Dir,P - Purchase,$5.60,"+15,000","378,269",+4%,"+$84,000",-1,+1,+26,+53
+777,M,2008-11-21 16:11:32,2008-11-19,BSX,Abele John E,Dir,S - Sale,$6.25,"-421,600","37,072,552",-1%,"-$2,634,882",-1,+1,+26,+53
+778,,2008-11-20 21:31:42,2008-11-18,BSX,Nicholas Peter M,Dir,S - Sale,$7.15,"-100,000","46,272,911",0%,"-$715,400",+12,+9,+35,+51
+779,,2008-11-20 16:09:41,2008-11-19,BSX,Nicholas Nj Jr,Dir,P - Purchase,$6.96,"+15,000","363,269",+4%,"+$104,445",+12,+9,+35,+51
+780,M,2008-11-19 16:10:58,2008-11-17,BSX,Nicholas Peter M,Dir,S - Sale,$7.31,"-553,900","46,372,911",-1%,"-$4,047,302",-16,-6,+17,+31
+781,,2008-11-19 16:09:52,2008-11-18,BSX,Abele John E,Dir,S - Sale,$7.26,"-300,000","37,494,152",-1%,"-$2,177,700",-16,-6,+17,+31
+782,,2008-11-19 16:08:45,2008-11-18,BSX,Nicholas Nj Jr,Dir,P - Purchase,$7.34,"+10,000","348,269",+3%,"+$73,400",-16,-6,+17,+31
+783,,2008-11-18 16:04:52,2008-11-14,BSX,Nicholas Peter M,Dir,S - Sale,$7.85,"-4,600","46,926,811",0%,"-$36,110",-10,-17,+7,+22
+784,,2008-11-03 16:14:17,2008-10-30,BSX,Groves Ray J,Dir,P - Purchase,$8.75,"+8,000","37,167",+27%,"+$69,992",+1,-3,-29,-2
+785,,2008-10-31 16:14:04,2008-10-29,BSX,Nicholas Peter M,Dir,S - Sale,$8.05,"-60,000","46,931,411",0%,"-$483,007",-2,-10,-36,-4
+786,M,2008-10-29 18:35:40,2008-10-28,BSX,Nicholas Peter M,Dir,S - Sale,$7.21,"-4,050,000","46,991,411",-8%,"-$29,185,950",+8,+12,-26,+5
+787,,2008-10-29 14:00:58,2008-10-28,BSX,Mario Ernest,Dir,P - Purchase,$7.40,"+15,000","108,804",+16%,"+$110,936",+4,+16,-21,+9
+788,,2008-10-27 16:18:31,2008-10-23,BSX,Nicholas Peter M,Dir,S - Sale,$8.24,"-1,030,400","51,041,411",-2%,"-$8,489,981",+9,+24,-13,+12
+789,,2008-10-27 16:09:21,2008-10-24,BSX,Groves Ray J,Dir,P - Purchase,$8.20,"+10,000","29,167",+52%,"+$82,040",+9,+24,-13,+12
+790,,2008-10-24 16:51:24,2008-10-22,BSX,Nicholas Peter M,Dir,S - Sale,$8.66,"-900,000","52,071,811",-2%,"-$7,794,000",-10,+9,-21,+4
+791,,2008-10-23 16:14:58,2008-10-21,BSX,Abele John E,Dir,S - Sale,$8.91,"-65,800","37,794,152",0%,"-$586,278",-6,-5,-36,-1
+792,,2008-10-22 16:15:25,2008-10-20,BSX,Nicholas Peter M,Dir,S - Sale,$8.90,"-784,000","53,038,155",-1%,"-$6,977,600",+3,-6,-19,+1
+793,,2008-10-22 16:14:20,2008-10-20,BSX,Abele John E,Dir,S - Sale,$8.90,"-634,200","37,859,952",-2%,"-$5,644,380",+3,-6,-19,+1
+794,,2008-10-22 16:13:15,2008-10-21,BSX,Nicholas Peter M,Dir,S - Sale,$8.91,"-66,344","52,971,811",0%,"-$591,125",+3,-6,-19,+1
+795,M,2008-10-20 17:44:20,2008-10-16,BSX,Abele John E,Dir,S - Sale,$8.64,"-1,000,000","38,494,152",-3%,"-$8,635,644",-3,-11,-20,-5
+796,M,2008-10-20 17:43:17,2008-10-16,BSX,Nicholas Peter M,Dir,S - Sale,$8.64,"-1,022,034","53,822,155",-2%,"-$8,826,931",-3,-11,-20,-5
+797,M,2008-10-16 16:14:00,2008-10-14,BSX,Nicholas Peter M,Dir,S - Sale,$9.33,"-1,000,000","54,844,189",-2%,"-$9,331,663",0,-5,-9,+4
+798,M,2008-10-16 16:13:59,2008-10-14,BSX,Abele John E,Dir,S - Sale,$9.33,"-1,000,000","39,494,152",-2%,"-$9,331,663",0,-5,-9,+4
+799,,2008-10-15 15:43:28,2008-10-13,BSX,Nicholas Peter M,Dir,S - Sale,$9.04,"-300,000","55,844,189",-1%,"-$2,711,520",-6,-7,-25,-3
+800,M,2008-10-14 15:51:51,2008-10-09,BSX,Abele John E,Dir,S - Sale,$7.88,"-11,121,910","40,494,152",-22%,"-$87,639,491",+1,-3,-15,-2
+801,M,2008-10-14 15:51:47,2008-10-09,BSX,Nicholas Peter M,Dir,S - Sale,$7.90,"-10,746,930","56,144,189",-16%,"-$84,886,449",+1,-3,-15,-2
+802,,2008-10-10 18:11:01,2008-10-08,BSX,Nicholas Peter M,Dir,S - Sale,$9.01,"-5,460,000","66,891,119",-8%,"-$49,214,380",+27,+16,+15,+20
+803,,2008-10-10 18:10:31,2008-10-08,BSX,Abele John E,Dir,S - Sale,$9.07,"-3,460,000","51,616,062",-6%,"-$31,394,381",+27,+16,+15,+20
+804,,2008-07-30 14:44:42,2008-07-28,BSX,McConnell William F Jr,"SVP, Administration CRM",S - Sale,$11.91,"-20,000","76,631",-21%,"-$238,200",-2,+7,+4,-29
+805,,2008-07-28 16:12:27,2008-07-25,BSX,Groves Ray J,Dir,P - Purchase,$12.23,"+10,000","19,167",+109%,"+$122,300",+2,+1,+5,-32
+806,,2008-02-12 09:27:48,2008-02-08,BSX,Fleishman Joel Lawrence,Dir,P - Purchase,$12.28,"+5,500","134,837",+4%,"+$67,535",+1,+3,+3,+7
+807,,2007-12-03 10:19:56,2007-11-29,BSX,Reinhardt Uwe E,Dir,S - Sale,$12.62,"-9,000","40,020",-18%,"-$113,612",+3,+1,-10,+6
+808,D,2007-11-02 12:32:51,2007-10-31,BSX,Laviolette Paul A,COO,S - Sale+OE,$13.93,"-56,000","63,656",-47%,"-$780,080",0,-6,-2,0
+809,,2007-08-23 09:35:27,2007-08-21,BSX,Mario Ernest,Dir,S - Sale,$12.18,"-93,467","84,700",-52%,"-$1,138,651",+2,+3,+10,-1
+810,,2007-08-14 10:22:37,2007-08-13,BSX,Nicholas Nj Jr,Dir,P - Purchase,$13.08,"+15,000","338,266",+5%,"+$196,200",0,-6,+1,-4
+811,D,2007-05-30 17:40:16,2007-05-25,BSX,Bartell Mark C,"SVP Global Sales, Mkt CRM",S - Sale+OE,$15.75,"-828,250","50,619",-94%,"-$13,044,911",+2,+3,0,-20
+812,D,2007-05-08 16:36:19,2007-05-04,BSX,Nicholas Peter M,"Dir, 10%",S - Sale+OE,$16.24,"-462,246","90,781,133",-1%,"-$7,506,440",-2,-6,-3,-20
+813,M,2007-05-08 16:36:16,2007-05-04,BSX,Nicholas Peter M,"Dir, 10%",S - Sale,$16.20,"-365,054","91,731,080",0%,"-$5,913,384",-2,-6,-3,-20
+814,D,2007-05-08 16:36:16,2007-05-04,BSX,Abele John E,"Dir, 10%",S - Sale+OE,$16.24,"-85,854","54,365,428",0%,"-$1,394,188",-2,-6,-3,-20
+815,M,2007-05-08 16:36:12,2007-05-04,BSX,Abele John E,"Dir, 10%",S - Sale,$16.19,"-67,146","55,059,720",0%,"-$1,087,316",-2,-6,-3,-20
+816,M,2007-05-04 17:00:17,2007-05-02,BSX,Best Lawrence C,"EVP, CFO",S - Sale,$16.17,"-215,600","442,389",-33%,"-$3,487,212",+3,-1,-1,-14
+817,,2007-05-04 17:00:15,2007-05-02,BSX,Best Lawrence C,"EVP, CFO",S - Sale,$16.21,"-144,400","357,989",-29%,"-$2,340,953",+3,-1,-1,-14
+818,,2007-05-04 17:00:15,2007-05-03,BSX,Best Lawrence C,"EVP, CFO",S - Sale,$16.27,"-210,200","240,869",-47%,"-$3,420,425",+3,-1,-1,-14
+819,D,2007-05-04 17:00:12,2007-05-02,BSX,Best Lawrence C,"EVP, CFO",S - Sale+OE,$16.17,"-29,800","502,389",-6%,"-$481,948",+3,-1,-1,-14
+820,D,2007-05-03 16:11:26,2007-05-01,BSX,Sandman Paul W,"EVP, GC",S - Sale+OE,$15.77,"-320,000","36,766",-90%,"-$5,045,741",-1,0,-4,-14
+821,,2007-05-01 09:29:50,2007-04-30,BSX,Nicholas Nj Jr,Dir,P - Purchase,$15.77,"+10,000","323,266",+3%,"+$157,694",+4,+8,0,-11
+822,D,2007-04-27 17:07:20,2007-04-26,BSX,Laviolette Paul A,COO,S - Sale+OE,$15.86,"-340,000","48,706",-87%,"-$5,393,807",-2,+4,0,-11
+823,,2006-11-15 12:51:24,2006-11-14,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$15.52,"+5,000","324,466",+2%,"+$77,600",0,+4,+3,-3
+824,,2006-11-02 17:57:05,2006-11-02,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$16.03,"+15,000","319,466",+5%,"+$240,450",+2,+2,-2,+4
+825,,2006-08-04 09:39:57,2006-08-03,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$16.22,"+25,000","304,466",+9%,"+$405,500",-2,-4,+7,+11
+826,D,2006-06-01 09:12:00,2006-05-31,BSX,Johnson Kristina M,Dir,S - Sale+OE,$20.42,"-12,000",0,-100%,"-$245,090",0,-2,-18,-22
+827,,2006-05-24 08:47:53,2006-05-23,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$19.45,"+10,000","279,466",+4%,"+$194,500",+2,+6,-5,-17
+828,,2006-05-19 08:49:01,2006-05-17,BSX,Burns Ursula M,Dir,P - Purchase,$20.70,"+3,000","13,500",+29%,"+$62,100",-2,-2,-3,-21
+829,M,2006-05-17 08:55:03,2006-05-15,BSX,Goodman Jeffrey H,SVP-International,P - Purchase,$20.52,"+5,000","5,000",New,"+$102,580",-3,-7,-7,-24
+830,,2006-05-11 11:52:23,2006-05-10,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$21.39,"+10,000","269,466",+4%,"+$213,900",-1,-2,-6,-21
+831,,2006-05-11 11:52:21,2006-05-10,BSX,Mario Ernest,Dir,P - Purchase,$21.35,"+50,000","178,167",+39%,"+$1,067,377",-1,-2,-6,-21
+832,,2006-05-08 10:25:32,2006-05-04,BSX,Deparle Nancy Ann,Dir,S - Sale,$21.91,"-2,553",0,-100%,"-$55,936",-3,-6,-6,-27
+833,,2006-05-03 15:50:48,2006-05-03,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$21.87,"+5,000","259,466",+2%,"+$109,350",-1,-3,-7,-28
+834,D,2006-05-03 15:50:43,2006-05-03,BSX,Deparle Nancy Ann,Dir,S - Sale+OE,$22.00,"-77,810","2,553",-97%,"-$1,711,820",-1,-3,-7,-28
+835,,2006-05-03 09:38:15,2006-05-02,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$22.06,"+5,000","254,466",+2%,"+$110,300",-1,-3,-7,-28
+836,,2006-04-25 11:48:15,2006-04-24,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$22.17,"+10,000","249,466",+4%,"+$221,700",+4,+1,-12,-26
+837,,2006-03-02 13:41:06,2006-02-28,BSX,Reinhardt Uwe E,Dir,P - Purchase,$24.45,"+5,000","37,000",+16%,"+$122,250",-2,-4,-3,-27
+838,,2006-03-02 13:41:04,2006-02-28,BSX,Pepper John E,Dir,P - Purchase,$24.45,"+15,000","47,400",+46%,"+$366,750",-2,-4,-3,-27
+839,,2006-02-23 16:36:24,2006-02-21,BSX,Moreci Stephen F,"SVP, Endosurgery",P - Purchase,$24.37,"+4,103","7,422",+124%,"+$99,990",0,-1,-3,-30
+840,,2006-02-17 09:53:57,2006-02-16,BSX,Burns Ursula M,Dir,P - Purchase,$24.31,"+3,000","10,500",+40%,"+$72,930",-1,-1,-4,-32
+841,,2006-02-15 17:25:55,2006-02-15,BSX,Best Lawrence C,"SVP, CFO",P - Purchase,$22.43,"+200,000","238,842",+515%,"+$4,486,940",+9,+7,0,-29
+842,,2006-02-15 14:29:53,2006-02-13,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$21.89,"+10,000","239,466",+4%,"+$218,900",+12,+10,+2,-26
+843,,2006-02-13 15:41:54,2006-02-13,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$21.88,"+5,000","229,466",+2%,"+$109,400",+1,+12,+5,-25
+844,,2006-02-13 15:41:29,2006-02-09,BSX,Nicholas  Nicholas J Jr,Dir,P - Purchase,$22.23,"+10,000","224,466",+5%,"+$222,300",+1,+12,+5,-25
+845,D,2005-12-20 16:48:07,2005-12-19,BSX,Russell Mary E,"SVP, CMO",S - Sale+OE,$25.52,"-6,000",0,-100%,"-$153,120",+1,0,-6,-24
+846,D,2005-08-04 15:06:04,2005-08-03,BSX,Russell Mary E,"SVP, CMO",S - Sale+OE,$28.50,"-26,000",0,-100%,"-$741,000",-2,+1,-7,-23
+847,D,2005-06-02 16:13:37,2005-05-31,BSX,Moreci Stephen F,"SVP, Endosurgery",S - Sale+OE,$27.31,"-52,500","3,319",-94%,"-$1,433,547",0,+1,-3,-5
+848,D,2005-05-17 16:24:09,2005-05-16,BSX,Burns Brian R,SVP - Quality,S - Sale+OE,$30.52,"-11,666","4,019",-74%,"-$356,087",-1,0,-6,-17
+849,DM,2005-05-06 17:16:17,2005-05-04,BSX,Laviolette Paul A,"SVP, Group Pres",S - Sale+OE,$29.31,"-400,000","44,309",-90%,"-$11,725,347",0,+3,-6,-15
+850,D,2005-02-10 13:45:58,2005-02-09,BSX,Taylor James H Jr,"SVP, Operations",S - Sale+OE,$32.88,"-32,500","20,167",-62%,"-$1,068,443",0,+2,-8,-13
+851,D,2004-11-10 17:12:44,2004-11-08,BSX,Taylor James H Jr,"SVP, Operations",S - Sale+OE,$36.36,"-82,500","15,022",-85%,"-$2,999,550",+1,-4,-3,-13
+852,,2004-11-01 16:40:28,2004-10-28,BSX,Burns Ursula M,Dir,P - Purchase,$35.55,"+1,000","7,500",+15%,"+$35,550",0,+6,0,-15
+853,D,2004-09-29 12:14:49,2004-09-27,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$37.85,"-50,000",0,-100%,"-$1,892,593",+2,0,-8,-24
+854,D,2004-09-16 16:57:03,2004-09-14,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$39.00,"-10,000","44,692",-18%,"-$390,000",-1,-2,-3,-21
+855,,2004-08-11 16:24:40,2004-08-10,BSX,Burns Ursula M,Dir,P - Purchase,$32.62,"+2,500","6,500",+63%,"+$81,550",-1,-2,+17,-1
+856,DM,2004-06-28 16:57:21,2004-06-24,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$41.80,"-50,000",0,-100%,"-$2,089,904",-1,+3,-9,-13
+857,DM,2004-06-01 16:53:20,2004-05-27,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$44.29,"-110,000","44,535",-71%,"-$4,871,800",-2,-5,-6,-26
+858,,2004-06-01 16:41:36,2004-05-27,BSX,Reinhardt Uwe E,Dir,P - Purchase,$45.05,"+10,000","30,000",+50%,"+$450,499",-2,-5,-6,-26
+859,D,2004-06-01 16:41:28,2004-05-27,BSX,Moreci Stephen F,"SVP, Group Pres",S - Sale+OE,$45.07,"-20,000",206,-99%,"-$901,400",-2,-5,-6,-26
+860,D,2004-06-01 16:41:23,2004-05-27,BSX,Laviolette Paul A,"SVP, Group Pres",S - Sale+OE,$45.07,"-68,000","43,529",-61%,"-$3,064,760",-2,-5,-6,-26
+861,D,2004-05-28 15:27:33,2004-05-26,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$45.00,"-100,000","36,434",-73%,"-$4,500,000",-2,-5,-9,-24
+862,D,2004-05-28 15:26:11,2004-05-26,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$42.60,"-65,000","44,535",-59%,"-$2,769,029",-2,-5,-9,-24
+863,,2004-05-06 14:37:33,2004-05-04,BSX,Mario Ernest,Dir,P - Purchase,$39.85,"+2,700","150,998",+2%,"+$107,600",-3,-3,+6,-11
+864,,2004-04-29 17:14:54,2004-04-27,BSX,Mario Ernest,Dir,P - Purchase,$40.23,"+4,300","148,298",+3%,"+$172,987",+1,-1,+11,-14
+865,,2004-04-28 18:45:08,2004-04-27,BSX,Tobin James R,"Pres, CEO",S - Sale,$40.72,"-139,100","59,491",-70%,"-$5,663,632",+1,0,+11,-13
+866,,2004-04-28 18:43:41,2004-04-27,BSX,Tobin James R,"Pres, CEO",S - Sale,$40.17,"-211,100","189,100",-53%,"-$8,480,899",+1,0,+11,-13
+867,,2004-04-28 18:42:18,2004-04-27,BSX,Tobin James R,"Pres, CEO",S - Sale,$40.17,"-211,100","189,100",-53%,"-$8,480,899",+1,0,+11,-13
+868,M,2004-04-28 18:41:27,2004-04-26,BSX,Tobin James R,"Pres, CEO",S - Sale,$40.63,"-225,200","400,200",-36%,"-$9,150,615",+1,0,+11,-13
+869,AM,2004-04-28 18:38:12,2004-04-26,BSX,Tobin James R,"Pres, CEO",S - Sale,$40.63,"-225,200","400,200",-36%,"-$9,150,615",+1,0,+11,-13
+870,,2004-04-28 18:36:54,2004-04-26,BSX,Tobin James R,"Pres, CEO",S - Sale,$41.59,"-87,800","125,400",-41%,"-$3,651,834",+1,0,+11,-13
+871,D,2004-04-28 18:35:35,2004-04-26,BSX,Tobin James R,"Pres, CEO",S - Sale+OE,$41.20,"-336,800","213,200",-61%,"-$13,875,445",+1,0,+11,-13
+872,D,2004-04-23 13:57:20,2004-04-22,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$42.00,"-25,400",0,-100%,"-$1,066,711",-1,-3,-10,-16
+873,D,2004-04-21 15:04:26,2004-04-19,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$44.00,"-25,000",400,-98%,"-$1,100,000",-1,-3,-8,-16
+874,D,2004-04-09 15:29:54,2004-04-07,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$45.10,"-325,000","36,434",-90%,"-$14,657,430",+2,-1,-11,-14
+875,D,2004-04-08 16:29:21,2004-04-06,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$45.50,"-325,000","36,434",-90%,"-$14,787,625",+2,-3,-9,-13
+876,D,2004-04-07 16:33:28,2004-04-05,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$45.03,"-325,000","36,434",-90%,"-$14,635,134",-2,-3,-12,-14
+877,D,2004-03-30 14:49:41,2004-03-26,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$42.00,"-15,000",400,-97%,"-$630,000",0,+6,-7,-11
+878,D,2004-03-25 15:46:53,2004-03-23,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$41.16,"-35,000",400,-99%,"-$1,440,700",+1,+2,+1,-9
+879,D,2004-03-08 17:15:53,2004-03-05,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$45.00,"-225,000","36,350",-86%,"-$10,125,000",-1,-5,+5,-10
+880,D,2004-03-08 09:56:50,2004-03-04,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$44.00,"-75,000","44,272",-63%,"-$3,300,000",0,-5,+5,-10
+881,D,2004-02-27 17:09:03,2004-02-27,BSX,Taylor James H Jr,"SVP, Operations",S - Sale+OE,$40.89,"-125,000","14,303",-90%,"-$5,110,743",+3,+8,+3,-10
+882,D,2004-02-27 17:09:00,2004-02-26,BSX,Moreci Stephen F,"SVP, Group Pres",S - Sale+OE,$40.95,"-252,500",206,-100%,"-$10,339,865",+3,+8,+3,-10
+883,D,2004-02-27 17:08:59,2004-02-27,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$41.00,"-25,000","44,272",-36%,"-$1,025,000",+3,+8,+3,-10
+884,D,2004-02-27 17:08:49,2004-02-27,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$40.85,"-25,000",400,-98%,"-$1,021,250",+3,+8,+3,-10
+885,D,2004-02-19 16:53:46,2004-02-18,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$41.50,"-100,000","44,272",-69%,"-$4,150,000",+1,-1,-3,-18
+886,D,2004-02-18 17:01:47,2004-02-17,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$42.98,"-25,000",400,-98%,"-$1,074,500",-1,-1,-2,-20
+887,D,2004-02-13 17:02:38,2004-02-11,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$42.79,"-75,000","44,272",-63%,"-$3,209,066",+1,-2,-5,-24
+888,,2004-02-10 16:46:43,2004-02-06,BSX,Nicholas  Nicholas J Jr,Dir,S - Sale,$42.07,"-120,000","192,000",-38%,"-$5,048,770",+2,+3,0,-21
+889,D,2004-02-10 16:42:15,2004-02-06,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$42.00,"-50,000","44,272",-53%,"-$2,100,000",+2,+3,0,-21
+890,D,2004-02-09 10:26:48,2004-02-05,BSX,Maclean Robert G,"SVP, HR",S - Sale+OE,$41.02,"-100,000","44,272",-69%,"-$4,102,000",-1,+1,+2,-24
+891,D,2004-02-03 17:03:10,2004-01-30,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$40.04,"-289,000","36,165",-89%,"-$11,570,493",-1,-2,+2,-14
+892,D,2004-02-02 16:12:22,2004-01-29,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$40.00,"-157,000","36,165",-81%,"-$6,280,000",+3,+3,+3,-9
+893,D,2004-01-30 16:32:50,2004-01-28,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$40.00,"-4,000","36,165",-10%,"-$160,000",+1,+3,+3,-6
+894,D,2004-01-29 17:01:57,2004-01-27,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$40.00,"-325,000","36,165",-90%,"-$13,000,010",+2,+5,+2,-7
+895,D,2004-01-28 16:49:44,2004-01-26,BSX,Best Lawrence C,"SVP, CFO",S - Sale+OE,$40.00,"-25,000","36,165",-41%,"-$1,000,000",+3,+8,+5,-6
+896,D,2004-01-20 12:40:23,2004-01-15,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$36.76,"-50,000",400,-99%,"-$1,838,083",-1,+7,+11,-8
+897,D,2003-12-23 16:59:28,2003-12-23,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$34.25,"-25,000","4,982",-83%,"-$856,250",0,+5,+12,+21
+898,D,2003-12-18 18:26:20,2003-12-17,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$35.75,"-25,000","4,982",-83%,"-$893,750",-1,-2,+5,+15
+899,D,2003-12-17 14:39:54,2003-12-15,BSX,Sandman Paul W,"SVP, GC",S - Sale+OE,$34.78,"-50,000","166,188",-23%,"-$1,738,878",+6,+3,+11,+21
+900,D,2003-12-15 18:19:44,2003-12-12,BSX,Sandman Paul W,"SVP, GC",S - Sale+OE,$34.58,"-300,000","35,188",-90%,"-$10,373,995",-1,+3,+9,+18
+901,,2003-12-02 15:56:02,2003-11-28,BSX,Reinhardt Uwe E,Dir,P - Purchase,$36.02,"+6,000","18,000",+50%,"+$216,120",-1,-3,+2,+24
+902,D,2003-12-01 16:59:10,2003-11-26,BSX,Sandman Paul W,"SVP, GC",S - Sale+OE,$34.96,"-220,000","35,188",-86%,"-$7,692,015",-1,-2,+1,+26
+903,D,2003-12-01 16:59:04,2003-11-26,BSX,Moreci Stephen F,"SVP, Group Pres",S - Sale+OE,$35.14,"-69,000",4,-100%,"-$2,424,803",-1,-2,+1,+26
+904,,2003-11-25 17:24:28,2003-11-24,BSX,Abele John E,"Dir, 10%",S - Sale,$35.76,"-100,000","54,521,938",0%,"-$3,576,250",-1,+1,-2,+26
+905,D,2003-11-20 17:00:23,2003-11-19,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$34.10,"-25,000","4,982",-83%,"-$852,500",-3,0,0,+8
+906,D,2003-11-20 16:48:25,2003-11-18,BSX,Colen Fred,"SVP, CTO",S - Sale+OE,$33.75,"-25,000","4,982",-83%,"-$843,627",-3,0,0,+8
+907,D,2003-11-14 11:32:22,2003-11-12,BSX,Moreci Stephen F,"SVP, Group Pres",S - Sale+OE,$34.00,"-92,500",4,-100%,"-$3,145,000",0,+1,-1,+14
+908,D,2003-11-04 18:12:28,2003-11-03,BSX,Taylor James H Jr,"SVP, Operations",S - Sale+OE,$68.60,"-93,750","6,982",-93%,"-$6,431,250",+3,0,+7,+20
+909,,2003-11-04 17:19:55,2003-11-03,BSX,Moreci Stephen F,"SVP, Group Pres",S - Sale,$68.73,"-2,435",2,-100%,"-$167,362",+3,0,+7,+20
+910,,2003-10-29 11:59:53,2003-10-27,BSX,Fox Marye Anne,Dir,P - Purchase,$65.11,+457,"3,657",+14%,"+$29,757",+5,+5,+9,+26
+911,D,2003-10-27 17:37:14,2003-10-24,BSX,Moreci Stephen F,"SVP, Group Pres",S - Sale+OE,$64.39,"-35,000","2,437",-93%,"-$2,253,661",-1,+3,+9,+23
+912,,2003-10-21 17:10:40,2003-10-20,BSX,Colen Fred,SVP,S - Sale,$63.25,"-25,000","2,491",-91%,"-$1,581,300",+1,+3,+6,+30
+913,,2003-10-07 16:05:06,2003-10-03,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$66.06,"-10,300","15,219",-40%,"-$680,382",0,-1,+7,+43
+914,,2003-10-07 16:04:37,2003-10-03,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$66.19,"-30,800","25,519",-55%,"-$2,038,720",0,-1,+7,+43
+915,,2003-10-07 16:02:43,2003-10-03,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$66.35,"-33,900","56,319",-38%,"-$2,249,297",0,-1,+7,+43
+916,,2003-10-06 16:27:42,2003-10-02,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.39,"-11,400","90,219",-11%,"-$745,448",-3,-3,+5,+40
+917,M,2003-10-06 16:27:21,2003-10-02,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.65,"-23,600","101,619",-19%,"-$1,549,236",-3,-3,+5,+40
+918,,2003-10-06 16:26:41,2003-10-02,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.64,"-40,000","125,219",-24%,"-$2,625,601",-3,-3,+5,+40
+919,,2003-10-03 18:13:27,2003-10-01,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.19,"-7,200","165,219",-4%,"-$462,170",-2,-4,+2,+36
+920,,2003-10-03 18:12:44,2003-10-01,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.84,"-15,900","172,419",-8%,"-$1,030,969",-2,-4,+2,+36
+921,,2003-10-03 18:12:16,2003-10-01,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.02,"-18,300","188,319",-9%,"-$1,189,829",-2,-4,+2,+36
+922,M,2003-10-03 18:11:01,2003-10-01,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.84,"-13,500","206,619",-6%,"-$875,278",-2,-4,+2,+36
+923,,2003-10-03 18:10:41,2003-10-01,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.33,"-20,100","220,119",-8%,"-$1,313,180",-2,-4,+2,+36
+924,,2003-10-02 17:58:24,2003-09-30,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.03,"-28,800","243,719",-11%,"-$1,843,999",+1,-4,+3,+32
+925,,2003-10-02 17:27:35,2003-09-30,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.17,"-3,500","240,219",-1%,"-$224,594",+1,-4,+3,+32
+926,,2003-10-02 17:26:40,2003-09-30,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.10,"-30,800","272,519",-10%,"-$1,974,159",+1,-4,+3,+32
+927,M,2003-10-02 17:19:42,2003-09-30,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$63.85,"-11,900","303,319",-4%,"-$759,845",+1,-4,+3,+32
+928,,2003-10-01 16:10:10,2003-09-29,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$63.56,"-7,300","515,219",-1%,"-$464,005",0,-4,+3,+30
+929,,2003-10-01 16:09:39,2003-09-29,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$63.35,"-32,200","522,519",-6%,"-$2,039,776",0,-4,+3,+30
+930,,2003-10-01 16:09:14,2003-09-29,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$63.51,"-35,500","554,719",-6%,"-$2,254,430",0,-4,+3,+30
+931,,2003-09-30 16:34:33,2003-09-26,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$63.97,"-22,100","490,219",-4%,"-$1,413,776",+3,+2,+1,+35
+932,,2003-09-30 16:31:49,2003-09-26,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$63.88,"-77,900","512,319",-13%,"-$4,976,627",+3,+2,+1,+35
+933,,2003-09-29 16:13:36,2003-09-25,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.91,"-20,200","590,219",-3%,"-$1,311,237",+1,+5,+3,+36
+934,,2003-09-29 16:13:14,2003-09-25,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.91,"-52,200","610,419",-8%,"-$3,388,093",+1,+5,+3,+36
+935,,2003-09-29 16:12:43,2003-09-25,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.59,"-27,600","662,619",-4%,"-$1,782,672",+1,+5,+3,+36
+936,,2003-09-29 16:11:51,2003-09-25,BSX,Colen Fred,SVP,S - Sale,$65.00,"-15,000","2,491",-86%,"-$975,000",+1,+5,+3,+36
+937,,2003-09-26 16:44:43,2003-09-24,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.90,"-5,100","590,219",-1%,"-$336,090",-1,+3,+1,+32
+938,,2003-09-26 16:44:10,2003-09-24,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.33,"-34,500","595,319",-5%,"-$2,253,874",-1,+3,+1,+32
+939,,2003-09-26 16:42:08,2003-09-24,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$64.93,"-60,400","629,819",-9%,"-$3,921,485",-1,+3,+1,+32
+940,,2003-09-24 17:13:57,2003-09-23,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$66.76,"-4,400","690,219",-1%,"-$293,740",0,-2,-1,+27
+941,,2003-09-24 17:13:24,2003-09-23,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$66.19,"-37,200","694,619",-5%,"-$2,462,336",0,-2,-1,+27
+942,,2003-09-24 17:13:03,2003-09-23,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$65.70,"-61,528","731,819",-8%,"-$4,042,500",0,-2,-1,+27
+943,,2003-09-24 16:50:02,2003-09-22,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$67.23,"-18,400","793,347",-2%,"-$1,236,994",0,-2,-1,+27
+944,,2003-09-24 16:49:21,2003-09-22,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$67.08,"-49,000","811,747",-6%,"-$3,287,036",0,-2,-1,+27
+945,,2003-09-24 16:45:37,2003-09-22,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$67.28,"-32,600","860,747",-4%,"-$2,193,252",0,-2,-1,+27
+946,,2003-09-24 16:34:18,2003-09-22,BSX,Colen Fred,SVP,S - Sale,$67.00,"-10,000","2,491",-80%,"-$670,000",0,-2,-1,+27
+947,,2003-09-23 17:01:31,2003-09-19,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$68.52,"-15,100","893,347",-2%,"-$1,034,661",-1,-3,-3,+26
+948,,2003-09-23 16:57:33,2003-09-19,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$68.28,"-59,900","908,447",-6%,"-$4,090,009",-1,-3,-3,+26
+949,,2003-09-22 16:51:08,2003-09-18,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$68.35,"-18,500","968,347",-2%,"-$1,264,522",-2,-5,-5,+18
+950,,2003-09-22 16:50:38,2003-09-18,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$68.12,"-19,800","986,847",-2%,"-$1,348,726",-2,-5,-5,+18
+951,,2003-09-22 16:50:13,2003-09-18,BSX,Best Lawrence C,"SVP, CFO",S - Sale,$67.30,"-11,700","1,006,647",-1%,"-$787,449",-2,-5,-5,+18
+952,,2003-08-27 15:12:09,2003-08-25,BSX,Colen Fred,SVP,S - Sale,$65.11,"-50,000","2,491",-95%,"-$3,255,662",-3,-8,-1,+25

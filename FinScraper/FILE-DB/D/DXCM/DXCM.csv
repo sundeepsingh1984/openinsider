@@ -1,0 +1,885 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type  ,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m
+0,,,,,,,,,,,,,,,,
+1,,2021-10-18 19:35:59,2021-10-15,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$549.22,"-6,000","90,705",-6%,"-$3,295,334",,,,
+2,,2021-10-15 19:13:20,2021-10-13,DXCM,Patterson Chad,"EVP, Global Marketing",S - Sale,$545.54,-141,"9,603",-1%,"-$76,921",,,,
+3,,2021-10-05 18:28:13,2021-10-01,DXCM,Foletta Mark G,Dir,S - Sale,$543.09,-500,"14,651",-3%,"-$271,547",,,,
+4,,2021-09-24 20:01:56,2021-09-23,DXCM,Pacelli Steven Robert,"Managing Dir., Dexcom Ventures",S - Sale,$573.34,"-6,743","41,079",-14%,"-$3,866,020",,,,
+5,,2021-09-16 19:01:53,2021-09-15,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$540.58,"-6,000","96,705",-6%,"-$3,243,462",,,,
+6,,2021-09-15 16:14:29,2021-09-13,DXCM,Patterson Chad,"EVP, Global Marketing",S - Sale,$541.47,-156,"9,744",-2%,"-$84,469",,,,
+7,M,2021-09-13 20:19:33,2021-09-09,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$549.00,"-2,904","13,014",-18%,"-$1,594,281",,,,
+8,,2021-09-13 20:19:16,2021-09-09,DXCM,Balo Andrew K,*,S - Sale,$546.78,"-5,597","21,609",-21%,"-$3,060,337",,,,
+9,,2021-09-13 20:01:28,2021-09-09,DXCM,Sylvain Jereme M,"EVP, CFO",S - Sale,$541.37,-407,"13,526",-3%,"-$220,336",,,,
+10,,2021-09-13 20:01:12,2021-09-09,DXCM,Shrishrimal Sumi,SVP Chief Risk Officer,S - Sale,$541.37,-407,"12,234",-3%,"-$220,339",,,,
+11,,2021-09-13 20:01:10,2021-09-09,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$541.36,"-3,017","102,705",-3%,"-$1,633,280",,,,
+12,,2021-09-13 20:00:53,2021-09-09,DXCM,Patterson Chad,"EVP, Global Marketing",S - Sale,$541.37,-291,"9,900",-3%,"-$157,538",,,,
+13,,2021-09-13 20:00:45,2021-09-09,DXCM,Pacelli Steven Robert,"Managing Dir., Dexcom Ventures",S - Sale,$541.37,"-1,263","47,822",-3%,"-$683,747",,,,
+14,,2021-09-13 20:00:29,2021-09-09,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$541.37,-987,"16,254",-6%,"-$534,327",,,,
+15,M,2021-09-10 16:15:04,2021-09-08,DXCM,Blackford Quentin S.,COO,S - Sale,$547.62,"-18,662","19,280",-49%,"-$10,219,648",,,,
+16,,2021-09-08 18:54:19,2021-09-07,DXCM,Sylvain Jereme M,"EVP, CFO",S - Sale,$545.41,-587,"13,933",-4%,"-$320,156",,,,
+17,,2021-08-27 18:38:42,2021-08-26,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$517.24,-500,"17,241",-3%,"-$258,620",,,,
+18,,2021-08-04 20:36:10,2021-08-03,DXCM,Balo Andrew K,*,S - Sale,$515.87,"-2,757","27,185",-9%,"-$1,422,247",,,,
+19,,2021-08-02 18:19:30,2021-07-30,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$476.70,"-12,087","82,378",-13%,"-$5,761,873",,,,
+20,,2021-07-27 18:04:02,2021-07-26,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$458.79,-500,"17,741",-3%,"-$229,395",,,,
+21,,2021-07-27 18:03:46,2021-07-23,DXCM,Pacelli Steven Robert,"Managing Dir., Dexcom Ventures",S - Sale,$452.18,"-1,079","50,163",-2%,"-$487,897",,,,
+22,,2021-07-16 20:40:32,2021-07-16,DXCM,Shrishrimal Sumi,SVP Chief Risk Officer,S - Sale,$450.00,-400,"12,586",-3%,"-$180,000",,,,
+23,,2021-07-08 19:45:51,2021-07-06,DXCM,Balo Andrew K,*,S - Sale,$430.14,"-2,974","29,942",-9%,"-$1,279,228",,,,
+24,,2021-06-29 19:05:45,2021-06-28,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$431.49,-500,"18,241",-3%,"-$215,745",,,,
+25,,2021-06-24 17:59:50,2021-06-22,DXCM,Skyler Jay S,Dir,S - Sale,$426.37,"-20,000","24,868",-45%,"-$8,527,406",,,,
+26,,2021-06-24 17:59:44,2021-06-23,DXCM,Pacelli Steven Robert,"Managing Dir., Dexcom Ventures",S - Sale,$426.92,"-1,079","51,242",-2%,"-$460,651",,,,
+27,,2021-06-15 18:14:54,2021-06-11,DXCM,Shrishrimal Sumi,SVP Chief Risk Officer,S - Sale,$401.09,-400,"12,986",-3%,"-$160,436",,,,
+28,,2021-06-10 17:43:26,2021-06-09,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$395.00,"-22,755","94,465",-19%,"-$8,988,225",,,,
+29,,2021-06-07 19:35:26,2021-06-03,DXCM,Augustinos Nicholas,Dir,S - Sale,$366.99,-806,"11,010",-7%,"-$295,794",,,,
+30,,2021-06-07 19:33:10,2021-06-03,DXCM,Balo Andrew K,*,S - Sale,$375.00,"-2,391","32,916",-7%,"-$896,625",,,,
+31,,2021-06-01 21:14:36,2021-05-28,DXCM,Blackford Quentin S.,COO,S - Sale,$375.00,"-7,223","37,942",-16%,"-$2,708,625",,,,
+32,,2021-05-27 17:28:08,2021-05-25,DXCM,Shrishrimal Sumi,SVP Chief Risk Officer,S - Sale,$354.79,"-1,461","13,386",-10%,"-$518,348",,,,
+33,,2021-05-27 17:27:55,2021-05-26,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$350.00,-500,"18,741",-3%,"-$175,000",,,,
+34,,2021-05-26 16:58:07,2021-05-24,DXCM,Sylvain Jereme M,"EVP, CFO",S - Sale,$346.74,-600,"14,508",-4%,"-$208,044",,,,
+35,,2021-05-26 16:57:55,2021-05-24,DXCM,Pacelli Steven Robert,"Managing Dir., Dexcom Ventures",S - Sale,$348.71,"-1,079","52,321",-2%,"-$376,260",,,,
+36,,2021-05-05 17:35:37,2021-05-03,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$379.88,"-5,535","105,722",-5%,"-$2,102,626",,,,
+37,,2021-04-27 18:27:01,2021-04-26,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$415.83,-500,"19,241",-3%,"-$207,915",,,,
+38,,2021-04-26 20:09:35,2021-04-23,DXCM,Pacelli Steven Robert,"Managing Dir., Dexcom Ventures",S - Sale,$410.31,"-1,079","53,400",-2%,"-$442,727",,,,
+39,,2021-04-16 16:44:57,2021-04-15,DXCM,Flynn Paul R,"EVP, Global Revenue",S - Sale,$400.00,-758,"12,306",-6%,"-$303,200",,,,
+40,,2021-04-07 17:05:20,2021-04-05,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$366.67,"-6,221","111,257",-5%,"-$2,281,082",,,,
+41,,2021-03-30 17:45:30,2021-03-26,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$350.00,-500,"19,741",-2%,"-$175,000",,,,
+42,,2021-03-24 20:18:26,2021-03-23,DXCM,Pacelli Steven Robert,"Managing Dir., Dexcom Ventures",S - Sale,$360.49,"-1,079","54,479",-2%,"-$388,967",,,,
+43,,2021-03-24 20:18:16,2021-03-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$360.49,"-1,109","28,208",-4%,"-$399,788",,,,
+44,,2021-03-12 17:42:01,2021-03-10,DXCM,Sylvain Jereme M,"SVP, Finance, CAO",S - Sale,$362.92,-941,"15,108",-6%,"-$341,505",,,,
+45,M,2021-03-12 17:41:25,2021-03-10,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$360.03,"-4,567","16,136",-22%,"-$1,644,267",,,,
+46,,2021-03-12 17:40:45,2021-03-10,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$362.92,"-14,044","117,478",-11%,"-$5,096,806",,,,
+47,,2021-03-12 17:40:04,2021-03-10,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$362.92,"-5,566","55,558",-9%,"-$2,019,996",,,,
+48,,2021-03-12 17:39:39,2021-03-10,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$362.92,"-3,471","20,241",-15%,"-$1,259,685",,,,
+49,,2021-03-12 17:38:59,2021-03-10,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$362.92,"-5,353","117,220",-4%,"-$1,942,695",,,,
+50,,2021-03-12 17:38:06,2021-03-10,DXCM,Blackford Quentin S.,"COO, CFO",S - Sale,$362.22,"-6,509","45,165",-13%,"-$2,357,688",,,,
+51,,2021-03-12 17:37:35,2021-03-10,DXCM,Balo Andrew K,*,S - Sale,$362.92,"-5,566","35,307",-14%,"-$2,019,996",,,,
+52,,2021-03-12 17:36:56,2021-03-10,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$362.92,"-5,566","49,937",-10%,"-$2,019,996",,,,
+53,,2021-03-10 19:29:41,2021-03-09,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$356.94,-152,"20,703",-1%,"-$54,255",,,,
+54,,2021-03-10 19:29:21,2021-03-09,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$361.11,"-3,857","131,522",-3%,"-$1,392,796",,,,
+55,,2021-03-02 19:31:35,2021-02-26,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$396.79,-500,"18,078",-3%,"-$198,395",,,,
+56,,2021-02-26 18:02:06,2021-02-24,DXCM,Sylvain Jereme M,"SVP, Finance, CAO",S - Sale,$404.00,-600,"10,700",-5%,"-$242,400",,,,
+57,,2021-02-26 18:01:53,2021-02-24,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$404.00,"-1,110","29,287",-4%,"-$448,440",,,,
+58,,2021-02-24 19:57:55,2021-02-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$406.98,"-1,079","55,823",-2%,"-$439,131",,,,
+59,,2021-02-23 18:33:04,2021-02-19,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$420.01,"-1,800","56,902",-3%,"-$756,025",,,,
+60,,2021-02-17 21:36:31,2021-02-16,DXCM,Augustinos Nicholas,Dir,S - Sale,$412.03,"-1,875","10,898",-15%,"-$772,556",,,,
+61,,2021-02-03 19:34:07,2021-02-01,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$378.17,"-12,468","131,934",-9%,"-$4,714,965",,,,
+62,,2021-01-29 17:08:51,2021-01-27,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$359.70,-500,"18,578",-3%,"-$179,850",,,,
+63,,2021-01-25 20:21:35,2021-01-22,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$368.82,"-1,079","58,702",-2%,"-$397,960",,,,
+64,,2021-01-25 20:21:24,2021-01-22,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$368.84,"-1,110","30,397",-4%,"-$409,407",,,,
+65,M,2021-01-14 17:06:13,2021-01-12,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$360.81,"-47,022","144,402",-25%,"-$16,965,905",,,,
+66,,2021-01-07 16:40:25,2021-01-06,DXCM,Augustinos Nicholas,Dir,S - Sale,$375.00,-625,"12,773",-5%,"-$234,375",,,,
+67,,2021-01-06 17:10:58,2021-01-04,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$366.06,"-11,025","31,507",-26%,"-$4,035,812",,,,
+68,,2020-12-29 20:58:42,2020-12-28,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$355.39,-500,"19,078",-3%,"-$177,695",,,,
+69,,2020-12-28 17:43:48,2020-12-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$359.85,"-1,079","59,781",-2%,"-$388,276",,,,
+70,,2020-12-28 17:43:36,2020-12-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$359.92,"-1,110","43,482",-2%,"-$399,516",,,,
+71,,2020-12-18 19:53:18,2020-12-16,DXCM,Augustinos Nicholas,Dir,S - Sale,$354.55,"-1,250","13,398",-9%,"-$443,183",,,,
+72,,2020-12-17 17:12:21,2020-12-15,DXCM,Heller Bridgette P,Dir,S - Sale,$356.65,-375,"3,448",-10%,"-$133,744",,,,
+73,,2020-12-03 17:11:50,2020-12-01,DXCM,Sayer Kevin R,"COB, CEO, Pres",S - Sale,$322.18,"-13,233","115,514",-10%,"-$4,263,358",,,,
+74,,2020-12-03 17:11:37,2020-12-01,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$325.00,"-6,154","19,578",-24%,"-$2,000,050",,,,
+75,,2020-11-25 16:50:46,2020-11-24,DXCM,Sylvain Jereme M,"SVP, Finance, CAO",S - Sale,$320.37,-600,"11,300",-5%,"-$192,222",,,,
+76,,2020-11-25 16:50:34,2020-11-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$318.99,"-1,079","60,860",-2%,"-$344,190",,,,
+77,,2020-11-25 16:50:23,2020-11-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$318.99,"-1,110","44,592",-2%,"-$354,079",,,,
+78,,2020-11-18 18:57:52,2020-11-16,DXCM,Foletta Mark G,Dir,S - Sale,$341.32,"-1,000","14,097",-7%,"-$341,320",,,,
+79,,2020-11-12 17:39:17,2020-11-10,DXCM,Sylvain Jereme M,"SVP, Finance, CAO",S - Sale,$336.22,-632,"11,900",-5%,"-$212,491",,,,
+80,,2020-10-30 17:01:51,2020-10-29,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$340.14,"-13,830","128,747",-10%,"-$4,704,197",,,,
+81,,2020-10-27 18:20:02,2020-10-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$403.18,"-1,079","61,939",-2%,"-$435,030",,,,
+82,,2020-10-27 18:19:50,2020-10-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$403.10,"-1,110","45,702",-2%,"-$447,444",,,,
+83,,2020-10-19 16:30:06,2020-10-15,DXCM,Foletta Mark G,Dir,S - Sale,$396.82,"-1,000","15,097",-6%,"-$396,819",,,,
+84,M,2020-10-02 18:08:52,2020-09-30,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$411.20,"-2,200","63,018",-3%,"-$904,637",,,,
+85,,2020-09-28 17:35:45,2020-09-25,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$400.07,"-2,000","65,218",-3%,"-$800,137",,,,
+86,,2020-09-28 17:35:37,2020-09-24,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$380.96,"-1,530","46,812",-3%,"-$582,861",,,,
+87,,2020-09-24 16:30:59,2020-09-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$395.11,"-1,079","67,218",-2%,"-$426,324",,,,
+88,,2020-09-18 16:57:08,2020-09-16,DXCM,Augustinos Nicholas,Dir,S - Sale,$399.79,"-1,875","14,648",-11%,"-$749,596",,,,
+89,,2020-09-16 19:36:56,2020-09-15,DXCM,Altman Steven R,Dir,S - Sale,$393.92,"-30,000","13,786",-69%,"-$11,817,600",,,,
+90,,2020-09-16 16:44:45,2020-09-14,DXCM,Foletta Mark G,Dir,S - Sale,$394.14,"-1,000","16,097",-6%,"-$394,136",,,,
+91,,2020-09-16 16:44:32,2020-09-15,DXCM,Balo Andrew K,*,S - Sale,$397.35,"-5,256","35,567",-13%,"-$2,088,490",,,,
+92,,2020-09-11 18:59:32,2020-09-09,DXCM,Sylvain Jereme M,"SVP, Finance, CAO",S - Sale,$398.30,-289,"12,532",-2%,"-$115,109",,,,
+93,M,2020-09-11 18:59:24,2020-09-09,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$399.43,"-4,328","17,753",-20%,"-$1,728,725",,,,
+94,,2020-09-11 18:59:09,2020-09-09,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$398.30,"-9,965","142,577",-7%,"-$3,969,079",,,,
+95,,2020-09-11 18:58:57,2020-09-09,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$398.30,"-4,580","68,297",-6%,"-$1,824,223",,,,
+96,,2020-09-11 18:58:47,2020-09-09,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$398.30,"-2,444","25,732",-9%,"-$973,450",,,,
+97,,2020-09-11 18:58:23,2020-09-09,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$398.30,"-3,860","115,372",-3%,"-$1,537,446",,,,
+98,,2020-09-11 18:58:09,2020-09-09,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$398.30,"-4,699","48,342",-9%,"-$1,871,621",,,,
+99,M,2020-09-11 18:57:59,2020-09-09,DXCM,Blackford Quentin S.,"COO, CFO",S - Sale,$399.41,"-25,079","44,124",-36%,"-$10,016,863",,,,
+100,,2020-09-11 18:57:43,2020-09-09,DXCM,Balo Andrew K,*,S - Sale,$398.30,"-4,580","40,823",-10%,"-$1,824,223",,,,
+101,,2020-09-11 18:57:32,2020-09-09,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$394.43,"-9,739","50,202",-16%,"-$3,841,392",,,,
+102,,2020-08-26 19:04:23,2020-08-24,DXCM,Sylvain Jereme M,"SVP, Finance, CAO",S - Sale,$427.41,-600,"12,817",-4%,"-$256,446",,,,
+103,,2020-08-26 19:04:10,2020-08-24,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$427.24,"-1,531","72,877",-2%,"-$654,107",,,,
+104,,2020-08-26 19:03:57,2020-08-24,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$427.22,"-1,530","53,012",-3%,"-$653,642",,,,
+105,,2020-08-26 19:03:46,2020-08-24,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$424.66,"-9,766","59,941",-14%,"-$4,147,227",,,,
+106,,2020-08-12 17:11:55,2020-08-10,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$439.31,-400,"22,041",-2%,"-$175,724",,,,
+107,,2020-08-12 17:11:38,2020-08-10,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$439.31,-500,"28,176",-2%,"-$219,655",,,,
+108,,2020-08-12 17:11:25,2020-08-10,DXCM,Altman Steven R,Dir,S - Sale,$435.05,"-2,000","43,786",-4%,"-$870,093",,,,
+109,,2020-07-27 17:53:15,2020-07-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$427.31,"-1,531","74,408",-2%,"-$654,213",,,,
+110,,2020-07-27 17:53:03,2020-07-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$427.29,"-1,531","54,542",-3%,"-$654,188",,,,
+111,,2020-07-14 16:27:31,2020-07-10,DXCM,Altman Steven R,Dir,S - Sale,$437.50,"-2,000","45,786",-4%,"-$874,993",,,,
+112,,2020-07-14 16:27:15,2020-07-10,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$439.33,-400,"22,441",-2%,"-$175,732",,,,
+113,,2020-07-10 17:13:22,2020-07-09,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$435.80,-500,"28,676",-2%,"-$217,900",,,,
+114,,2020-07-08 19:01:59,2020-07-06,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$420.94,"-6,000","152,542",-4%,"-$2,525,662",,,,
+115,,2020-06-25 18:45:35,2020-06-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$409.37,"-1,531","75,939",-2%,"-$626,750",,,,
+116,,2020-06-25 18:45:23,2020-06-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$409.41,"-1,531","56,073",-3%,"-$626,807",,,,
+117,,2020-06-17 18:01:45,2020-06-15,DXCM,Balo Andrew K,*,S - Sale,$366.47,"-6,522","45,376",-13%,"-$2,390,096",,,,
+118,,2020-06-17 18:01:34,2020-06-15,DXCM,Augustinos Nicholas,Dir,S - Sale,$366.65,"-1,875","16,523",-10%,"-$687,463",,,,
+119,,2020-06-15 18:00:31,2020-06-11,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$376.76,"-19,129","119,193",-14%,"-$7,207,029",,,,
+120,,2020-06-12 18:54:38,2020-06-10,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$385.22,-400,"22,841",-2%,"-$154,088",,,,
+121,,2020-06-12 18:54:27,2020-06-10,DXCM,Kahn Barbara,Dir,S - Sale,$380.71,"-7,000","7,666",-48%,"-$2,665,001",,,,
+122,,2020-06-12 18:54:13,2020-06-10,DXCM,Altman Steven R,Dir,S - Sale,$385.71,"-2,000","47,786",-4%,"-$771,413",,,,
+123,,2020-06-10 17:50:47,2020-06-09,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$375.36,-500,"29,176",-2%,"-$187,680",,,,
+124,,2020-06-02 16:43:00,2020-06-01,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$376.57,"-6,000","158,542",-4%,"-$2,259,400",,,,
+125,,2020-05-28 18:47:40,2020-05-26,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$408.49,"-1,474","23,241",-6%,"-$602,114",,,,
+126,,2020-05-27 18:06:22,2020-05-22,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$396.74,"-1,531","77,470",-2%,"-$607,409",,,,
+127,,2020-05-27 17:56:10,2020-05-22,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$396.74,"-1,531","57,604",-3%,"-$607,409",,,,
+128,,2020-05-13 18:30:53,2020-05-11,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$404.05,-400,"24,715",-2%,"-$161,620",,,,
+129,,2020-05-13 18:16:13,2020-05-11,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$404.05,-500,"29,676",-2%,"-$202,025",,,,
+130,,2020-05-06 20:34:47,2020-05-04,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$344.63,"-6,000","164,542",-4%,"-$2,067,761",,,,
+131,,2020-04-27 17:00:52,2020-04-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$318.57,"-1,530","59,135",-3%,"-$487,412",,,,
+132,,2020-04-27 16:51:51,2020-04-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$318.57,"-1,531","79,001",-2%,"-$487,731",,,,
+133,,2020-04-17 18:04:35,2020-04-15,DXCM,Balo Andrew K,*,S - Sale,$283.39,"-6,690","51,898",-11%,"-$1,895,895",,,,
+134,,2020-04-15 17:18:42,2020-04-13,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$279.88,-400,"25,394",-2%,"-$111,952",,,,
+135,,2020-04-13 18:44:27,2020-04-09,DXCM,Murphy Patrick Michael,"EVP, GC",S - Sale,$259.95,-500,"30,176",-2%,"-$129,975",,,,
+136,,2020-04-08 18:10:24,2020-04-07,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$262.81,"-6,000","170,542",-3%,"-$1,576,839",,,,
+137,,2020-04-01 17:37:52,2020-03-30,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$271.79,"-1,214","25,794",-4%,"-$329,950",,,,
+138,,2020-03-25 18:22:03,2020-03-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$209.23,"-1,531","80,532",-2%,"-$320,335",,,,
+139,,2020-03-25 18:10:53,2020-03-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$209.27,"-1,531","60,665",-2%,"-$320,396",,,,
+140,,2020-03-13 21:36:19,2020-03-11,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$264.74,"-8,303","62,719",-12%,"-$2,198,160",,,,
+141,,2020-03-13 21:29:28,2020-03-11,DXCM,Balo Andrew K,*,S - Sale,$264.82,"-8,161","58,588",-12%,"-$2,161,231",,,,
+142,,2020-03-13 21:28:52,2020-03-11,DXCM,Ace Heather S,SVP HR,S - Sale,$264.69,"-6,207","38,584",-14%,"-$1,642,902",,,,
+143,,2020-03-13 21:28:31,2020-03-11,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$264.68,"-8,050","69,707",-10%,"-$2,130,657",,,,
+144,,2020-03-13 21:20:56,2020-03-11,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$264.70,"-3,387","27,008",-11%,"-$896,528",,,,
+145,,2020-03-13 21:17:48,2020-03-11,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$264.69,"-6,909","138,322",-5%,"-$1,828,756",,,,
+146,,2020-03-13 21:17:35,2020-03-11,DXCM,Sylvain Jereme M,"SVP, Finance, CAO",S - Sale,$264.83,-613,"13,417",-4%,"-$162,340",,,,
+147,,2020-03-13 21:17:22,2020-03-11,DXCM,Moy Jeffrey,EVP Operations,S - Sale,$264.76,"-6,203","58,048",-10%,"-$1,642,289",,,,
+148,M,2020-03-13 21:17:07,2020-03-11,DXCM,Blackford Quentin S.,"COO, CFO",S - Sale,$248.98,"-12,561","69,203",-15%,"-$3,127,448",,,,
+149,,2020-03-13 21:17:02,2020-03-11,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$264.82,"-20,374","176,542",-10%,"-$5,395,432",,,,
+150,,2020-03-13 21:11:42,2020-03-11,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$264.82,"-8,049","84,313",-9%,"-$2,131,534",,,,
+151,,2020-03-13 21:07:23,2020-03-11,DXCM,Murphy Patrick Michael,*,S - Sale,$264.77,"-4,082","30,676",-12%,"-$1,080,794",,,,
+152,,2020-03-10 20:56:44,2020-03-09,DXCM,Ace Heather S,SVP HR,S - Sale,$269.75,"-7,885","44,791",-15%,"-$2,126,955",,,,
+153,,2020-03-10 20:29:49,2020-03-09,DXCM,Selvaraj Shelly Ramasamy,SVP Information Technology,S - Sale,$261.00,-439,"30,395",-1%,"-$114,579",,,,
+154,,2020-03-10 20:19:39,2020-03-09,DXCM,Blackford Quentin S.,"COO, CFO",S - Sale,$261.00,-891,"81,764",-1%,"-$232,551",,,,
+155,,2020-03-10 19:34:07,2020-03-09,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$269.02,"-6,000","210,390",-3%,"-$1,614,099",,,,
+156,,2020-03-10 18:49:55,2020-03-09,DXCM,Murphy Patrick Michael,*,S - Sale,$261.00,-500,"34,758",-1%,"-$130,500",,,,
+157,,2020-03-04 18:42:40,2020-03-03,DXCM,Foletta Mark G,Dir,S - Sale,$277.08,"-1,000","16,202",-6%,"-$277,079",,,,
+158,,2020-03-03 20:15:14,2020-03-02,DXCM,Moy Jeffrey,EVP Operations,S - Sale,$278.10,-362,"55,440",-1%,"-$100,672",,,,
+159,,2020-02-26 16:31:12,2020-02-24,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$277.75,"-1,532","59,158",-3%,"-$425,507",,,,
+160,,2020-02-26 16:24:05,2020-02-24,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$277.81,"-1,531","74,624",-2%,"-$425,323",,,,
+161,,2020-02-20 18:23:10,2020-02-18,DXCM,Moy Jeffrey,EVP Operations,S - Sale,$286.91,"-6,599","55,628",-11%,"-$1,893,318",,,,
+162,,2020-02-20 18:17:43,2020-02-18,DXCM,Collins Richard Alexander,Dir,S - Sale,$284.40,"-4,000","7,917",-34%,"-$1,137,600",,,,
+163,,2020-02-18 18:58:43,2020-02-14,DXCM,Augustinos Nicholas,Dir,S - Sale,$283.80,"-1,812","17,592",-9%,"-$514,246",,,,
+164,,2020-02-11 19:53:43,2020-02-10,DXCM,Murphy Patrick Michael,"SVP, Legal Affairs",S - Sale,$240.59,-500,"26,447",-2%,"-$120,295",,,,
+165,,2020-02-11 19:48:29,2020-02-10,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$242.40,"-6,000","190,937",-3%,"-$1,454,367",,,,
+166,,2020-02-05 18:04:35,2020-02-03,DXCM,Foletta Mark G,Dir,S - Sale,$237.84,"-1,000","17,202",-5%,"-$237,843",,,,
+167,,2020-01-27 17:13:36,2020-01-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$234.34,"-1,532","60,690",-2%,"-$359,003",,,,
+168,,2020-01-27 17:06:45,2020-01-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$234.32,"-1,532","76,155",-2%,"-$358,971",,,,
+169,,2020-01-15 16:48:12,2020-01-13,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$230.62,"-6,000","196,937",-3%,"-$1,383,710",,,,
+170,,2020-01-10 20:03:28,2020-01-09,DXCM,Murphy Patrick Michael,"SVP, Legal Affairs",S - Sale,$235.01,-500,"26,947",-2%,"-$117,505",,,,
+171,,2020-01-07 20:50:17,2020-01-03,DXCM,Skyler Jay S,Dir,S - Sale,$217.85,"-25,806","43,146",-37%,"-$5,621,816",,,,
+172,,2020-01-07 20:49:49,2020-01-03,DXCM,Foletta Mark G,Dir,S - Sale,$218.05,"-1,000","18,202",-5%,"-$218,053",,,,
+173,,2020-01-06 21:05:45,2020-01-02,DXCM,Altman Steven R,Dir,S - Sale,$218.33,"-2,500","48,980",-5%,"-$545,834",,,,
+174,,2019-12-23 19:42:28,2019-12-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$213.17,"-1,532","77,687",-2%,"-$326,576",,,,
+175,,2019-12-23 19:42:01,2019-12-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$213.02,"-1,533","62,222",-2%,"-$326,558",,,,
+176,,2019-12-16 21:17:00,2019-12-16,DXCM,Augustinos Nicholas,Dir,S - Sale,$206.14,"-1,812","19,404",-9%,"-$373,526",,,,
+177,,2019-12-16 21:16:38,2019-12-12,DXCM,Kahn Barbara,Dir,S - Sale,$205.14,"-9,000","13,879",-39%,"-$1,846,222",,,,
+178,,2019-12-10 20:42:00,2019-12-09,DXCM,Murphy Patrick Michael,"SVP, Legal Affairs",S - Sale,$224.42,"-5,518","27,447",-17%,"-$1,238,346",,,,
+179,,2019-12-05 16:22:30,2019-12-03,DXCM,Foletta Mark G,Dir,S - Sale,$227.59,"-1,000","19,202",-5%,"-$227,593",,,,
+180,,2019-12-04 20:04:07,2019-12-02,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$221.37,"-10,000","202,937",-5%,"-$2,213,684",,,,
+181,,2019-11-25 19:43:16,2019-11-22,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$217.56,"-1,533","63,755",-2%,"-$333,519",,,,
+182,,2019-11-25 19:42:47,2019-11-22,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$217.56,"-1,532","79,219",-2%,"-$333,300",,,,
+183,,2019-11-25 18:20:09,2019-11-21,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$220.21,"-11,604","68,946",-14%,"-$2,555,329",,,,
+184,,2019-11-08 20:58:33,2019-11-07,DXCM,Augustinos Nicholas,Dir,S - Sale,$185.29,"-1,208","21,216",-5%,"-$223,830",,,,
+185,,2019-11-06 18:20:32,2019-11-04,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$157.50,"-10,000","212,937",-4%,"-$1,575,017",,,,
+186,,2019-10-25 16:35:32,2019-10-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$152.34,"-1,533","65,288",-2%,"-$233,530",,,,
+187,,2019-10-25 16:35:16,2019-10-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$152.37,"-1,532","80,751",-2%,"-$233,435",,,,
+188,,2019-10-03 18:40:45,2019-10-01,DXCM,Altman Steven R,Dir,S - Sale,$149.17,"-2,500","51,480",-5%,"-$372,916",,,,
+189,,2019-10-03 18:40:16,2019-10-01,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$149.60,"-10,000","222,937",-4%,"-$1,496,001",,,,
+190,,2019-09-26 20:42:39,2019-09-24,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$155.00,"-2,016","66,821",-3%,"-$312,482",,,,
+191,,2019-09-25 19:37:04,2019-09-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$155.47,"-1,532","82,283",-2%,"-$238,181",,,,
+192,,2019-09-19 18:46:35,2019-09-18,DXCM,Balo Andrew K,*,S - Sale,$151.46,"-2,386","57,916",-4%,"-$361,384",,,,
+193,,2019-09-18 18:03:50,2019-09-16,DXCM,Augustinos Nicholas,Dir,S - Sale,$145.49,"-1,208","22,424",-5%,"-$175,752",,,,
+194,,2019-09-12 16:25:30,2019-09-10,DXCM,Blackford Quentin S.,EVP CFO,S - Sale,$141.25,"-10,320","69,754",-13%,"-$1,457,691",,,,
+195,,2019-09-11 21:45:31,2019-09-09,DXCM,Moy Jeffrey,SVP Operations,S - Sale,$149.85,"-4,601","62,227",-7%,"-$689,475",,,,
+196,,2019-09-11 21:42:57,2019-09-09,DXCM,Balo Andrew K,*,S - Sale,$151.56,"-9,107","60,302",-13%,"-$1,380,234",,,,
+197,,2019-09-11 21:36:28,2019-09-09,DXCM,Blackford Quentin S.,EVP CFO,S - Sale,$149.86,"-11,686","80,074",-13%,"-$1,751,232",,,,
+198,,2019-09-11 21:32:55,2019-09-09,DXCM,Ace Heather S,SVP HR,S - Sale,$151.22,"-6,415","52,676",-11%,"-$970,073",,,,
+199,,2019-09-11 21:30:06,2019-09-09,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$149.85,"-5,843","80,550",-7%,"-$875,598",,,,
+200,,2019-09-11 21:29:39,2019-09-09,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$149.86,"-4,712","122,929",-4%,"-$706,118",,,,
+201,,2019-09-11 21:29:20,2019-09-09,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$149.86,"-5,843","83,815",-7%,"-$875,620",,,,
+202,,2019-09-11 21:28:59,2019-09-09,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$149.86,"-2,495","32,965",-7%,"-$373,897",,,,
+203,,2019-09-11 21:28:30,2019-09-09,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$149.85,"-5,843","68,837",-8%,"-$875,594",,,,
+204,,2019-09-11 21:27:07,2019-09-09,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$149.86,"-14,322","232,937",-6%,"-$2,146,269",,,,
+205,,2019-09-05 16:16:21,2019-09-03,DXCM,Balo Andrew K,*,S - Sale,$170.00,-37,"69,409",0%,"-$6,290",,,,
+206,,2019-09-05 16:16:00,2019-09-03,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$170.13,"-10,000","247,259",-4%,"-$1,701,274",,,,
+207,,2019-08-26 21:12:47,2019-08-23,DXCM,Ace Heather S,SVP HR,S - Sale,$174.80,"-7,243","59,091",-11%,"-$1,266,062",,,,
+208,,2019-08-26 21:12:30,2019-08-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$175.14,"-2,016","74,586",-3%,"-$353,088",,,,
+209,,2019-08-19 18:20:41,2019-08-15,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$156.12,"-10,000","257,259",-4%,"-$1,561,167",,,,
+210,,2019-07-24 18:15:13,2019-07-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$153.56,"-2,016","76,602",-3%,"-$309,570",,,,
+211,,2019-07-09 18:57:24,2019-07-08,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$146.25,"-6,000","288,100",-2%,"-$877,476",,,,
+212,,2019-07-02 21:38:41,2019-07-01,DXCM,Altman Steven R,Dir,S - Sale,$151.62,"-2,500","53,980",-4%,"-$379,052",,,,
+213,,2019-06-25 17:21:18,2019-06-24,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$149.62,"-2,016","78,618",-3%,"-$301,626",,,,
+214,,2019-06-25 17:21:03,2019-06-24,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$149.65,"-3,116","89,658",-3%,"-$466,304",,,,
+215,,2019-06-17 17:50:12,2019-06-14,DXCM,Augustinos Nicholas,Dir,S - Sale,$146.32,"-1,208","23,632",-5%,"-$176,755",,,,
+216,,2019-06-14 17:32:26,2019-06-13,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$145.32,"-5,099","127,605",-4%,"-$741,008",,,,
+217,,2019-06-11 18:12:58,2019-06-10,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$132.74,"-6,000","294,100",-2%,"-$796,444",,,,
+218,,2019-06-11 18:12:31,2019-06-10,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$127.03,-400,"35,460",-1%,"-$50,812",,,,
+219,,2019-06-06 17:35:06,2019-06-05,DXCM,Balo Andrew K,*,S - Sale,$125.00,"-7,825","69,392",-10%,"-$978,125",,,,
+220,,2019-06-04 17:37:04,2019-06-03,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$121.08,"-9,030","86,393",-9%,"-$1,093,352",,,,
+221,,2019-05-30 16:56:40,2019-05-29,DXCM,Blackford Quentin S.,EVP CFO,S - Sale,$118.95,"-8,874","91,740",-9%,"-$1,055,527",,,,
+222,,2019-05-24 17:09:42,2019-05-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$116.71,"-3,597","92,774",-4%,"-$419,816",,,,
+223,,2019-05-24 17:09:08,2019-05-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$117.29,"-2,016","80,634",-2%,"-$236,452",,,,
+224,,2019-05-17 18:22:09,2019-05-15,DXCM,Foletta Mark G,Dir,S - Sale,$121.90,"-1,000","17,147",-6%,"-$121,895",,,,
+225,,2019-05-14 18:47:35,2019-05-13,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$115.73,"-6,000","300,100",-2%,"-$694,365",,,,
+226,,2019-05-13 17:51:36,2019-05-10,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$116.92,-400,"35,860",-1%,"-$46,768",,,,
+227,,2019-04-24 19:58:52,2019-04-23,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$116.98,"-2,016","82,650",-2%,"-$235,838",,,,
+228,,2019-04-24 19:58:29,2019-04-23,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$116.61,"-3,596","96,371",-4%,"-$419,329",,,,
+229,,2019-04-17 17:20:04,2019-04-15,DXCM,Foletta Mark G,Dir,S - Sale,$118.98,"-1,000","18,147",-5%,"-$118,977",,,,
+230,,2019-04-16 17:37:47,2019-04-15,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$118.91,"-6,000","306,100",-2%,"-$713,471",,,,
+231,,2019-04-12 17:50:57,2019-04-10,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$115.05,-400,"36,260",-1%,"-$46,020",,,,
+232,,2019-04-02 19:09:50,2019-04-01,DXCM,Altman Steven R,Dir,S - Sale,$119.60,"-2,500","53,804",-4%,"-$298,999",,,,
+233,,2019-03-27 17:40:36,2019-03-25,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$127.38,"-2,016","84,666",-2%,"-$256,789",,,,
+234,,2019-03-26 18:25:03,2019-03-22,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$140.04,"-3,596","99,967",-3%,"-$503,571",,,,
+235,,2019-03-19 18:24:30,2019-03-15,DXCM,Foletta Mark G,Dir,S - Sale,$150.28,"-1,000","19,147",-5%,"-$150,279",,,,
+236,M,2019-03-13 19:01:33,2019-03-11,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$142.83,"-32,566","312,100",-9%,"-$4,651,307",,,,
+237,,2019-03-13 19:01:22,2019-03-12,DXCM,Pacelli Steven Robert,"EVP Strategy, Corporate Dev",S - Sale,$142.79,"-10,811","103,563",-9%,"-$1,543,726",,,,
+238,,2019-03-13 19:01:11,2019-03-12,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$142.79,"-3,962","36,660",-10%,"-$565,743",,,,
+239,,2019-03-13 19:01:02,2019-03-12,DXCM,Moy Jeffrey,SVP Operations,S - Sale,$142.79,"-8,531","66,790",-11%,"-$1,218,160",,,,
+240,,2019-03-13 19:00:49,2019-03-12,DXCM,Leach Jacob Steven,EVP CTO,S - Sale,$142.79,"-8,555","127,907",-6%,"-$1,221,587",,,,
+241,,2019-03-13 19:00:38,2019-03-12,DXCM,Doubleday Richard,EVP Chief Commercial Officer,S - Sale,$142.79,"-10,811","86,682",-11%,"-$1,543,726",,,,
+242,,2019-03-13 19:00:28,2019-03-12,DXCM,Blackford Quentin S.,EVP CFO,S - Sale,$142.79,"-5,358","100,614",-5%,"-$765,081",,,,
+243,,2019-03-13 19:00:17,2019-03-12,DXCM,Balo Andrew K,*,S - Sale,$142.79,"-10,917","77,217",-12%,"-$1,558,862",,,,
+244,M,2019-03-13 19:00:04,2019-03-11,DXCM,Ace Heather S,SVP HR,S - Sale,$142.90,"-10,461","66,334",-14%,"-$1,494,833",,,,
+245,,2019-03-13 18:59:52,2019-03-12,DXCM,Abbey Donald,"EVP Quality, Regulatory Aff",S - Sale,$142.79,"-7,653","95,423",-7%,"-$1,092,789",,,,
+246,,2019-03-11 20:46:50,2019-03-08,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$141.56,-400,"40,622",-1%,"-$56,624",,,,
+247,,2019-02-20 17:01:44,2019-02-15,DXCM,Foletta Mark G,Dir,S - Sale,$148.72,"-1,000","20,147",-5%,"-$148,723",,,,
+248,,2019-02-13 19:23:01,2019-02-11,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$148.90,"-6,000","308,837",-2%,"-$893,400",,,,
+249,,2019-02-12 21:24:37,2019-02-08,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$142.76,-400,"29,308",-1%,"-$57,104",,,,
+250,,2019-02-12 16:46:21,2019-02-08,DXCM,Murphy Patrick Michael,SVP Legal Affairs,S - Sale,$142.76,-400,"29,308",-1%,"-$57,104",,,,
+251,,2019-01-24 17:46:56,2019-01-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$149.74,"-3,114","101,404",-3%,"-$466,303",,,,
+252,,2019-01-16 18:08:26,2019-01-14,DXCM,Kahn Barbara,Dir,S - Sale,$142.30,"-10,631","20,266",-34%,"-$1,512,827",,,,
+253,,2019-01-15 17:30:07,2019-01-14,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale,$140.99,"-6,000","314,837",-2%,"-$845,930",,,,
+254,,2019-01-14 21:42:41,2019-01-10,DXCM,Murphy Patrick Michael,"SVP, GC, Chief Compliance Off",S - Sale,$138.75,-400,"29,708",-1%,"-$55,500",,,,
+255,,2019-01-04 17:03:55,2019-01-02,DXCM,Altman Steven R,Dir,S - Sale,$117.04,"-2,500","56,304",-4%,"-$292,593",,,,
+256,,2018-12-26 20:33:52,2018-12-21,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$109.34,"-1,510","80,916",-2%,"-$165,101",,,,
+257,,2018-12-26 20:22:12,2018-12-21,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$109.41,"-3,114","104,518",-3%,"-$340,700",,,,
+258,,2018-12-18 18:34:51,2018-12-14,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$121.23,"-5,000","73,105",-6%,"-$606,167",,,,
+259,,2018-12-12 21:09:32,2018-12-10,DXCM,Murphy Patrick Michael,"SVP, GC, Chief Compliance Off",S - Sale,$121.90,-400,"30,108",-1%,"-$48,760",,,,
+260,D,2018-12-12 21:08:38,2018-12-10,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale+OE,$121.67,"-11,162","320,837",-3%,"-$1,358,041",,,,
+261,,2018-11-27 18:27:59,2018-11-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$121.35,"-1,736","82,426",-2%,"-$210,664",,,,
+262,,2018-11-27 18:27:34,2018-11-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$121.42,"-3,114","107,632",-3%,"-$378,105",,,,
+263,,2018-11-16 17:14:12,2018-11-14,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$143.13,"-5,000","78,105",-6%,"-$715,664",,,,
+264,D,2018-11-14 19:29:04,2018-11-12,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale+OE,$146.43,"-11,161","320,837",-3%,"-$1,634,284",,,,
+265,,2018-11-13 20:14:32,2018-11-09,DXCM,Murphy Patrick Michael,"SVP, GC, Chief Compliance Off",S - Sale,$148.11,-400,"30,508",-1%,"-$59,244",,,,
+266,,2018-11-13 20:14:07,2018-11-09,DXCM,Ace Heather S,SVP HR,S - Sale,$147.32,"-4,258","65,081",-6%,"-$627,294",,,,
+267,,2018-11-13 20:13:44,2018-11-09,DXCM,Abbey Donald,"EVP, Quality, Regulatory Afrs",S - Sale,$149.30,"-10,550","88,089",-11%,"-$1,575,159",,,,
+268,,2018-10-25 20:59:04,2018-10-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$128.72,"-1,736","84,162",-2%,"-$223,466",,,,
+269,,2018-10-25 20:58:30,2018-10-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$128.86,"-3,114","110,746",-3%,"-$401,253",,,,
+270,,2018-10-16 17:27:51,2018-10-12,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$124.79,"-5,000","83,105",-6%,"-$623,934",,,,
+271,,2018-10-12 16:11:35,2018-10-10,DXCM,Murphy Patrick Michael,"SVP, GC, Chief Compliance Off",S - Sale,$122.20,-400,"30,908",-1%,"-$48,880",,,,
+272,D,2018-10-10 19:48:28,2018-10-08,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale+OE,$124.76,"-11,161","320,837",-3%,"-$1,392,433",,,,
+273,,2018-10-03 16:50:28,2018-10-01,DXCM,Altman Steven R,Dir,S - Sale,$135.65,"-2,500","58,804",-4%,"-$339,134",,,,
+274,,2018-10-01 19:10:04,2018-09-28,DXCM,Leach Jacob Steven,CTO,S - Sale,$143.95,"-47,600","121,108",-28%,"-$6,852,139",,,,
+275,,2018-09-26 20:32:58,2018-09-24,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$141.20,"-1,736","85,898",-2%,"-$245,129",,,,
+276,,2018-09-26 20:32:24,2018-09-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$141.25,"-3,114","113,860",-3%,"-$439,841",,,,
+277,,2018-09-18 19:54:44,2018-09-14,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$145.17,"-5,000","88,105",-5%,"-$725,851",,,,
+278,,2018-09-13 21:48:11,2018-09-11,DXCM,Blackford Quentin S.,"EVP, CFO, PFO, PAO",S - Sale,$147.04,"-8,440","87,131",-9%,"-$1,241,028",,,,
+279,,2018-09-12 21:22:28,2018-09-10,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$143.53,"-10,330","63,245",-14%,"-$1,482,667",,,,
+280,,2018-09-12 21:22:01,2018-09-10,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$143.76,"-5,483","87,634",-6%,"-$788,210",,,,
+281,,2018-09-12 21:21:33,2018-09-10,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$143.76,"-5,587","93,105",-6%,"-$803,160",,,,
+282,,2018-09-12 21:21:09,2018-09-10,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$143.76,"-5,483","116,974",-4%,"-$788,210",,,,
+283,,2018-09-12 21:20:46,2018-09-10,DXCM,Murphy Patrick Michael,"VP, Legal Aff, Chf Compl Ofcr",S - Sale,$143.69,"-2,372","31,308",-7%,"-$340,825",,,,
+284,,2018-09-12 21:20:20,2018-09-10,DXCM,Leach Jacob Steven,"SVP, Research, Development",S - Sale,$143.76,"-4,614","153,708",-3%,"-$663,286",,,,
+285,,2018-09-12 21:19:58,2018-09-10,DXCM,Ace Heather S,SVP HR,S - Sale,$143.76,"-1,832","69,339",-3%,"-$263,360",,,,
+286,,2018-09-12 21:19:45,2018-09-10,DXCM,Abbey Donald,"EVP, Quality, Regulatory Afrs",S - Sale,$143.76,"-2,303","98,639",-2%,"-$331,068",,,,
+287,,2018-09-12 21:18:01,2018-09-10,DXCM,Blackford Quentin S.,"EVP, CFO, PFO, PAO",S - Sale,$143.76,"-7,149","95,571",-7%,"-$1,027,706",,,,
+288,D,2018-09-12 21:17:34,2018-09-10,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale+OE,$143.62,"-25,495","320,837",-7%,"-$3,661,573",,,,
+289,,2018-08-28 20:32:33,2018-08-24,DXCM,Altman Steven R,Dir,S - Sale,$136.47,"-5,000","61,304",-8%,"-$682,359",,,,
+290,,2018-08-28 19:01:05,2018-08-24,DXCM,Foletta Mark G,Dir,S - Sale,$137.50,"-1,000","21,147",-5%,"-$137,503",,,,
+291,D,2018-08-28 18:58:28,2018-08-24,DXCM,Leach Jacob Steven,"SVP, Research, Development",S - Sale+OE,$138.32,"-20,577","158,302",-12%,"-$2,846,155",,,,
+292,,2018-08-27 17:20:31,2018-08-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$140.03,"-2,584","92,912",-3%,"-$361,833",,,,
+293,,2018-08-27 17:20:15,2018-08-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$139.96,"-3,114","122,457",-2%,"-$435,843",,,,
+294,,2018-08-16 18:08:09,2018-08-14,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$124.25,"-5,000","98,567",-5%,"-$621,253",,,,
+295,D,2018-08-15 17:15:33,2018-08-13,DXCM,Sayer Kevin R,"Pres, CEO, COB",S - Sale+OE,$123.22,"-11,161","335,171",-3%,"-$1,375,211",,,,
+296,,2018-08-14 20:32:00,2018-08-10,DXCM,Murphy Patrick Michael,"VP, Legal Aff, Chf Compl Ofcr",S - Sale,$124.19,"-12,500","33,680",-27%,"-$1,552,310",,,,
+297,,2018-08-08 20:33:32,2018-08-06,DXCM,Augustinos Nicholas,Dir,S - Sale,$121.33,"-12,300","22,164",-36%,"-$1,492,381",,,,
+298,,2018-08-03 16:50:44,2018-08-01,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$94.13,"-5,831","73,572",-7%,"-$548,872",,,,
+299,,2018-07-27 17:09:40,2018-07-25,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$101.91,"-3,114","125,571",-2%,"-$317,335",,,,
+300,,2018-07-25 19:54:52,2018-07-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$102.49,"-2,581","95,496",-3%,"-$264,513",,,,
+301,,2018-07-18 17:50:47,2018-07-16,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$99.56,"-5,000","103,567",-5%,"-$497,816",,,,
+302,,2018-07-18 17:50:20,2018-07-16,DXCM,Gregg Terrance H,Exec COB,S - Sale,$99.56,"-10,000","504,017",-2%,"-$995,561",,,,
+303,,2018-07-11 21:07:21,2018-07-09,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$99.79,"-14,219","335,171",-4%,"-$1,418,856",,,,
+304,,2018-07-02 20:51:47,2018-06-28,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$92.48,"-59,193","79,403",-43%,"-$5,474,297",,,,
+305,,2018-06-26 20:26:15,2018-06-25,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$98.58,"-2,581","98,077",-3%,"-$254,431",,,,
+306,,2018-06-19 20:37:34,2018-06-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$97.81,"-10,000","514,017",-2%,"-$978,096",,,,
+307,,2018-06-13 20:19:05,2018-06-12,DXCM,Topol Eric,Dir,S - Sale,$100.10,"-20,000","88,257",-18%,"-$2,001,998",,,,
+308,,2018-05-25 19:52:41,2018-05-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$86.00,"-2,581","100,658",-3%,"-$221,963",,,,
+309,,2018-05-17 18:49:22,2018-05-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$85.90,"-10,000","524,017",-2%,"-$858,974",,,,
+310,D,2018-05-16 20:00:19,2018-05-14,DXCM,Skyler Jay S,Dir,S - Sale+OE,$88.00,"-30,000","36,810",-45%,"-$2,640,000",,,,
+311,DM,2018-05-10 19:54:48,2018-05-08,DXCM,Leach Jacob Steven,"SVP, Research, Development",S - Sale+OE,$84.87,"-13,168","158,478",-8%,"-$1,117,567",,,,
+312,D,2018-05-10 19:54:27,2018-05-09,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale+OE,$84.37,"-17,245","349,390",-5%,"-$1,454,992",,,,
+313,D,2018-05-09 20:22:16,2018-05-08,DXCM,Skyler Jay S,Dir,S - Sale+OE,$85.11,"-31,464","36,810",-46%,"-$2,678,024",,,,
+314,,2018-04-25 19:33:16,2018-04-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$73.09,"-2,581","103,239",-2%,"-$188,649",,,,
+315,,2018-04-18 19:24:51,2018-04-16,DXCM,Gregg Terrance H,Exec COB,S - Sale,$73.04,"-10,000","534,017",-2%,"-$730,414",,,,
+316,,2018-03-27 18:54:32,2018-03-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$68.44,"-2,581","105,820",-2%,"-$176,643",,,,
+317,,2018-03-19 20:08:51,2018-03-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$65.51,"-10,000","544,017",-2%,"-$655,122",,,,
+318,,2018-02-27 17:32:29,2018-02-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$56.32,"-1,638","79,021",-2%,"-$92,252",,,,
+319,,2018-02-20 20:14:36,2018-02-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$55.91,"-10,000","516,902",-2%,"-$559,095",,,,
+320,,2018-01-25 19:44:07,2018-01-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$54.67,"-1,635","80,659",-2%,"-$89,384",,,,
+321,,2018-01-18 20:21:04,2018-01-16,DXCM,Gregg Terrance H,Exec COB,S - Sale,$56.86,"-10,000","526,902",-2%,"-$568,588",,,,
+322,,2017-12-28 16:25:47,2017-12-26,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$56.39,"-1,635","82,294",-2%,"-$92,204",,,,
+323,,2017-12-13 17:07:17,2017-12-12,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$58.85,"-6,000","280,826",-2%,"-$353,092",,,,
+324,,2017-12-13 17:06:55,2017-12-11,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$61.23,"-3,245","79,547",-4%,"-$198,691",,,,
+325,,2017-11-30 20:57:34,2017-11-29,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$60.12,"-2,900","96,426",-3%,"-$174,340",,,,
+326,,2017-11-30 20:56:52,2017-11-29,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$60.00,"-6,490","82,792",-7%,"-$389,400",,,,
+327,,2017-11-29 18:24:38,2017-11-27,DXCM,Foletta Mark G,Dir,S - Sale,$54.95,"-2,500","18,095",-12%,"-$137,386",,,,
+328,,2017-11-27 17:31:00,2017-11-24,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$55.53,"-1,635","83,929",-2%,"-$90,788",,,,
+329,,2017-11-21 17:09:18,2017-11-20,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$55.00,"-12,000","286,826",-4%,"-$660,000",,,,
+330,,2017-11-20 19:20:56,2017-11-20,DXCM,Kahn Barbara,Dir,S - Sale,$54.58,"-3,000","27,448",-10%,"-$163,727",,,,
+331,,2017-11-09 20:19:51,2017-11-07,DXCM,Altman Steven R,Dir,P - Purchase,$50.01,"+25,000","62,855",+66%,"+$1,250,250",,,,
+332,,2017-11-08 20:44:45,2017-11-06,DXCM,Altman Steven R,Dir,P - Purchase,$49.61,"+10,000","37,855",+36%,"+$496,100",,,,
+333,,2017-10-25 17:36:42,2017-10-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$44.82,"-1,635","85,564",-2%,"-$73,274",,,,
+334,,2017-09-27 19:49:45,2017-09-25,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$69.77,"-1,635","87,199",-2%,"-$114,080",,,,
+335,,2017-09-27 19:49:20,2017-09-25,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$69.81,"-1,450","99,326",-1%,"-$101,219",,,,
+336,,2017-09-22 18:13:33,2017-09-20,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$69.34,"-6,000","298,826",-2%,"-$416,044",,,,
+337,,2017-09-13 18:23:00,2017-09-11,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$72.27,"-3,244","89,282",-4%,"-$234,441",,,,
+338,,2017-08-24 19:31:55,2017-08-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$75.26,"-3,987","108,087",-4%,"-$300,045",,,,
+339,,2017-08-24 19:31:28,2017-08-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$75.26,"-1,635","96,180",-2%,"-$123,053",,,,
+340,,2017-08-15 17:52:51,2017-08-11,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$69.77,"-6,000","320,680",-2%,"-$418,637",,,,
+341,,2017-08-11 17:54:48,2017-08-10,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$71.18,"-3,244","99,989",-3%,"-$230,921",,,,
+342,,2017-07-25 20:55:11,2017-07-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$69.47,"-1,450","112,074",-1%,"-$100,725",,,,
+343,,2017-07-12 17:33:19,2017-07-12,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$71.86,"-6,000","326,680",-2%,"-$431,174",,,,
+344,,2017-07-12 17:32:52,2017-07-10,DXCM,Balo Andrew K,"EVP, Reg. Strategy, Clinical",S - Sale,$71.55,"-3,200","103,233",-3%,"-$228,972",,,,
+345,,2017-06-27 18:56:24,2017-06-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$78.22,"-3,187","97,815",-3%,"-$249,273",,,,
+346,,2017-06-27 18:55:56,2017-06-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$78.19,"-1,450","113,524",-1%,"-$113,378",,,,
+347,,2017-06-13 17:27:01,2017-06-12,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$69.06,"-3,200","106,433",-3%,"-$220,989",,,,
+348,,2017-06-13 17:26:34,2017-06-12,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$69.07,"-6,000","332,680",-2%,"-$414,411",,,,
+349,,2017-05-25 19:16:55,2017-05-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$68.24,"-1,450","114,974",-1%,"-$98,949",,,,
+350,,2017-05-25 19:15:19,2017-05-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$68.29,"-3,182","101,002",-3%,"-$217,290",,,,
+351,D,2017-05-18 17:46:45,2017-05-17,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale+OE,$68.39,"-8,649","338,680",-2%,"-$591,525",,,,
+352,,2017-05-12 18:19:56,2017-05-10,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$71.93,"-3,200","109,633",-3%,"-$230,176",,,,
+353,,2017-04-26 19:04:46,2017-04-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$75.89,"-1,450","117,424",-1%,"-$110,041",+3,+8,,
+354,,2017-04-26 19:04:18,2017-04-24,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$75.78,"-3,182","104,184",-3%,"-$241,131",+3,+8,,
+355,,2017-04-24 18:13:02,2017-04-20,DXCM,Gregg Terrance H,Exec COB,S - Sale,$74.10,"-15,000","506,902",-3%,"-$1,111,500",0,+4,,
+356,D,2017-04-19 17:20:11,2017-04-17,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale+OE,$75.63,"-10,000","343,680",-3%,"-$756,317",+2,+1,,
+357,,2017-04-12 17:31:00,2017-04-10,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$78.19,"-3,200","112,833",-3%,"-$250,208",-1,-3,-10,
+358,,2017-03-24 17:54:41,2017-03-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$76.25,"-3,987","118,874",-3%,"-$304,006",+1,+3,-10,
+359,,2017-03-24 17:53:57,2017-03-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$76.38,"-3,182","107,366",-3%,"-$243,029",+1,+3,-10,
+360,,2017-03-24 17:53:22,2017-03-22,DXCM,Roper Jess,"SVP, CFO",S - Sale,$75.97,"-2,000","54,949",-4%,"-$151,937",+1,+3,-10,
+361,D,2017-03-21 18:03:22,2017-03-17,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale+OE,$77.82,"-10,000","343,680",-3%,"-$778,158",+1,+9,-3,
+362,,2017-03-16 18:04:10,2017-03-14,DXCM,Kahn Barbara,Dir,S - Sale,$77.36,"-3,000","26,095",-10%,"-$232,080",+2,-1,-2,
+363,DM,2017-03-15 20:40:11,2017-03-09,DXCM,Leach Jacob Steven,"SVP, Research, Development",S - Sale+OE,$77.63,"-21,317","144,255",-13%,"-$1,654,888",0,-1,-1,
+364,,2017-03-14 19:59:16,2017-03-13,DXCM,Valdes Jorge A,CTO,S - Sale,$77.74,"-14,400","44,521",-24%,"-$1,119,514",0,+3,0,
+365,,2017-03-14 19:57:32,2017-03-10,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$77.71,"-3,200","116,033",-3%,"-$248,672",0,+3,0,
+366,D,2017-03-10 20:49:09,2017-03-09,DXCM,Lister John,"GM, EMEA",S - Sale+OE,$77.67,"-3,000","84,034",-3%,"-$233,002",-1,-1,+1,
+367,D,2017-03-08 18:28:52,2017-03-06,DXCM,Skyler Jay S,Dir,S - Sale+OE,$78.13,"-31,890","32,257",-50%,"-$2,491,572",-1,-1,+2,
+368,,2017-02-24 19:52:25,2017-02-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$78.42,"-3,182","96,315",-3%,"-$249,530",+1,+3,+5,
+369,,2017-02-24 19:51:03,2017-02-22,DXCM,Roper Jess,"SVP, CFO",S - Sale,$78.76,"-2,333","66,428",-3%,"-$183,759",+1,+3,+5,
+370,D,2017-02-22 18:14:54,2017-02-17,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale+OE,$81.62,"-10,000","299,391",-3%,"-$816,177",-1,-1,-2,
+371,D,2017-02-14 19:49:42,2017-02-10,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$79.30,"-3,200","103,872",-3%,"-$253,760",+3,-1,-5,
+372,D,2017-02-13 19:19:16,2017-02-09,DXCM,Lister John,"GM, EMEA",S - Sale+OE,$79.73,"-3,000","70,598",-4%,"-$239,204",+1,+2,-3,
+373,D,2017-02-13 19:18:38,2017-02-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$79.76,"-7,000","75,833",-8%,"-$558,316",+1,+2,-3,
+374,D,2017-02-03 19:49:42,2017-02-01,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$80.00,"-13,900","75,833",-15%,"-$1,112,000",-2,-3,-4,
+375,,2017-01-25 20:49:33,2017-01-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$79.50,"-3,182","99,497",-3%,"-$252,978",-2,-2,-4,
+376,D,2017-01-25 20:49:09,2017-01-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$79.99,"-9,637","110,409",-8%,"-$770,908",-2,-2,-4,
+377,,2017-01-20 18:37:19,2017-01-18,DXCM,Roper Jess,"SVP, CFO",S - Sale,$85.01,"-3,012","68,761",-4%,"-$256,051",0,-1,+2,
+378,D,2017-01-19 20:33:31,2017-01-17,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale+OE,$85.94,"-10,000","299,391",-3%,"-$859,362",-2,-1,0,
+379,D,2017-01-18 19:38:31,2017-01-13,DXCM,Lister John,"GM, EMEA",S - Sale+OE,$79.36,"-15,000","70,598",-18%,"-$1,190,400",-3,-5,-1,
+380,D,2017-01-18 19:37:15,2017-01-13,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$80.00,"-26,100","75,833",-26%,"-$2,088,000",-3,-5,-1,
+381,D,2017-01-12 19:21:00,2017-01-10,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$62.86,"-3,200","106,345",-3%,"-$201,152",+26,+20,+18,
+382,D,2017-01-11 19:33:06,2017-01-09,DXCM,Lister John,"GM, EMEA",S - Sale+OE,$63.02,"-3,000","70,598",-4%,"-$189,046",-2,+23,+15,
+383,D,2017-01-11 19:31:36,2017-01-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$63.02,"-10,900","75,833",-13%,"-$686,905",-2,+23,+15,
+384,,2016-12-28 20:12:55,2016-12-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$62.17,"-3,182","102,679",-3%,"-$197,831",-1,0,+30,
+385,,2016-12-16 19:20:43,2016-12-14,DXCM,Roper Jess,"SVP, CFO",S - Sale,$64.14,"-2,442","71,773",-3%,"-$156,619",0,-2,+33,
+386,D,2016-12-13 16:21:05,2016-12-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$64.81,"-10,000","75,833",-12%,"-$648,079",-1,-2,+4,
+387,,2016-11-28 19:29:39,2016-11-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$70.19,"-3,182","105,861",-3%,"-$223,350",-4,-9,-11,
+388,,2016-11-28 19:27:34,2016-11-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$70.32,"-10,300","110,409",-9%,"-$724,260",-4,-9,-11,
+389,,2016-11-14 18:31:55,2016-11-09,DXCM,Lister John,"GM, EMEA",S - Sale,$62.50,"-3,417","70,598",-5%,"-$213,563",+4,+4,-6,
+390,,2016-10-26 17:08:43,2016-10-24,DXCM,Roper Jess,"SVP, CFO",S - Sale,$80.75,"-2,471","74,215",-3%,"-$199,544",-2,+1,-6,+1
+391,,2016-10-26 17:08:10,2016-10-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$81.95,"-10,300","120,709",-8%,"-$844,065",-2,+1,-6,+1
+392,,2016-10-26 17:07:33,2016-10-24,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$81.12,"-3,182","109,043",-3%,"-$258,110",-2,+1,-6,+1
+393,,2016-10-20 19:55:59,2016-10-19,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$82.31,"-4,997","106,345",-4%,"-$411,303",-2,-6,-13,-9
+394,,2016-10-17 20:25:18,2016-10-14,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$81.87,"-7,000","299,891",-2%,"-$573,101",+1,-2,-16,-10
+395,,2016-10-12 20:59:40,2016-10-10,DXCM,Lister John,"GM, EMEA",S - Sale,$84.41,"-3,560","74,015",-5%,"-$300,508",0,+1,-24,-6
+396,D,2016-10-12 20:57:06,2016-10-10,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$84.42,"-11,000","75,833",-13%,"-$928,579",0,+1,-24,-6
+397,,2016-10-07 17:10:03,2016-10-05,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$82.55,"-5,000","111,342",-4%,"-$412,750",+1,-1,-25,-5
+398,,2016-09-27 20:15:22,2016-09-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$94.00,"-10,300","131,009",-7%,"-$968,196",-4,-9,-14,-10
+399,,2016-09-27 20:14:49,2016-09-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$93.97,"-3,182","112,225",-3%,"-$299,000",-4,-9,-14,-10
+400,,2016-09-23 19:52:02,2016-09-22,DXCM,Roper Jess,"SVP, CFO",S - Sale,$93.99,"-2,470","76,686",-3%,"-$232,155",-1,-6,-14,-12
+401,,2016-09-22 18:38:23,2016-09-21,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$92.87,"-5,000","116,342",-4%,"-$464,366",0,-5,-12,-19
+402,,2016-09-16 17:35:47,2016-09-14,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$91.79,"-7,000","306,891",-2%,"-$642,527",0,+1,-12,-15
+403,,2016-09-14 20:46:50,2016-09-12,DXCM,Skyler Jay S,Dir,S - Sale,$93.00,"-10,000","32,257",-24%,"-$930,000",+1,+1,-11,-16
+404,M,2016-09-14 20:44:49,2014-05-08,DXCM,Kahn Barbara,Dir,S - Sale,$55.23,"-12,500","29,095",-30%,"-$690,366",+1,+1,-11,-16
+405,,2016-09-13 20:51:42,2016-09-09,DXCM,Skyler Jay S,Dir,S - Sale,$94.07,"-25,000","42,257",-37%,"-$2,351,788",0,+1,-11,-15
+406,,2016-09-13 20:33:54,2016-09-09,DXCM,Lister John,"GM, EMEA",S - Sale,$93.65,"-3,560","77,575",-4%,"-$333,392",0,+1,-11,-15
+407,,2016-09-13 20:32:11,2016-09-09,DXCM,Lister John,"GM, EMEA",S - Sale,$93.65,"-3,560","77,575",-4%,"-$333,392",0,+1,-11,-15
+408,DM,2016-09-13 20:30:52,2016-09-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$93.07,"-19,071","75,833",-20%,"-$1,774,874",0,+1,-11,-15
+409,,2016-09-09 20:50:23,2016-09-07,DXCM,Foletta Mark G,Dir,S - Sale,$94.63,"-1,800","15,643",-10%,"-$170,325",0,0,-10,-15
+410,D,2016-09-09 20:49:09,2016-09-07,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$94.45,"-4,999","130,010",-4%,"-$472,156",0,0,-10,-15
+411,M,2016-09-09 20:48:44,2016-09-07,DXCM,Gregg Terrance H,Exec COB,S - Sale,$95.29,"-10,740","528,829",-2%,"-$1,023,400",0,0,-10,-15
+412,,2016-09-06 19:34:30,2016-09-01,DXCM,Lord Jonathan T Md,Dir,S - Sale,$91.50,"-10,000","52,820",-16%,"-$915,000",+1,-1,-13,-17
+413,,2016-09-01 20:05:58,2016-08-30,DXCM,Gregg Terrance H,Exec COB,S - Sale,$92.14,"-10,000","539,569",-2%,"-$921,356",0,+4,-4,-12
+414,,2016-08-26 18:36:01,2016-08-24,DXCM,Gregg Terrance H,Exec COB,S - Sale,$92.72,"-10,000","549,569",-2%,"-$927,151",0,+1,+2,-13
+415,D,2016-08-26 16:49:42,2016-08-24,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$91.72,"-5,000","129,979",-4%,"-$458,600",0,+1,+2,-13
+416,,2016-08-25 16:35:10,2016-08-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$90.89,"-3,182","124,075",-3%,"-$289,224",+1,+1,+4,-13
+417,,2016-08-25 16:33:52,2016-08-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$90.74,"-10,300","151,622",-6%,"-$934,588",+1,+1,+4,-13
+418,M,2016-08-24 20:07:11,2016-08-22,DXCM,Gregg Terrance H,Exec COB,S - Sale,$90.81,"-20,000","559,569",-3%,"-$1,816,223",0,+2,+4,-13
+419,,2016-08-23 20:35:27,2016-08-19,DXCM,Altman Steven R,Dir,S - Sale,$90.91,"-3,500","23,502",-13%,"-$318,177",-2,0,+2,-15
+420,,2016-08-22 21:27:44,2016-08-19,DXCM,Skyler Jay S,Dir,S - Sale,$90.77,"-25,000","67,257",-27%,"-$2,269,233",+2,+1,+2,-12
+421,M,2016-08-22 21:26:35,2016-08-18,DXCM,Gregg Terrance H,Exec COB,S - Sale,$90.70,"-40,000","579,569",-6%,"-$3,627,842",+2,+1,+2,-12
+422,,2016-08-17 19:31:57,2016-08-15,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$90.78,"-7,000","335,227",-2%,"-$635,473",+1,+2,+3,-8
+423,,2016-08-17 19:31:30,2016-08-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$91.01,"-14,942","619,569",-2%,"-$1,359,858",+1,+2,+3,-8
+424,M,2016-08-15 19:50:04,2016-08-11,DXCM,Lord Jonathan T Md,Dir,S - Sale,$90.64,"-10,000","126,373",-7%,"-$906,399",0,0,+1,-12
+425,,2016-08-15 19:49:32,2016-08-11,DXCM,Gregg Terrance H,Exec COB,S - Sale,$91.03,"-10,900","634,511",-2%,"-$992,280",0,0,+1,-12
+426,D,2016-08-12 19:10:11,2016-08-10,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$90.26,"-5,000","129,979",-4%,"-$451,300",0,0,+3,-12
+427,,2016-08-11 21:21:09,2016-08-09,DXCM,Gregg Terrance H,Exec COB,S - Sale,$91.10,"-37,168","645,411",-5%,"-$3,385,911",0,-1,+2,-13
+428,,2016-08-11 19:30:13,2016-08-09,DXCM,Lister John,"GM, EMEA",S - Sale,$91.07,"-3,560","90,774",-4%,"-$324,217",0,-1,+2,-13
+429,D,2016-08-11 19:29:44,2016-08-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$91.06,"-32,000","93,217",-26%,"-$2,913,978",0,-1,+2,-13
+430,D,2016-08-11 19:29:20,2016-08-09,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale+OE,$90.98,"-20,000","342,227",-6%,"-$1,819,552",0,-1,+2,-13
+431,,2016-08-10 21:25:11,2016-08-08,DXCM,Kahn Barbara,Dir,S - Sale,$90.52,"-6,000","41,595",-13%,"-$543,131",+1,0,+6,-12
+432,D,2016-08-09 21:26:59,2016-08-05,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$91.22,"-25,000","93,217",-21%,"-$2,280,375",-1,0,+4,-12
+433,M,2016-08-09 21:26:33,2016-05-11,DXCM,Gregg Terrance H,Exec COB,S - Sale,$79.81,"-35,000","686,916",-5%,"-$2,793,370",-1,0,+4,-12
+434,M,2016-08-02 20:35:19,2016-07-29,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$92.33,"-15,000","120,181",-11%,"-$1,385,000",-2,-2,-1,-15
+435,D,2016-07-28 20:20:18,2016-07-27,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$88.14,"-5,000","129,979",-4%,"-$440,700",+3,+1,+1,-11
+436,,2016-07-26 19:03:32,2016-07-22,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$88.48,"-10,000","103,932",-9%,"-$884,800",0,+5,+4,-10
+437,,2016-07-26 19:03:04,2016-07-25,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$87.33,"-10,300","161,918",-6%,"-$899,473",0,+5,+4,-10
+438,,2016-07-26 19:02:37,2016-07-25,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$87.31,"-3,182","127,257",-2%,"-$277,822",0,+5,+4,-10
+439,,2016-07-21 19:12:48,2016-07-19,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$83.78,"-12,843","113,932",-10%,"-$1,075,969",+4,+5,+7,-4
+440,D,2016-07-14 17:17:39,2016-07-13,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$80.12,"-5,000","129,979",-4%,"-$400,600",-1,+8,+16,-11
+441,,2016-07-14 17:17:14,2016-07-13,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$79.92,"-7,000","342,227",-2%,"-$559,457",-1,+8,+16,-11
+442,,2016-07-12 18:05:49,2016-07-11,DXCM,Lister John,"GM, EMEA",S - Sale,$79.35,"-3,560","94,334",-4%,"-$282,494",-1,-2,+14,-22
+443,D,2016-07-12 18:05:18,2016-07-11,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$79.36,"-32,000","93,217",-26%,"-$2,539,565",-1,-2,+14,-22
+444,,2016-07-01 17:49:52,2016-06-29,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$80.00,"-4,557","126,775",-3%,"-$364,560",-1,-1,+16,-24
+445,D,2016-07-01 17:48:39,2016-06-29,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$78.10,"-5,000","129,979",-4%,"-$390,500",-1,-1,+16,-24
+446,,2016-06-27 17:03:10,2016-06-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$77.40,"-10,300","172,218",-6%,"-$797,189",+3,+5,+16,-18
+447,,2016-06-20 20:24:13,2016-06-20,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$77.00,"-7,209","131,332",-5%,"-$555,093",0,0,+8,-19
+448,D,2016-06-20 20:23:44,2016-06-20,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$75.00,"-55,000","129,979",-30%,"-$4,125,000",0,0,+8,-19
+449,,2016-06-20 20:23:07,2016-06-20,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$75.00,"-35,000","349,227",-9%,"-$2,625,000",0,0,+8,-19
+450,,2016-06-10 17:06:51,2016-06-09,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$74.00,"-6,910","138,541",-5%,"-$511,340",0,+1,+10,-12
+451,,2016-06-10 16:49:31,2016-06-09,DXCM,Lister John,"GM, EMEA",S - Sale,$73.27,"-3,560","65,894",-5%,"-$260,857",0,+1,+10,-12
+452,DM,2016-06-10 16:48:38,2016-06-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$72.06,"-18,038","93,217",-16%,"-$1,299,807",0,+1,+10,-12
+453,,2016-06-09 19:00:07,2016-06-08,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$71.00,"-6,866","145,451",-5%,"-$487,486",-1,0,+8,-10
+454,,2016-06-08 21:18:45,2016-06-08,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$70.88,"-18,239","182,518",-9%,"-$1,292,797",-1,0,+7,-13
+455,,2016-06-08 20:22:39,2016-06-07,DXCM,Roper Jess,"SVP, CFO",S - Sale,$69.00,"-3,471","85,248",-4%,"-$239,500",-1,0,+7,-13
+456,,2016-05-24 18:27:12,2016-05-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$63.59,"-1,674","133,089",-1%,"-$106,446",+1,-1,+20,+10
+457,D,2016-05-19 20:23:24,2016-05-18,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$61.75,"-20,000","101,255",-16%,"-$1,234,944",+2,+5,+17,+15
+458,,2016-05-17 16:49:52,2016-05-16,DXCM,Gregg Terrance H,Exec COB,S - Sale,$62.72,"-20,000","721,916",-3%,"-$1,254,360",0,+3,+18,+5
+459,,2016-05-13 18:04:28,2016-05-11,DXCM,Gregg Terrance H,Exec COB,S - Sale,$64.32,"-8,600","741,916",-1%,"-$553,154",+4,+3,+19,+2
+460,,2016-05-12 21:01:25,2016-05-12,DXCM,Kahn Barbara,Dir,S - Sale,$60.72,"-3,000","42,804",-7%,"-$182,175",-1,+1,+17,+2
+461,,2016-05-10 20:03:43,2016-05-09,DXCM,Lister John,"GM, EMEA",S - Sale,$62.50,"-3,560","69,454",-5%,"-$222,500",+2,0,+17,-1
+462,,2016-05-10 19:09:58,2016-05-09,DXCM,Gregg Terrance H,Exec COB,S - Sale,$62.42,"-12,168","750,516",-2%,"-$759,481",+2,0,+17,-1
+463,,2016-04-28 19:30:41,2016-04-27,DXCM,Valdes Jorge A,CTO,S - Sale,$70.00,"-10,000","101,255",-9%,"-$700,000",-2,-7,-4,+21
+464,,2016-04-28 19:30:21,2016-04-27,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$70.39,"-2,361","201,757",-1%,"-$166,190",-2,-7,-4,+21
+465,,2016-04-26 21:06:47,2016-04-25,DXCM,Roper Jess,"SVP, CFO",S - Sale,$69.00,"-3,471","88,719",-4%,"-$239,499",-2,-7,-7,+16
+466,,2016-04-26 18:44:25,2016-04-25,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$69.15,"-1,666","134,763",-1%,"-$115,206",-2,-7,-7,+16
+467,,2016-04-14 20:19:08,2016-04-12,DXCM,Lister John,"GM, EMEA",S - Sale,$65.78,"-3,704","73,014",-5%,"-$243,648",0,0,-9,+23
+468,,2016-04-12 18:55:28,2016-04-11,DXCM,Gregg Terrance H,Exec COB,S - Sale,$68.00,"-2,169","762,684",0%,"-$147,492",+1,+4,-4,+26
+469,,2016-04-05 19:32:03,2016-04-04,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$70.62,"-20,600","204,118",-9%,"-$1,454,766",+1,-1,-7,+28
+470,D,2016-04-05 19:31:28,2016-04-04,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$70.08,"-20,000","111,255",-15%,"-$1,401,586",+1,-1,-7,+28
+471,,2016-04-01 21:34:15,2016-03-31,DXCM,Roper Jess,"SVP, CFO",S - Sale,$69.00,"-3,470","92,190",-4%,"-$239,430",+4,+1,-5,+33
+472,,2016-03-25 14:58:52,2016-03-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$61.76,"-1,666","136,429",-1%,"-$102,893",-1,+13,+15,+57
+473,,2016-03-24 21:09:07,2016-03-22,DXCM,Gregg Terrance H,Exec COB,S - Sale,$59.51,"-25,000","764,853",-3%,"-$1,487,750",-1,+13,+14,+55
+474,,2016-03-15 21:27:00,2016-03-14,DXCM,Lister John,"GM, EMEA",S - Sale,$63.75,"-3,560","76,718",-4%,"-$226,964",-3,-4,+6,+49
+475,,2016-03-08 18:55:38,2016-03-07,DXCM,Kahn Barbara,Dir,S - Sale,$67.04,"-5,000","45,804",-10%,"-$335,216",-2,-3,+4,+38
+476,,2016-02-25 17:13:05,2016-02-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$64.36,"-1,666","115,556",-1%,"-$107,221",-2,-2,-11,+39
+477,,2016-02-19 18:23:31,2016-02-18,DXCM,Lister John,"SVP, GC",S - Sale,$62.50,"-3,560","94,150",-4%,"-$222,500",+1,+6,-4,+44
+478,,2016-01-27 16:54:07,2016-01-25,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$73.34,"-1,666","117,222",-1%,"-$122,183",-2,-1,-6,+23
+479,,2016-01-27 16:53:34,2016-01-25,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$73.24,"-10,300","205,914",-5%,"-$754,373",-2,-1,-6,+23
+480,,2016-01-25 19:11:25,2016-01-22,DXCM,Roper Jess,"SVP, CFO",S - Sale,$72.97,"-3,518","75,989",-4%,"-$256,700",+1,-2,-13,+21
+481,,2016-01-22 16:56:46,2016-01-20,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$75.00,"-7,000","336,402",-2%,"-$525,000",-2,-6,-14,+15
+482,M,2016-01-13 20:43:31,2016-01-11,DXCM,Valdes Jorge A,CTO,S - Sale,$79.77,"-7,251","92,458",-7%,"-$578,433",+2,+4,-19,+10
+483,,2016-01-11 20:33:28,2016-01-08,DXCM,Lister John,"SVP, GC",S - Sale,$82.57,"-3,560","97,710",-4%,"-$293,935",0,-10,-31,+2
+484,D,2015-12-28 18:17:09,2015-12-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$82.26,"-14,000","216,214",-6%,"-$1,151,609",+1,-4,-13,-7
+485,,2015-12-28 18:14:45,2015-12-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$82.22,"-1,666","118,888",-1%,"-$136,979",+1,-4,-13,-7
+486,,2015-12-23 17:16:13,2015-12-22,DXCM,Roper Jess,"SVP, CFO",S - Sale,$81.19,"-3,417","79,507",-4%,"-$277,417",-1,+1,-11,-5
+487,D,2015-12-21 20:52:42,2015-12-17,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$82.52,"-7,500","107,680",-7%,"-$618,869",+1,0,-11,-5
+488,,2015-12-17 21:10:25,2015-12-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$83.26,"-15,000","771,543",-2%,"-$1,248,878",0,0,-11,-11
+489,,2015-12-16 17:57:14,2015-12-14,DXCM,Lister John,"SVP, GC",S - Sale,$82.50,"-3,560","101,270",-3%,"-$293,684",0,+1,-15,-12
+490,D,2015-12-10 20:09:13,2015-12-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$85.74,"-10,000","99,709",-9%,"-$857,363",-4,-3,-8,-15
+491,,2015-12-09 20:13:35,2015-12-08,DXCM,Lister John,"SVP, GC",S - Sale,$87.16,"-2,476","104,830",-2%,"-$215,820",0,-7,-6,-14
+492,D,2015-12-08 20:30:29,2015-12-04,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$86.79,"-10,000","786,543",-1%,"-$867,870",-2,-5,-6,-16
+493,D,2015-12-04 19:50:27,2015-12-02,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$87.05,"-10,000","786,543",-1%,"-$870,525",-1,-3,-8,-23
+494,D,2015-12-04 19:49:46,2015-12-03,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$86.37,"-7,500","107,680",-7%,"-$647,781",-1,-3,-8,-23
+495,D,2015-12-02 20:01:14,2015-11-30,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$86.50,"-5,000","786,543",-1%,"-$432,500",-3,+1,-5,-22
+496,D,2015-11-30 20:30:51,2015-11-25,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$87.53,"-15,000","786,543",-2%,"-$1,312,898",+1,+3,-3,-23
+497,D,2015-11-30 20:29:25,2015-11-25,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$87.49,"-7,500","107,680",-7%,"-$656,192",+1,+3,-3,-23
+498,D,2015-11-25 17:19:09,2015-11-24,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$86.54,"-15,497","786,543",-2%,"-$1,341,103",+2,-1,-7,-28
+499,D,2015-11-24 19:37:37,2015-11-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$85.84,"-14,000","216,214",-6%,"-$1,201,781",+1,-1,-6,-25
+500,,2015-11-24 19:37:13,2015-11-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$85.85,"-1,666","120,554",-1%,"-$143,024",+1,-1,-6,-25
+501,DM,2015-11-24 19:36:52,2015-11-23,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$86.43,"-10,000","107,680",-8%,"-$864,334",+1,-1,-6,-25
+502,DM,2015-11-23 19:04:37,2015-11-19,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$86.48,"-22,003","786,543",-3%,"-$1,902,728",+1,-1,-4,-25
+503,D,2015-11-19 19:16:52,2015-11-18,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$84.15,"-7,000","82,924",-8%,"-$589,016",+2,+3,-3,-24
+504,DM,2015-11-17 19:32:43,2015-11-13,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$83.89,"-20,000","786,543",-2%,"-$1,677,760",+2,+4,-1,-25
+505,D,2015-11-16 17:57:35,2015-11-12,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$84.07,"-20,000","83,924",-19%,"-$1,681,344",0,+4,-5,-25
+506,D,2015-11-12 17:48:32,2015-11-11,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$84.50,"-7,500","113,157",-6%,"-$633,734",+1,+2,-2,-27
+507,D,2015-11-12 17:47:58,2015-11-10,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$84.71,"-25,000","216,214",-10%,"-$2,117,869",+1,+2,-2,-27
+508,DM,2015-11-12 17:47:24,2015-11-09,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$84.93,"-22,501","801,543",-3%,"-$1,911,068",+1,+2,-2,-27
+509,D,2015-11-12 17:46:47,2015-11-09,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale+OE,$83.68,"-3,000","122,220",-2%,"-$251,030",+1,+2,-2,-27
+510,D,2015-11-12 17:45:58,2015-11-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$83.73,"-40,500","99,709",-29%,"-$3,391,097",+1,+2,-2,-27
+511,DM,2015-11-12 17:45:25,2015-11-09,DXCM,Lister John,"SVP, GC",S - Sale+OE,$84.10,"-19,975","107,306",-16%,"-$1,679,981",+1,+2,-2,-27
+512,D,2015-10-27 18:52:07,2015-10-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$80.57,"-14,000","216,214",-6%,"-$1,127,959",+1,+4,+4,-18
+513,,2015-10-27 18:50:50,2015-10-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$79.27,"-1,666","122,220",-1%,"-$132,059",+1,+4,+4,-18
+514,,2015-10-21 19:12:05,2015-10-20,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$81.46,"-4,538","113,157",-4%,"-$369,670",-2,+5,+7,-15
+515,D,2015-10-20 20:57:20,2015-10-19,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$83.37,"-7,000","98,424",-7%,"-$583,573",-1,+2,+3,-16
+516,,2015-10-16 18:42:48,2015-10-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$77.92,"-15,000","801,543",-2%,"-$1,168,796",0,-6,+1,-19
+517,,2015-10-07 19:57:11,2015-10-06,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$82.29,"-8,216","117,695",-7%,"-$676,083",-1,-4,+10,-13
+518,,2015-09-25 17:05:51,2015-09-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$97.00,"-4,217","123,886",-3%,"-$409,061",-8,-7,-10,-34
+519,D,2015-09-25 17:04:14,2015-09-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$98.08,"-14,000","216,214",-6%,"-$1,373,154",-8,-7,-10,-34
+520,,2015-09-22 19:54:06,2015-09-21,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$100.72,"-7,859","125,911",-6%,"-$791,570",+3,-13,-17,-35
+521,D,2015-09-21 18:15:20,2015-09-18,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$101.22,"-7,000","99,424",-7%,"-$708,534",-2,-8,-17,-40
+522,D,2015-09-17 18:18:58,2015-09-15,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$96.22,"-29,999","816,543",-4%,"-$2,886,400",-2,-1,-18,-44
+523,D,2015-09-14 19:44:59,2015-09-11,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$96.50,"-47,500","831,543",-5%,"-$4,583,698",+1,+4,-18,-33
+524,,2015-09-11 20:00:32,2015-09-09,DXCM,Lord Jonathan T Md,Dir,S - Sale,$90.96,"-10,000","131,582",-7%,"-$909,602",-2,+5,-21,-33
+525,DM,2015-09-11 19:08:39,2015-09-09,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$95.91,"-62,501","831,543",-7%,"-$5,994,449",-2,+5,-21,-33
+526,DM,2015-09-09 20:51:38,2015-06-12,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$81.57,"-50,000","836,543",-6%,"-$4,078,655",+6,+6,-13,-29
+527,,2015-09-09 20:49:02,2015-09-08,DXCM,Lister John,"SVP, GC",S - Sale,$89.36,"-2,642","121,347",-2%,"-$236,081",+6,+6,-13,-29
+528,,2015-09-09 20:48:22,2015-09-08,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$89.53,"-7,500","142,590",-5%,"-$671,447",+6,+6,-13,-29
+529,,2015-09-03 18:49:55,2015-09-01,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$90.61,"-8,881","142,136",-6%,"-$804,683",0,+9,-1,-24
+530,D,2015-09-03 18:48:30,2015-09-01,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$91.22,"-20,000","122,787",-14%,"-$1,824,400",0,+9,-1,-24
+531,,2015-09-01 20:24:08,2015-08-28,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$94.67,"-19,854","228,792",-8%,"-$1,879,485",+2,+4,-2,-23
+532,,2015-08-26 16:54:40,2015-08-24,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$80.96,"-1,666","136,923",-1%,"-$134,874",+2,-4,+6,-27
+533,D,2015-08-26 16:53:09,2015-08-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$84.18,"-14,000","248,646",-5%,"-$1,178,502",+2,-4,+6,-27
+534,,2015-08-24 19:31:06,2015-08-20,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$92.47,"-7,500","150,090",-5%,"-$693,500",+4,+9,+12,-26
+535,D,2015-08-21 16:28:45,2015-08-18,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$97.29,"-7,000","105,717",-6%,"-$681,016",-5,+4,+11,-29
+536,,2015-08-21 16:28:14,2015-08-18,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$97.49,"-6,029","151,017",-4%,"-$587,773",-5,+4,+11,-29
+537,,2015-08-19 21:40:57,2015-08-18,DXCM,Altman Steven R,Dir,S - Sale,$96.69,"-5,000","22,211",-18%,"-$483,453",-5,-6,+7,-35
+538,,2015-08-19 21:38:33,2015-08-17,DXCM,Skyler Jay S,Dir,S - Sale,$96.65,"-20,000","87,246",-19%,"-$1,932,982",-5,-6,+7,-35
+539,D,2015-08-19 21:37:49,2015-08-17,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$96.71,"-15,000","836,868",-2%,"-$1,450,719",-5,-6,+7,-35
+540,,2015-08-18 19:43:01,2015-08-14,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$97.41,"-35,000","372,360",-9%,"-$3,409,508",-1,-11,+1,-36
+541,,2015-08-11 20:28:56,2015-08-10,DXCM,Lister John,"SVP, GC",S - Sale,$90.98,"-1,776","123,989",-1%,"-$161,586",0,+3,-6,-47
+542,,2015-08-10 19:27:20,2015-08-06,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$95.04,"-7,500","157,590",-5%,"-$712,775",+6,+9,+1,-40
+543,,2015-08-06 21:07:29,2015-08-04,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$85.18,"-5,276","157,046",-3%,"-$449,396",-2,+3,-6,-27
+544,D,2015-07-27 20:15:21,2015-07-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$85.36,"-14,000","248,646",-5%,"-$1,195,045",+2,+4,+5,-11
+545,,2015-07-27 20:14:53,2015-07-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$85.37,"-9,641","138,304",-7%,"-$823,011",+2,+4,+5,-11
+546,,2015-07-24 21:21:14,2015-07-22,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$84.78,"-10,214","165,033",-6%,"-$865,922",-2,+1,+8,-11
+547,,2015-07-22 20:23:15,2015-07-21,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$83.48,"-3,786","162,322",-2%,"-$316,055",0,-2,+12,-13
+548,D,2015-07-22 20:22:35,2015-07-20,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$83.74,"-7,000","106,483",-6%,"-$586,153",0,-2,+12,-13
+549,,2015-07-17 19:01:40,2015-07-15,DXCM,Skyler Jay S,Dir,S - Sale,$81.69,"-20,000","107,246",-16%,"-$1,633,886",0,+2,+17,-14
+550,M,2015-07-17 19:00:52,2015-07-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$83.07,"-50,750","823,476",-6%,"-$4,215,810",0,+2,+17,-14
+551,D,2015-07-09 19:33:04,2015-07-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$79.83,"-50,000","122,787",-29%,"-$3,991,747",+2,+1,+17,-1
+552,,2015-07-09 19:32:21,2015-07-07,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$79.32,"-5,000","166,108",-3%,"-$396,617",+2,+1,+17,-1
+553,,2015-07-09 19:31:53,2015-07-08,DXCM,Lister John,"SVP, GC",S - Sale,$79.94,"-1,776","125,765",-1%,"-$141,973",+2,+1,+17,-1
+554,,2015-07-09 19:31:16,2015-07-08,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale,$80.22,"-4,494","175,247",-3%,"-$360,510",+2,+1,+17,-1
+555,,2015-06-25 19:10:06,2015-06-23,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$77.54,"-5,154","171,108",-3%,"-$399,630",+2,+3,+7,+6
+556,D,2015-06-25 19:09:45,2015-06-23,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$77.54,"-5,573","179,741",-3%,"-$432,137",+2,+3,+7,+6
+557,D,2015-06-25 19:08:12,2015-06-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$77.53,"-14,000","248,646",-5%,"-$1,085,427",+2,+3,+7,+6
+558,D,2015-06-22 18:20:09,2015-06-18,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$77.10,"-7,000","107,483",-6%,"-$539,688",0,+2,+9,+5
+559,,2015-06-16 21:05:22,2015-06-15,DXCM,Skyler Jay S,Dir,S - Sale,$70.67,"-20,000","127,246",-14%,"-$1,413,426",+3,+7,+11,+12
+560,,2015-06-16 21:03:32,2015-06-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$70.94,"-15,000","874,226",-2%,"-$1,064,141",+3,+7,+11,+12
+561,,2015-06-15 20:13:26,2015-06-11,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$73.00,"-9,869","176,262",-5%,"-$720,437",+1,+7,+14,+17
+562,D,2015-06-11 18:10:54,2015-06-09,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$70.62,"-7,500","179,741",-4%,"-$529,659",-1,+2,+11,+19
+563,,2015-06-10 20:28:25,2015-06-09,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$70.63,"-5,000","186,131",-3%,"-$353,132",+2,+1,+11,+21
+564,,2015-06-10 20:27:42,2015-06-08,DXCM,Lister John,"SVP, GC",S - Sale,$72.03,"-1,776","127,541",-1%,"-$127,933",+2,+1,+11,+21
+565,DM,2015-06-10 20:27:01,2015-06-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$71.32,"-19,680","122,787",-14%,"-$1,403,674",+2,+1,+11,+21
+566,DM,2015-06-03 20:57:33,2015-06-01,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$72.77,"-40,000","909,226",-4%,"-$2,910,763",-1,-2,+10,+17
+567,M,2015-05-28 20:53:00,2015-05-26,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$69.60,"-21,791","191,131",-10%,"-$1,516,583",+1,+2,+9,+21
+568,,2015-05-28 20:52:25,2015-05-27,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale,$70.73,"-3,258","150,568",-2%,"-$230,432",+1,+2,+9,+21
+569,D,2015-05-28 20:51:47,2015-05-26,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$68.23,"-14,000","248,646",-5%,"-$955,184",+1,+2,+9,+21
+570,D,2015-05-21 19:57:10,2015-05-19,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$69.58,"-17,500","949,226",-2%,"-$1,217,564",+1,+4,+14,+21
+571,,2015-05-20 20:34:07,2015-05-18,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$69.20,"-15,586","212,922",-7%,"-$1,078,551",-1,+4,+12,+20
+572,D,2015-05-20 20:32:27,2015-05-18,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$68.46,"-7,500","179,741",-4%,"-$513,470",-1,+4,+12,+20
+573,D,2015-05-20 20:31:03,2015-05-18,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$69.27,"-7,000","108,483",-6%,"-$484,880",-1,+4,+12,+20
+574,DM,2015-05-18 20:42:52,2015-05-14,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$69.24,"-82,500","949,226",-8%,"-$5,712,343",0,-2,+4,+19
+575,M,2015-05-13 20:54:23,2015-05-11,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$67.84,"-20,303","228,508",-8%,"-$1,377,370",+2,+3,+8,+25
+576,D,2015-05-13 20:24:10,2015-05-11,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$68.65,"-3,517","964,226",0%,"-$241,441",+2,+3,+8,+25
+577,DM,2015-05-12 20:40:36,2015-05-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$68.27,"-30,878","134,224",-19%,"-$2,108,127",0,+3,+6,+25
+578,D,2015-05-12 20:39:26,2015-05-08,DXCM,Lister John,"SVP, GC",S - Sale+OE,$68.49,"-4,173","129,317",-3%,"-$285,819",0,+3,+6,+25
+579,DM,2015-05-11 20:08:22,2015-05-07,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$67.85,"-91,483","964,226",-9%,"-$6,206,811",+1,+1,+5,+25
+580,,2015-05-06 20:07:13,2015-05-04,DXCM,Sayer Kevin R,"Pres, CEO",S - Sale,$68.01,"-25,000","407,360",-6%,"-$1,700,325",+2,+3,+8,+31
+581,D,2015-05-05 20:56:58,2015-05-04,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$67.99,"-7,500","179,741",-4%,"-$509,903",0,+2,+9,+25
+582,DM,2015-05-04 19:58:18,2015-05-04,DXCM,Gregg Terrance H,Exec COB,S - Sale+OE,$67.68,"-34,250","964,226",-3%,"-$2,317,879",-3,0,+7,+21
+583,DM,2015-04-29 20:39:29,2015-04-27,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$68.41,"-10,000","248,811",-4%,"-$684,119",+1,-1,+6,+23
+584,D,2015-04-27 17:50:12,2015-04-23,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$69.65,"-7,500","179,741",-4%,"-$522,353",+1,-1,+2,+15
+585,DM,2015-04-23 20:09:44,2015-04-21,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$69.63,"-39,709","248,646",-14%,"-$2,765,008",-2,-5,-3,+14
+586,D,2015-04-22 19:32:25,2015-04-20,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$68.05,"-7,000","109,483",-6%,"-$476,352",+2,-2,0,+20
+587,,2015-04-17 19:42:14,2015-04-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$67.56,"-15,000","978,476",-2%,"-$1,013,418",+2,+5,+1,+5
+588,DM,2015-04-14 18:54:37,2015-04-10,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$66.63,"-20,766","253,811",-8%,"-$1,383,560",+1,+1,0,+14
+589,D,2015-04-10 19:45:06,2015-04-09,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$65.03,"-20,000","248,646",-7%,"-$1,300,511",-1,0,0,+17
+590,D,2015-04-10 19:44:34,2015-04-09,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$64.55,"-7,500","179,741",-4%,"-$484,149",-1,0,0,+17
+591,DM,2015-04-10 19:44:04,2015-04-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$64.38,"-19,684","156,858",-11%,"-$1,267,174",-1,0,0,+17
+592,D,2015-04-10 19:41:58,2015-04-08,DXCM,Lister John,"SVP, GC",S - Sale+OE,$63.84,"-5,039","131,094",-4%,"-$321,680",-1,0,0,+17
+593,D,2015-03-27 16:44:20,2015-03-25,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$61.05,"-7,500","179,741",-4%,"-$457,849",+3,+5,+13,+63
+594,D,2015-03-25 18:15:02,2015-03-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale+OE,$61.25,"-4,000","153,826",-3%,"-$244,992",-2,+4,+18,+62
+595,D,2015-03-25 18:07:48,2015-03-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$61.33,"-14,000","248,646",-5%,"-$858,680",-2,+4,+18,+62
+596,,2015-03-24 19:20:53,2015-03-20,DXCM,Valdes Jorge A,CTO,S - Sale,$62.32,"-27,100","168,298",-14%,"-$1,688,872",-2,+1,+13,+63
+597,D,2015-03-20 17:08:59,2015-03-18,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$62.43,"-7,000","110,483",-6%,"-$437,032",-1,-6,+10,+63
+598,,2015-03-18 21:28:34,2015-03-17,DXCM,Gregg Terrance H,Exec COB,S - Sale,$62.82,"-15,000","993,476",-1%,"-$942,300",+2,-2,+9,+55
+599,DM,2015-03-13 20:21:35,2015-03-11,DXCM,Skyler Jay S,Dir,S - Sale+OE,$60.01,"-45,000","142,771",-24%,"-$2,700,297",+5,+6,+12,+61
+600,D,2015-03-13 20:13:20,2015-03-11,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$58.58,"-7,500","179,741",-4%,"-$439,367",+5,+6,+12,+61
+601,D,2015-03-13 20:04:36,2015-03-12,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale+OE,$59.23,"-20,000","153,826",-12%,"-$1,184,677",+5,+6,+12,+61
+602,,2015-03-13 19:54:46,2015-03-12,DXCM,Valdes Jorge A,CTO,S - Sale,$59.78,"-11,138","195,398",-5%,"-$665,833",+5,+6,+12,+61
+603,D,2015-03-11 19:43:57,2015-03-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$59.02,"-14,882","230,793",-6%,"-$878,374",0,+4,+9,+53
+604,D,2015-03-10 20:55:03,2015-03-09,DXCM,Lister John,"SVP, GC",S - Sale+OE,$58.77,"-5,039","147,518",-3%,"-$296,156",+2,+8,+10,+50
+605,,2015-03-09 20:52:23,2015-03-05,DXCM,Kahn Barbara,Dir,S - Sale,$60.29,"-3,000","46,525",-6%,"-$180,873",-2,+1,+6,+48
+606,D,2015-03-04 18:39:22,2015-03-02,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$60.33,"-5,000","236,394",-2%,"-$301,650",+1,-2,+3,+58
+607,D,2015-02-26 20:44:57,2015-02-24,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$62.22,"-7,500","150,256",-5%,"-$466,637",-2,-3,-6,+44
+608,D,2015-02-25 18:21:03,2015-02-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale+OE,$63.58,"-4,000","120,524",-3%,"-$254,334",-2,-7,-6,+36
+609,D,2015-02-25 18:18:29,2015-02-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$63.43,"-14,000","228,866",-6%,"-$888,023",-2,-7,-6,+36
+610,D,2015-02-20 18:00:40,2015-02-18,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$61.88,"-7,000","80,812",-8%,"-$433,192",-1,-4,-4,+49
+611,,2015-02-19 17:59:09,2015-02-17,DXCM,Gregg Terrance H,Exec COB,S - Sale,$62.19,"-15,000","973,476",-2%,"-$932,802",+2,0,+1,+54
+612,D,2015-02-19 17:35:33,2015-02-17,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$62.11,"-5,044","236,394",-2%,"-$313,291",+2,0,+1,+54
+613,D,2015-02-12 19:22:52,2015-02-10,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory",S - Sale+OE,$61.41,"-7,500","150,256",-5%,"-$460,607",+1,+2,-3,+53
+614,D,2015-02-11 20:06:31,2015-02-09,DXCM,Lister John,"SVP, GC",S - Sale+OE,$61.66,"-5,039","110,018",-4%,"-$310,693",-2,-1,-6,+52
+615,D,2015-02-11 19:59:41,2015-02-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$61.67,"-9,170","192,431",-5%,"-$565,484",-2,-1,-6,+52
+616,D,2015-02-04 21:18:32,2015-02-02,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$60.69,"-5,000","236,394",-2%,"-$303,425",+2,+3,-1,+39
+617,D,2015-01-28 21:10:11,2015-01-26,DXCM,Balo Andrew K,"EVP, Clinical, Regulatory,",S - Sale+OE,$59.25,"-15,001","150,130",-9%,"-$888,739",+1,+1,+2,+37
+618,D,2015-01-27 19:41:35,2015-01-23,DXCM,Doubleday Richard,"EVP, Chief Commercial Officer",S - Sale+OE,$58.22,"-4,000","119,950",-3%,"-$232,864",-3,-2,+2,+31
+619,DM,2015-01-27 19:33:06,2015-01-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$59.67,"-24,532","228,866",-10%,"-$1,463,812",-3,-2,+2,+31
+620,D,2015-01-22 21:03:10,2015-01-20,DXCM,Roper Jess,"SVP, CFO",S - Sale+OE,$57.34,"-7,000","81,342",-8%,"-$401,355",0,+4,+11,+49
+621,D,2015-01-22 20:54:47,2015-01-20,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$57.58,"-5,000","235,722",-2%,"-$287,906",0,+4,+11,+49
+622,,2015-01-20 18:53:57,2015-01-15,DXCM,Gregg Terrance H,Exec COB,S - Sale,$57.84,"-15,000","988,476",-1%,"-$867,561",-2,+9,+9,+44
+623,DM,2015-01-14 18:36:09,2015-01-12,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$60.16,"-29,468","228,866",-11%,"-$1,772,679",-3,-5,+5,+36
+624,DM,2015-01-12 20:49:09,2015-01-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$57.55,"-9,170","193,357",-5%,"-$527,693",+2,0,+6,+39
+625,D,2015-01-12 20:36:56,2015-01-08,DXCM,Lister John,"SVP, GC",S - Sale+OE,$57.42,"-5,039","110,018",-4%,"-$289,337",+2,0,+6,+39
+626,D,2015-01-07 17:50:45,2015-01-05,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$55.27,"-5,000","235,722",-2%,"-$276,368",+5,+8,+12,+44
+627,D,2014-12-30 17:04:48,2014-12-26,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$55.27,"-10,000","150,130",-6%,"-$552,687",0,-2,+10,+44
+628,D,2014-12-24 15:25:17,2014-12-23,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$54.69,"-4,000","119,950",-3%,"-$218,778",+2,+2,+16,+44
+629,D,2014-12-24 15:08:57,2014-12-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$54.62,"-14,000","228,866",-6%,"-$764,733",+2,+2,+16,+44
+630,D,2014-12-19 20:10:50,2014-12-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$56.43,"-12,000","82,342",-13%,"-$677,147",0,-2,-1,+37
+631,D,2014-12-17 18:02:31,2014-12-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$53.23,"-35,000","1,003,476",-3%,"-$1,862,977",+2,-3,+6,+41
+632,D,2014-12-16 17:02:55,2014-12-12,DXCM,Lister John,"SVP, GC",S - Sale+OE,$53.55,"-3,079","110,018",-3%,"-$164,869",+5,+6,+8,+41
+633,,2014-12-16 17:00:26,2014-12-12,DXCM,Sayer Kevin R,"Pres, COO",S - Sale,$53.97,"-10,000","390,852",-2%,"-$539,700",+5,+6,+8,+41
+634,D,2014-12-15 17:05:04,2014-12-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$55.42,"-10,000","150,130",-6%,"-$554,195",+1,+7,+12,+37
+635,D,2014-12-10 16:54:27,2014-12-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$56.03,"-16,000","194,283",-8%,"-$896,509",-2,-4,+5,+31
+636,,2014-12-04 19:08:14,2014-12-03,DXCM,Topol Eric,Dir,S - Sale,$55.00,"-20,000","90,215",-18%,"-$1,100,000",+1,+2,+2,+33
+637,D,2014-12-04 18:58:25,2014-12-02,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$53.11,"-25,000","1,017,476",-2%,"-$1,327,778",+1,+2,+2,+33
+638,DM,2014-12-01 19:36:14,2014-11-26,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$51.51,"-59,990","1,017,476",-6%,"-$3,090,328",+4,+8,+8,+41
+639,DM,2014-11-26 17:30:09,2014-11-24,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$51.04,"-55,010","1,017,476",-5%,"-$2,807,540",0,+6,+7,+40
+640,D,2014-11-26 17:24:20,2014-11-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$51.11,"-10,000","150,130",-6%,"-$511,138",0,+6,+7,+40
+641,D,2014-11-26 17:19:01,2014-11-24,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$50.36,"-4,000","119,950",-3%,"-$201,446",0,+6,+7,+40
+642,D,2014-11-26 17:03:03,2014-11-24,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$50.36,"-4,000","119,950",-3%,"-$201,446",0,+6,+7,+40
+643,D,2014-11-26 16:55:41,2014-11-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$50.64,"-22,500","228,866",-9%,"-$1,139,473",0,+6,+7,+40
+644,D,2014-11-24 16:45:01,2014-11-21,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$50.50,"-10,000","1,017,476",-1%,"-$505,000",-1,0,+6,+41
+645,D,2014-11-21 17:46:49,2014-11-19,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$51.00,"-10,000","1,017,476",-1%,"-$510,000",+2,+2,+12,+36
+646,DM,2014-11-18 18:12:15,2014-11-14,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$52.52,"-45,000","1,017,476",-4%,"-$2,363,371",-2,-1,+8,+34
+647,D,2014-11-14 16:54:05,2014-11-12,DXCM,Lister John,"SVP, GC",S - Sale+OE,$52.81,"-3,078","107,347",-3%,"-$162,560",-2,-4,0,+32
+648,DM,2014-11-13 17:58:37,2014-11-11,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$53.36,"-80,000","1,027,476",-7%,"-$4,268,815",-2,-6,0,+27
+649,D,2014-11-13 17:51:18,2014-11-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$52.93,"-10,000","150,130",-6%,"-$529,295",-2,-6,0,+27
+650,D,2014-11-13 17:45:25,2014-11-11,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$52.93,"-20,000","83,342",-19%,"-$1,058,540",-2,-6,0,+27
+651,D,2014-11-13 17:38:54,2014-11-11,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$53.00,"-4,000","235,722",-2%,"-$212,000",-2,-6,0,+27
+652,D,2014-11-13 16:53:57,2014-11-11,DXCM,Lord Jonathan T Md,Dir,S - Sale+OE,$53.09,"-18,058","137,107",-12%,"-$958,609",-2,-6,0,+27
+653,D,2014-11-12 15:19:21,2014-11-10,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$51.23,"-16,000","194,283",-8%,"-$819,706",+2,-3,+2,+30
+654,D,2014-10-28 20:27:49,2014-10-27,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$42.98,"-10,000","150,130",-6%,"-$429,755",+1,0,+15,+53
+655,D,2014-10-24 17:13:45,2014-10-23,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$43.58,"-4,000","119,950",-3%,"-$174,310",0,+3,+16,+55
+656,D,2014-10-24 17:12:16,2014-10-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$43.60,"-14,000","228,866",-6%,"-$610,449",0,+3,+16,+55
+657,D,2014-10-21 19:53:49,2014-10-20,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$41.18,"-8,000","83,342",-9%,"-$329,463",-3,-2,+18,+60
+658,D,2014-10-16 20:02:30,2014-10-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$39.63,"-35,000","1,027,476",-3%,"-$1,386,970",-2,+4,+30,+63
+659,D,2014-10-14 18:21:36,2014-10-13,DXCM,Lister John,"SVP, GC",S - Sale+OE,$40.41,"-3,400","108,675",-3%,"-$137,405",+1,+2,+30,+68
+660,D,2014-10-14 18:05:52,2014-10-13,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$40.42,"-10,000","150,130",-6%,"-$404,165",+1,+2,+30,+68
+661,D,2014-10-10 17:09:34,2014-10-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$40.29,"-16,000","194,283",-8%,"-$644,651",0,+2,+26,+66
+662,D,2014-09-25 20:30:47,2014-09-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$40.71,"-10,000","150,130",-6%,"-$407,072",+1,-4,+8,+43
+663,D,2014-09-24 18:43:16,2014-09-23,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$40.32,"-4,000","119,950",-3%,"-$161,262",-2,-3,+4,+46
+664,D,2014-09-24 18:42:23,2014-09-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$40.32,"-14,000","228,866",-6%,"-$564,483",-2,-3,+4,+46
+665,D,2014-09-18 18:38:32,2014-09-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$41.91,"-8,000","83,342",-9%,"-$335,306",-1,-2,-2,+51
+666,D,2014-09-17 18:59:08,2014-09-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$41.14,"-35,000","1,037,476",-3%,"-$1,439,977",+2,-3,0,+51
+667,D,2014-09-15 20:57:41,2014-09-12,DXCM,Lister John,"SVP, GC",S - Sale+OE,$43.70,"-3,518","110,325",-3%,"-$153,739",+1,+2,-1,+52
+668,D,2014-09-12 20:02:14,2014-09-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$42.97,"-10,000","154,534",-6%,"-$429,706",-4,-1,-5,+40
+669,D,2014-09-10 19:42:07,2014-09-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$42.98,"-16,000","206,816",-7%,"-$687,736",+1,-5,-3,+39
+670,,2014-09-02 18:15:03,2014-08-28,DXCM,Kahn Barbara,Dir,S - Sale,$44.52,"-4,000","49,525",-7%,"-$178,092",-3,-4,-11,+32
+671,D,2014-08-28 17:32:45,2014-08-26,DXCM,Lord Jonathan T Md,Dir,S - Sale+OE,$45.56,"-20,000","137,107",-13%,"-$911,240",0,-4,-7,+36
+672,D,2014-08-28 17:32:21,2014-08-26,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$45.30,"-16,663","244,578",-6%,"-$754,835",0,-4,-7,+36
+673,,2014-08-28 17:31:46,2014-08-26,DXCM,Gregg Terrance H,"CEO, 10%",S - Sale,$46.05,"-5,000","1,047,476",0%,"-$230,267",0,-4,-7,+36
+674,D,2014-08-27 17:59:05,2014-08-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$44.12,"-10,000","159,205",-6%,"-$441,243",-2,-3,-10,+37
+675,D,2014-08-27 17:58:27,2014-08-25,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$44.35,"-4,000","126,582",-3%,"-$177,406",-2,-3,-10,+37
+676,DM,2014-08-27 17:57:54,2014-08-25,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$44.56,"-30,000","241,399",-11%,"-$1,336,861",-2,-3,-10,+37
+677,,2014-08-25 17:15:04,2014-08-21,DXCM,Valdes Jorge A,CTO,S - Sale,$43.58,"-10,671","206,816",-5%,"-$465,040",+4,+1,-8,+40
+678,D,2014-08-25 17:14:25,2014-08-22,DXCM,Gregg Terrance H,"CEO, 10%",S - Sale+OE,$44.46,"-13,607","1,052,476",-1%,"-$604,914",+4,+1,-8,+40
+679,D,2014-08-25 17:13:56,2014-08-22,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$44.24,"-20,000","159,205",-11%,"-$884,722",+4,+1,-8,+40
+680,DM,2014-08-21 19:49:53,2014-08-20,DXCM,Gregg Terrance H,"CEO, 10%",S - Sale+OE,$44.36,"-23,893","1,059,976",-2%,"-$1,059,822",+1,+4,-4,+47
+681,,2014-08-21 19:49:23,2014-08-21,DXCM,Kahn Barbara,Dir,S - Sale,$43.42,"-2,200","53,525",-4%,"-$95,524",+1,+4,-4,+47
+682,DM,2014-08-20 20:11:15,2014-08-18,DXCM,Gregg Terrance H,"CEO, 10%",S - Sale+OE,$44.61,"-150,000","1,059,976",-12%,"-$6,691,810",-1,+4,-4,+42
+683,D,2014-08-20 20:09:32,2014-08-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$43.95,"-8,000","88,213",-8%,"-$351,628",-1,+4,-4,+42
+684,D,2014-08-20 20:08:45,2014-08-19,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$45.01,"-20,000","126,582",-14%,"-$900,278",-1,+4,-4,+42
+685,D,2014-08-19 18:25:10,2014-08-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$44.06,"-5,000","1,069,976",0%,"-$220,291",-2,-2,-8,+40
+686,D,2014-08-15 17:13:06,2014-08-14,DXCM,Gregg Terrance H,"CEO, 10%",S - Sale+OE,$44.24,"-25,000","1,069,976",-2%,"-$1,105,944",+2,0,-6,+43
+687,,2014-08-15 17:12:27,2014-08-11,DXCM,Sayer Kevin R,"Pres, COO",S - Sale,$43.82,"-20,000","424,924",-4%,"-$876,492",+2,0,-6,+43
+688,DM,2014-08-14 18:52:14,2014-08-12,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$43.57,"-56,107","1,069,976",-5%,"-$2,444,583",-1,0,-3,+41
+689,D,2014-08-14 18:51:01,2014-08-12,DXCM,Lister John,"SVP, GC",S - Sale+OE,$43.68,"-3,353","112,555",-3%,"-$146,455",-1,0,-3,+41
+690,D,2014-08-12 17:45:14,2014-08-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$43.56,"-16,000","217,487",-7%,"-$697,006",+2,+3,+1,+45
+691,D,2014-08-12 17:44:10,2014-08-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$44.24,"-10,000","159,205",-6%,"-$442,373",+2,+3,+1,+45
+692,D,2014-07-29 19:07:32,2014-07-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$38.19,"-10,000","159,099",-6%,"-$381,857",+1,-4,+15,+57
+693,D,2014-07-24 17:50:25,2014-07-23,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$38.16,"-4,000","126,136",-3%,"-$152,654",+2,+4,+13,+51
+694,D,2014-07-24 17:49:54,2014-07-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$38.28,"-14,000","241,399",-5%,"-$535,986",+2,+4,+13,+51
+695,D,2014-07-22 18:54:11,2014-07-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$36.01,"-8,000","87,786",-8%,"-$288,070",+2,+4,+19,+53
+696,D,2014-07-17 17:35:15,2014-07-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$36.66,"-35,000","1,069,976",-3%,"-$1,283,128",+2,+7,+22,+64
+697,D,2014-07-15 18:46:07,2014-07-14,DXCM,Lister John,"SVP, GC",S - Sale+OE,$36.59,"-3,500","114,158",-3%,"-$128,077",0,+1,+18,+61
+698,D,2014-07-15 18:45:30,2014-07-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$35.93,"-10,000","159,099",-6%,"-$359,347",0,+1,+18,+61
+699,D,2014-07-09 18:49:00,2014-07-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$36.66,"-16,000","217,487",-7%,"-$586,506",-1,+1,+6,+51
+700,M,2014-07-03 16:34:39,2014-07-01,DXCM,Skyler Jay S,Dir,S - Sale,$40.05,"-30,000","142,771",-17%,"-$1,201,405",-5,-10,-7,+38
+701,D,2014-06-25 20:35:34,2014-06-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$40.60,"-10,000","159,099",-6%,"-$405,982",-1,-3,-6,+38
+702,D,2014-06-25 20:34:59,2014-06-23,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$40.98,"-4,000","126,136",-3%,"-$163,925",-1,-3,-6,+38
+703,D,2014-06-25 20:34:27,2014-06-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$41.02,"-14,000","241,399",-5%,"-$574,235",-1,-3,-6,+38
+704,M,2014-06-23 18:10:01,2014-06-19,DXCM,Skyler Jay S,Dir,S - Sale,$40.00,"-60,000","172,771",-26%,"-$2,400,000",0,-3,-8,+39
+705,D,2014-06-18 19:11:11,2014-06-16,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$37.23,"-35,000","1,079,976",-3%,"-$1,303,120",0,+2,-10,+33
+706,D,2014-06-18 19:10:19,2014-06-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$39.17,"-8,000","87,786",-8%,"-$313,333",0,+2,-10,+33
+707,D,2014-06-13 17:01:15,2014-06-12,DXCM,Lister John,"SVP, GC",S - Sale+OE,$36.13,"-3,500","115,908",-3%,"-$126,455",+5,+11,+3,+54
+708,D,2014-06-13 16:58:58,2014-06-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$36.63,"-10,000","159,099",-6%,"-$366,305",+5,+11,+3,+54
+709,D,2014-06-11 16:42:47,2014-06-09,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$36.68,"-16,000","217,487",-7%,"-$586,866",-1,+8,-1,+53
+710,D,2014-06-06 17:17:53,2014-06-05,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$35.59,"-4,000","126,136",-3%,"-$142,356",+2,-2,+3,+49
+711,,2014-06-03 19:36:43,2014-05-31,DXCM,Topol Eric,Dir,S - Sale,$0.00,"-12,207","110,215",-10%,-$12,+7,+14,+21,+57
+712,D,2014-05-28 19:55:04,2014-05-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$32.76,"-14,000","241,399",-5%,"-$458,632",+1,-5,+19,+47
+713,D,2014-05-28 19:45:19,2014-05-27,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$33.86,"-10,000","159,099",-6%,"-$338,638",+1,-5,+19,+47
+714,,2014-05-28 19:34:10,2014-05-23,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale,$32.89,"-18,750","128,773",-13%,"-$616,609",+1,-5,+19,+47
+715,D,2014-05-19 19:14:12,2014-05-19,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$32.20,"-8,000","87,786",-8%,"-$257,576",-4,+2,+21,+65
+716,D,2014-05-19 19:10:52,2014-05-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$31.15,"-35,000","1,089,976",-3%,"-$1,090,122",-4,+2,+21,+65
+717,D,2014-05-14 16:52:19,2014-05-12,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$31.75,"-10,000","159,099",-6%,"-$317,499",0,-2,+13,+68
+718,D,2014-05-14 16:50:09,2014-05-12,DXCM,Lister John,"SVP, GC",S - Sale+OE,$31.52,"-3,500","117,658",-3%,"-$110,320",0,-2,+13,+68
+719,D,2014-05-12 17:33:50,2014-05-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$29.83,"-16,000","217,487",-7%,"-$477,331",-1,+1,+16,+40
+720,D,2014-04-29 17:04:09,2014-04-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$34.35,"-10,000","159,099",-6%,"-$343,460",0,-3,+5,+33
+721,D,2014-04-25 17:30:16,2014-04-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$35.90,"-14,000","241,399",-5%,"-$502,663",-2,-2,-1,+27
+722,D,2014-04-25 16:32:08,2014-04-23,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$35.92,"-4,000","147,523",-3%,"-$143,689",-2,-2,-1,+27
+723,D,2014-04-23 16:56:13,2014-04-21,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$36.18,"-8,000","87,786",-8%,"-$289,471",-4,-10,-11,+17
+724,D,2014-04-16 19:57:26,2014-04-14,DXCM,Lister John,"SVP, GC",S - Sale+OE,$35.86,"-2,884","119,408",-2%,"-$103,420",+2,0,-13,+15
+725,D,2014-04-16 19:45:04,2014-04-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$34.09,"-35,000","1,099,976",-3%,"-$1,193,003",+2,0,-13,+15
+726,D,2014-04-15 18:30:46,2014-04-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$35.36,"-10,000","159,099",-6%,"-$353,564",+5,+6,-7,+18
+727,D,2014-04-10 18:32:25,2014-04-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$35.99,"-16,000","217,487",-7%,"-$575,898",-1,0,-12,+15
+728,,2014-04-03 16:42:54,2014-04-01,DXCM,Skyler Jay S,Dir,S - Sale,$41.29,"-30,000","225,884",-12%,"-$1,238,799",-7,-6,-21,-4
+729,,2014-03-28 20:30:23,2014-03-26,DXCM,Skyler Jay S,Dir,S - Sale,$43.05,"-30,000","255,884",-10%,"-$1,291,458",+3,+2,-18,+1
+730,D,2014-03-26 16:43:46,2014-03-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$43.00,"-10,000","159,099",-6%,"-$429,964",-4,-2,-18,-5
+731,D,2014-03-26 16:43:10,2014-03-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$42.92,"-14,000","241,399",-5%,"-$600,814",-4,-2,-18,-5
+732,D,2014-03-20 17:25:58,2014-03-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$46.00,"-8,000","87,786",-8%,"-$368,000",-4,-9,-21,-10
+733,DM,2014-03-17 20:28:45,2014-03-13,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$45.25,"-45,000","1,109,976",-4%,"-$2,036,245",+4,-3,-23,-7
+734,D,2014-03-17 20:10:10,2014-03-13,DXCM,Lord Jonathan T Md,Dir,S - Sale+OE,$45.05,"-36,000","128,310",-22%,"-$1,621,800",+4,-3,-23,-7
+735,D,2014-03-14 20:51:27,2014-03-12,DXCM,Lister John,"GC, VP of HR",S - Sale+OE,$45.25,"-9,158","120,542",-7%,"-$414,433",+2,+4,-20,-2
+736,DM,2014-03-13 19:28:38,2014-03-11,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$45.50,"-30,000","1,119,976",-3%,"-$1,365,086",-1,+3,-20,-4
+737,D,2014-03-13 19:20:58,2014-03-11,DXCM,Doubleday Richard,SVP. Worldwide Sales,S - Sale+OE,$46.42,"-50,000","146,520",-25%,"-$2,321,245",-1,+3,-20,-4
+738,D,2014-03-13 19:12:20,2014-03-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$45.93,"-10,000","159,099",-6%,"-$459,267",-1,+3,-20,-4
+739,D,2014-03-13 19:09:33,2014-03-11,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$46.18,"-23,437","190,387",-11%,"-$1,082,328",-1,+3,-20,-4
+740,D,2014-03-11 20:52:52,2014-03-10,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$46.57,"-16,000","203,003",-7%,"-$745,120",0,0,-20,-5
+741,D,2014-03-10 20:51:21,2014-03-06,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$47.82,"-20,500","1,119,976",-2%,"-$980,320",-1,-3,-22,-7
+742,DM,2014-03-06 20:00:47,2014-03-04,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$47.46,"-111,890","937,163",-11%,"-$5,310,129",0,-4,-14,-8
+743,DM,2014-03-06 19:54:16,2014-03-04,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$47.30,"-10,000","187,485",-5%,"-$473,000",0,-4,-14,-8
+744,DM,2014-03-04 18:00:46,2014-02-28,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$44.87,"-40,000","937,163",-4%,"-$1,794,733",+5,-2,-12,-6
+745,D,2014-03-04 17:50:00,2014-02-28,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$46.45,"-2,500","187,485",-1%,"-$116,125",+5,-2,-12,-6
+746,D,2014-02-28 18:44:09,2014-02-26,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$45.59,"-11,250","187,485",-6%,"-$512,870",0,+5,-11,0
+747,,2014-02-27 20:14:13,2014-02-25,DXCM,Topol Eric,Dir,S - Sale,$45.17,"-50,000","103,116",-33%,"-$2,258,570",-2,+6,-13,-1
+748,D,2014-02-27 19:53:03,2014-02-25,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$44.97,"-10,000","124,485",-7%,"-$449,690",-2,+6,-13,-1
+749,D,2014-02-27 19:50:43,2014-02-26,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$45.20,"-25,000","66,508",-27%,"-$1,130,055",-2,+6,-13,-1
+750,D,2014-02-27 19:39:32,2014-02-25,DXCM,Lord Jonathan T Md,Dir,S - Sale+OE,$45.15,"-64,807","128,310",-34%,"-$2,926,088",-2,+6,-13,-1
+751,DM,2014-02-26 17:13:30,2014-02-24,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$44.93,"-33,368","195,865",-15%,"-$1,499,116",+2,+3,-7,-3
+752,D,2014-02-20 19:19:21,2014-02-18,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$43.73,"-35,000","937,163",-4%,"-$1,530,544",-1,+5,+7,+3
+753,D,2014-02-20 18:11:34,2014-02-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$43.57,"-8,000","66,508",-11%,"-$348,554",-1,+5,+7,+3
+754,D,2014-02-13 19:15:06,2014-02-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$39.50,"-10,000","124,485",-7%,"-$394,974",+2,+2,+5,+3
+755,D,2014-02-12 19:14:39,2014-02-10,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$38.03,"-16,000","144,853",-10%,"-$608,488",+4,+9,+10,+4
+756,D,2014-01-29 19:04:25,2014-01-27,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$36.67,"-10,000","124,297",-7%,"-$366,656",+4,+3,+23,+6
+757,D,2014-01-27 19:57:45,2014-01-23,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$36.49,"-14,000","195,865",-7%,"-$510,810",+3,+12,+24,+8
+758,D,2014-01-22 21:13:03,2014-01-21,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$37.38,"-8,000","65,808",-11%,"-$299,067",-1,0,+17,+2
+759,D,2014-01-17 19:23:51,2014-01-15,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$36.86,"-35,000","947,163",-4%,"-$1,290,081",+1,-2,+17,-2
+760,D,2014-01-15 19:45:11,2014-01-13,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$37.37,"-10,000","124,297",-7%,"-$373,696",+2,0,+15,-1
+761,D,2014-01-10 19:02:17,2014-01-08,DXCM,Valdes Jorge A,CTO,S - Sale+OE,$35.36,"-16,000","144,853",-10%,"-$565,725",+1,+2,+7,-1
+762,D,2013-12-19 16:54:11,2013-12-18,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$34.48,"-8,000","65,808",-11%,"-$275,804",+3,+3,+12,+22
+763,DM,2013-12-13 20:41:54,2013-12-11,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$34.41,"-50,000","957,163",-5%,"-$1,720,264",0,-3,+7,+10
+764,,2013-12-13 17:54:35,2013-12-12,DXCM,Augustinos Nicholas,Dir,S - Sale,$34.40,"-11,321","11,130",-50%,"-$389,494",0,-3,+7,+10
+765,DM,2013-12-11 20:14:25,2013-12-09,DXCM,Augustinos Nicholas,Dir,S - Sale+OE,$33.64,"-97,541","22,451",-81%,"-$3,280,815",+3,+2,+10,+7
+766,DM,2013-12-06 19:53:43,2013-12-04,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$34.77,"-20,000","957,163",-2%,"-$695,331",-1,0,+2,+8
+767,,2013-12-06 19:39:26,2013-11-22,DXCM,Kahn Barbara,Dir,S - Sale,$32.63,"-1,500","49,263",-3%,"-$48,938",-1,0,+2,+8
+768,,2013-12-04 20:34:54,2013-12-03,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale,$34.21,"-14,268","124,297",-10%,"-$488,158",0,-4,+1,+5
+769,,2013-12-04 19:40:28,2013-12-02,DXCM,Gregg Terrance H,CEO,S - Sale,$34.51,"-9,000","957,163",-1%,"-$310,590",0,-4,+1,+5
+770,D,2013-11-21 16:57:03,2013-11-19,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$32.11,"-23,000","195,865",-11%,"-$738,578",-1,+2,+5,+1
+771,DM,2013-11-18 20:48:57,2013-11-14,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$32.90,"-12,000","195,865",-6%,"-$394,793",+2,+3,+9,-1
+772,DM,2013-11-15 19:09:28,2013-11-13,DXCM,Gregg Terrance H,CEO,S - Sale+OE,$32.74,"-35,000","966,163",-3%,"-$1,145,780",-3,+1,+6,0
+773,D,2013-11-15 18:58:52,2013-11-13,DXCM,Lister John,"GC, VP of HR",S - Sale+OE,$33.47,"-30,000","71,326",-30%,"-$1,004,056",-3,+1,+6,0
+774,DM,2013-11-13 18:59:15,2013-11-11,DXCM,Roper Jess,"VP, CFO",S - Sale+OE,$32.75,"-18,000","65,808",-21%,"-$589,559",-3,-5,+3,-6
+775,,2013-11-13 18:32:26,2013-11-12,DXCM,Valdes Jorge A,CTO,S - Sale,$33.34,"-26,600","144,853",-16%,"-$886,932",-3,-5,+3,-6
+776,DM,2013-11-13 18:25:50,2013-11-11,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$33.16,"-42,222","138,565",-23%,"-$1,399,923",-3,-5,+3,-6
+777,,2013-11-05 16:59:26,2013-11-01,DXCM,Gregg Terrance H,CEO,S - Sale,$28.33,"-9,000","966,163",-1%,"-$254,970",-5,+16,+21,+4
+778,,2013-10-03 17:16:41,2013-10-01,DXCM,Gregg Terrance H,CEO,S - Sale,$27.99,"-9,000","975,163",-1%,"-$251,910",-1,-5,+1,+43
+779,,2013-09-04 18:52:22,2013-09-03,DXCM,Gregg Terrance H,CEO,S - Sale,$27.00,"-9,000","984,163",-1%,"-$243,000",+1,+5,+8,+84
+780,,2013-08-05 19:00:20,2013-08-01,DXCM,Gregg Terrance H,CEO,S - Sale,$22.15,"-9,000","993,163",-1%,"-$199,350",0,+21,+19,+73
+781,,2013-07-03 17:20:00,2013-07-01,DXCM,Gregg Terrance H,CEO,S - Sale,$22.87,"-9,000","1,002,163",-1%,"-$205,808",+2,-1,0,+58
+782,D,2013-06-17 17:13:15,2013-06-13,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$21.90,"-10,000","144,571",-6%,"-$219,015",+1,-7,+1,+54
+783,,2013-06-12 17:20:32,2013-06-11,DXCM,Lister John,"GC, VP of HR",S - Sale,$22.43,"-2,000","77,763",-3%,"-$44,860",-1,+2,+5,+53
+784,,2013-06-12 17:19:59,2013-06-11,DXCM,Roper Jess,"VP, CFO",S - Sale,$22.33,"-10,361","71,290",-13%,"-$231,361",-1,+2,+5,+53
+785,,2013-06-12 17:19:14,2013-06-11,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale,$22.31,"-5,000","208,513",-2%,"-$111,550",-1,+2,+5,+53
+786,M,2013-06-05 17:05:03,2013-06-03,DXCM,Gregg Terrance H,CEO,S - Sale,$21.32,"-19,000","1,011,163",-2%,"-$405,128",+1,+3,+3,+56
+787,D,2013-05-17 19:25:19,2013-05-15,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale+OE,$19.97,"-5,000","194,248",-3%,"-$99,873",0,-5,+7,+64
+788,,2013-05-13 18:59:12,2013-05-09,DXCM,Doubleday Richard,"SVP, Worldwide Sales",S - Sale,$19.56,"-1,272","91,973",-1%,"-$24,875",0,+6,+13,+67
+789,D,2013-05-13 18:58:13,2013-05-13,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$19.40,"-45,000","144,571",-24%,"-$873,000",0,+6,+13,+67
+790,,2013-05-01 19:43:29,2013-05-01,DXCM,Gregg Terrance H,CEO,S - Sale,$16.84,"-9,000","1,030,163",-1%,"-$151,596",+7,+9,+22,+84
+791,,2013-04-03 19:32:04,2013-04-01,DXCM,Gregg Terrance H,CEO,S - Sale,$16.90,"-9,000","1,039,163",-1%,"-$152,118",0,-2,+1,+66
+792,,2013-03-13 20:31:27,2013-03-11,DXCM,Lister John,VP of Legal Affairs,S - Sale,$15.75,"-4,500","79,763",-5%,"-$70,875",0,-2,-3,+66
+793,,2013-03-13 19:20:39,2013-03-11,DXCM,Doubleday Richard,"SVP, Worldwide Sales",S - Sale,$15.63,"-5,100","93,245",-5%,"-$79,699",0,-2,-3,+66
+794,D,2013-03-13 19:15:14,2013-03-13,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$16.53,"-15,416","144,571",-10%,"-$254,814",0,-2,-3,+66
+795,M,2013-03-12 19:42:19,2013-03-08,DXCM,Valdes Jorge A,CTO,S - Sale,$16.22,"-24,054","200,890",-11%,"-$390,196",-2,-5,-4,+67
+796,,2013-03-11 19:29:03,2013-03-11,DXCM,Skyler Jay S,Dir,P - Purchase,$15.50,"+70,000","274,036",+34%,"+$1,085,000",+9,+5,+6,+70
+797,,2013-03-05 16:46:09,2013-03-01,DXCM,Gregg Terrance H,CEO,S - Sale,$14.76,"-9,000","865,350",-1%,"-$132,858",-2,0,+7,+74
+798,DM,2013-02-28 19:06:01,2013-02-26,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$14.98,"-75,000","166,052",-31%,"-$1,123,300",+2,+2,+12,+77
+799,,2013-02-05 17:38:46,2013-02-01,DXCM,Gregg Terrance H,CEO,S - Sale,$15.08,"-9,000","874,350",-1%,"-$135,702",+1,-3,+2,+49
+800,,2013-01-04 16:49:04,2013-01-02,DXCM,Gregg Terrance H,CEO,S - Sale,$13.89,"-9,000","883,350",-1%,"-$125,010",+2,+5,+6,+62
+801,,2012-12-14 17:40:30,2012-12-13,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale,$13.97,"-12,760","103,973",-11%,"-$178,225",0,+2,+10,+68
+802,M,2012-12-14 17:39:55,2012-12-12,DXCM,Valdes Jorge A,CTO,S - Sale,$14.05,"-31,872","153,323",-17%,"-$447,894",0,+2,+10,+68
+803,,2012-12-12 20:03:07,2012-12-10,DXCM,Roper Jess,"VP, CFO",S - Sale,$13.85,"-8,715","55,718",-14%,"-$120,669",-2,-5,+6,+57
+804,D,2012-12-12 19:47:55,2012-12-11,DXCM,Pacelli Steven Robert,"EVP, Strategy, Corp. Dev.",S - Sale+OE,$14.26,"-10,000","166,052",-6%,"-$142,645",-2,-5,+6,+57
+805,,2012-12-05 16:34:57,2012-12-03,DXCM,Gregg Terrance H,CEO,S - Sale,$13.24,"-5,000","967,350",-1%,"-$66,192",-2,+3,+2,+57
+806,,2012-11-07 16:49:41,2012-11-05,DXCM,Gregg Terrance H,CEO,S - Sale,$12.76,"-5,000","972,350",-1%,"-$63,800",0,0,+7,+52
+807,,2012-10-05 17:22:11,2012-10-03,DXCM,Gregg Terrance H,CEO,S - Sale,$14.93,"-5,000","977,350",-1%,"-$74,650",-3,-7,-12,+10
+808,,2012-09-18 17:16:09,2012-09-14,DXCM,Gregg Terrance H,CEO,S - Sale,$13.50,"-9,000","982,350",-1%,"-$121,500",+2,+7,0,+16
+809,,2012-09-06 19:34:46,2012-09-04,DXCM,Gregg Terrance H,CEO,S - Sale,$13.46,"-15,000","991,350",-1%,"-$201,903",-2,-3,+5,+10
+810,,2012-09-04 18:35:07,2012-08-31,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$13.30,"-10,000","157,245",-6%,"-$133,000",+1,-2,+9,+12
+811,,2012-08-17 18:35:55,2012-08-15,DXCM,Moy Jeffrey,"SVP, Operations",S - Sale,$12.80,"-21,249","167,245",-11%,"-$271,987",-1,-5,+4,+11
+812,,2012-08-07 17:01:19,2012-08-03,DXCM,Gregg Terrance H,CEO,S - Sale,$11.60,"-5,000","1,006,350",0%,"-$57,982",0,+5,+16,+24
+813,,2012-07-05 16:42:08,2012-07-03,DXCM,Gregg Terrance H,CEO,S - Sale,$13.03,"-5,000","1,011,350",0%,"-$65,154",-1,+1,-13,+9
+814,,2012-06-06 18:26:25,2012-06-04,DXCM,Sayer Kevin R,Pres,S - Sale,$10.68,"-12,077","230,383",-5%,"-$128,935",0,+9,+20,+29
+815,,2012-06-06 17:30:32,2012-06-04,DXCM,Gregg Terrance H,CEO,S - Sale,$10.78,"-5,000","1,016,350",0%,"-$53,884",0,+9,+20,+29
+816,D,2012-05-22 18:46:25,2012-05-18,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",S - Sale+OE,$10.46,"-14,198","119,308",-11%,"-$148,488",+1,+5,+23,+19
+817,,2012-05-07 19:16:46,2012-05-03,DXCM,Gregg Terrance H,CEO,S - Sale,$9.95,"-5,000","1,021,350",0%,"-$49,744",+2,+3,+6,+29
+818,,2012-04-05 16:33:58,2012-04-03,DXCM,Gregg Terrance H,CEO,S - Sale,$10.64,"-5,000","1,026,350",0%,"-$53,176",-4,-6,-4,+41
+819,,2012-03-12 21:16:22,2012-03-08,DXCM,Doordan Martin,Dir,P - Purchase,$10.35,"+2,000","27,641",+8%,"+$20,709",+1,+6,-7,+36
+820,,2012-03-06 20:02:23,2012-03-05,DXCM,Gregg Terrance H,CEO,S - Sale,$10.31,"-5,000","848,537",-1%,"-$51,550",+1,+1,+6,+31
+821,,2012-02-06 18:58:59,2012-02-03,DXCM,Gregg Terrance H,CEO,S - Sale,$11.71,"-5,000","853,537",-1%,"-$58,545",0,-5,-14,-1
+822,,2012-01-05 19:21:48,2012-01-03,DXCM,Gregg Terrance H,CEO,S - Sale,$9.53,"-5,000","858,537",-1%,"-$47,650",-1,+13,+30,+44
+823,,2011-12-15 18:39:55,2011-12-13,DXCM,Doordan Martin,Dir,P - Purchase,$8.03,"+2,000","25,641",+8%,"+$16,069",+1,+6,+24,+56
+824,,2011-11-22 17:26:17,2011-11-18,DXCM,Skyler Jay S,Dir,P - Purchase,$7.10,"+8,000","184,883",+5%,"+$56,790",+1,+9,+26,+54
+825,,2011-09-19 21:18:08,2011-09-15,DXCM,Doordan Martin,Dir,P - Purchase,$12.35,"+2,000","23,641",+9%,"+$24,708",+2,-7,-17,-15
+826,,2010-11-18 17:19:23,2010-11-16,DXCM,Gerhardsson Peter,"VP, Int'l Bus. Dev.",P - Purchase,$11.85,"+2,400","3,387",+243%,"+$28,450",0,+1,+10,+31
+827,,2010-06-08 16:33:04,2010-06-04,DXCM,Valdes Jorge A,SVP of Operations,P - Purchase,$10.10,"+5,000","31,872",+19%,"+$50,480",+6,+10,+23,+28
+828,,2010-05-19 14:42:04,2010-05-17,DXCM,Lord Jonathan T Md,Dir,P - Purchase,$10.89,"+14,881","60,111",+33%,"+$162,041",+2,-6,+7,+11
+829,,2010-05-18 17:22:12,2010-05-14,DXCM,Lord Jonathan T Md,Dir,P - Purchase,$10.78,"+40,119","45,230",+785%,"+$432,589",+2,-7,+9,+9
+830,,2010-05-12 18:55:32,2010-05-10,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$9.72,"+10,000","680,724",+1%,"+$97,200",+2,0,-9,+3
+831,,2010-03-17 19:40:49,2010-03-15,DXCM,Lucas Donald L,Dir,S - Sale,$9.79,"-10,000","428,909",-2%,"-$97,920",+1,+12,+14,+37
+832,,2009-11-16 17:06:12,2009-11-12,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$7.18,"+5,940","524,474",+1%,"+$42,653",-1,-4,+2,+43
+833,,2009-11-12 20:16:02,2009-11-10,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$7.22,"+14,060","518,534",+3%,"+$101,566",+4,+5,+8,+53
+834,,2009-08-17 17:10:30,2009-08-13,DXCM,Valdes Jorge A,SVP of Operations,P - Purchase,$6.90,"+5,000","25,289",+25%,"+$34,480",+6,+22,+18,+42
+835,,2009-05-18 16:02:12,2009-05-15,DXCM,Graham Claudia,VP Marketing,P - Purchase,$4.07,"+2,500","18,741",+15%,"+$10,184",+2,+6,+48,+62
+836,,2009-05-14 16:07:15,2009-05-13,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$3.74,"+20,000","504,474",+4%,"+$74,896",+7,+22,+65,+94
+837,,2009-05-14 16:04:24,2009-05-12,DXCM,Valdes Jorge A,SVP of Operations,P - Purchase,$3.75,"+5,000","19,638",+34%,"+$18,767",+7,+22,+65,+94
+838,,2009-03-17 17:59:11,2009-03-13,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$4.04,"+50,000","484,474",+12%,"+$202,207",+3,+14,+17,+102
+839,,2009-03-13 18:08:29,2009-03-11,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$3.75,"+20,800","434,474",+5%,"+$77,981",-1,+5,+12,+107
+840,,2008-11-25 16:26:24,2008-11-21,DXCM,Valdes Jorge A,SVP of Operations,P - Purchase,$1.48,"+3,250","13,951",+30%,"+$4,814",+1,+1,+26,+158
+841,,2008-11-24 20:29:53,2008-11-21,DXCM,Roper Jess,"VP, CFO",P - Purchase,$1.52,"+5,000","9,292",+116%,"+$7,614",+2,+1,+40,+219
+842,,2008-11-24 20:23:04,2008-11-21,DXCM,Balo Andrew K,"SVP, Regulatory, Clinical",P - Purchase,$1.53,"+7,000","10,335",+210%,"+$10,720",+2,+1,+40,+219
+843,M,2008-11-24 20:19:55,2008-11-20,DXCM,Graham Claudia,VP Marketing,P - Purchase,$1.60,"+16,000","16,241",>999%,"+$25,650",+2,+1,+40,+219
+844,M,2008-11-24 20:15:44,2008-11-20,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$1.56,"+60,000","263,674",+29%,"+$93,685",+2,+1,+40,+219
+845,A,2008-11-24 20:10:28,2008-11-19,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$1.98,"+40,000","162,213",+33%,"+$79,321",+2,+1,+40,+219
+846,,2008-11-21 20:17:10,2008-11-19,DXCM,Moy Jeffrey,"V. P., Operations",P - Purchase,$2.00,"+50,000","51,903",>999%,"+$100,000",+27,+33,+69,+250
+847,,2008-11-20 18:12:05,2008-11-19,DXCM,Pacelli Steven Robert,"SVP, Corporate Affairs",P - Purchase,$2.00,"+5,000","10,559",+90%,"+$10,000",+10,+34,+70,+190
+848,,2008-11-20 18:07:04,2008-11-19,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$1.96,"+40,000","203,674",+24%,"+$78,280",+10,+34,+70,+190
+849,,2008-11-20 14:02:28,2008-11-19,DXCM,Valdes Jorge A,SVP of Operations,P - Purchase,$1.90,"+2,500","10,701",+30%,"+$4,750",-21,+14,+49,+170
+850,,2008-08-12 18:40:53,2008-08-08,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$6.67,"+10,000","163,674",+7%,"+$66,700",+1,+2,0,-45
+851,,2008-03-18 18:07:31,2008-03-14,DXCM,Gregg Terrance H,"Pres, CEO",P - Purchase,$4.92,"+30,000","153,674",+24%,"+$147,732",-4,+8,+47,+64
+852,,2008-03-17 17:18:23,2008-03-14,DXCM,Lucas Donald L,Dir,P - Purchase,$4.92,"+35,000","433,992",+9%,"+$172,150",-9,+2,+23,+47
+853,,2008-03-17 12:09:49,2008-03-14,DXCM,Nelson Glen D,Dir,P - Purchase,$4.87,"+100,000","170,654",+142%,"+$487,247",-9,-8,+14,+37
+854,,2008-03-14 17:04:16,2008-03-14,DXCM,Skyler Jay S,Dir,P - Purchase,$4.96,"+20,000","150,079",+15%,"+$99,292",-10,-16,+21,+35
+855,,2008-03-14 17:03:51,2008-03-14,DXCM,Valdes Jorge A,SVP of Operations,P - Purchase,$4.87,"+2,000","8,201",+32%,"+$9,740",-10,-16,+21,+35
+856,,2007-08-03 16:44:59,2007-08-02,DXCM,Lucas Donald A,Dir,S - Sale,$7.10,"-3,296","3,161",-51%,"-$23,402",-2,+24,+19,+12
+857,A,2007-07-03 19:17:59,2007-06-07,DXCM,Lucas Donald A,Dir,S - Sale,$6.62,"-525,682","6,457",-99%,"-$3,480,015",-1,+10,-12,+5
+858,,2007-03-19 20:22:18,2007-03-15,DXCM,Lucas Donald A,Dir,S - Sale,$7.17,"-4,000","529,592",-1%,"-$28,690",+1,+5,+20,+33
+859,,2006-12-05 18:57:37,2006-12-04,DXCM,Lucas Donald A,Dir,S - Sale,$11.71,"-17,363","529,592",-3%,"-$203,265",+1,-1,-16,-42
+860,,2006-07-26 19:04:15,2006-07-26,DXCM,Valdes Jorge A,VP of Engineering,P - Purchase,$11.20,"+3,000","5,000",+150%,"+$33,600",-3,+3,+14,-21
+861,,2006-05-04 19:50:24,2006-05-02,DXCM,Lucas Donald L,Dir,S - Sale,$24.00,"-50,000","78,112",-39%,"-$1,200,000",-2,-10,-18,-67
+862,,2006-05-04 19:37:15,2006-05-02,DXCM,Brister Mark,VP Advanced Development Teams,S - Sale,$24.00,"-50,000","10,967",-82%,"-$1,200,000",-2,-10,-18,-67
+863,D,2006-05-04 19:36:48,2006-05-02,DXCM,Balo Andrew K,"VP of Clinical, Regulatory",S - Sale+OE,$24.00,"-100,000",876,-99%,"-$2,400,000",-2,-10,-18,-67
+864,D,2006-05-04 19:36:12,2006-05-02,DXCM,Kemper Steven J,CFO,S - Sale+OE,$24.00,"-75,000","25,696",-74%,"-$1,800,000",-2,-10,-18,-67
+865,,2006-05-04 19:35:43,2006-05-02,DXCM,Brauker James H,"VP Research, Development",S - Sale,$24.00,"-82,500","15,950",-84%,"-$1,980,000",-2,-10,-18,-67
+866,D,2006-05-04 19:35:06,2006-05-02,DXCM,Rasdal Andrew P,"Pres, CEO",S - Sale+OE,$24.00,"-125,000","2,944",-98%,"-$3,000,000",-2,-10,-18,-67
+867,,2006-05-02 15:57:03,2006-05-02,DXCM,St Paul Travelers Companies Inc,10%,S - Sale,$24.00,"-2,200,000","1,652,231",-57%,"-$52,800,000",+1,-2,-22,-63
+868,,2006-05-02 12:13:43,2006-05-02,DXCM,Warburg Pincus Private Equity VIII L P,10%,S - Sale,$24.00,"-400,000","2,295,270",-15%,"-$9,600,000",+1,-2,-22,-63
+869,,2006-05-02 12:10:47,2006-05-02,DXCM,Carney Sean,Dir,S - Sale,$24.00,"-400,000","2,295,270",-15%,"-$9,600,000",+1,-2,-22,-63
+870,,2006-03-15 20:20:24,2006-03-13,DXCM,Blickenstaff Kim D,Dir,S - Sale,$18.57,"-10,000",0,-100%,"-$185,653",-4,-12,-2,-47
+871,A,2006-03-15 18:34:09,2005-11-28,DXCM,Blickenstaff Kim D,Dir,S - Sale,$14.58,-300,"52,648",-1%,"-$4,374",-4,-12,-2,-47
+872,,2006-03-14 21:04:30,2006-03-10,DXCM,Blickenstaff Kim D,Dir,S - Sale,$18.48,"-10,648","9,800",-52%,"-$196,818",+7,-6,-1,-43
+873,,2006-03-13 17:20:22,2006-03-09,DXCM,Blickenstaff Kim D,Dir,S - Sale,$18.37,"-20,000","20,448",-49%,"-$367,374",+5,+3,+6,-39
+874,,2005-12-14 12:24:02,2005-12-12,DXCM,Blickenstaff Kim D,Dir,S - Sale,$14.60,"-4,000","40,448",-9%,"-$58,392",-1,+13,+7,-4
+875,,2005-12-01 18:00:26,2005-11-29,DXCM,Blickenstaff Kim D,Dir,S - Sale,$14.59,"-8,000","44,448",-15%,"-$116,689",+4,+2,+6,+51
+876,,2005-11-30 16:38:37,2005-11-28,DXCM,Blickenstaff Kim D,Dir,S - Sale,$14.52,"-1,900","52,448",-3%,"-$27,594",0,+2,+9,+41
+877,,2005-11-14 15:06:53,2005-11-10,DXCM,Young Eric A,10%,S - Sale,$13.30,"-1,053,000","2,040,635",-34%,"-$14,004,900",+4,+6,+4,+63
+878,,2005-11-14 15:05:57,2005-11-10,DXCM,Canaan Equity Partners II LLC,10%,S - Sale,$13.30,"-1,053,000","2,040,635",-34%,"-$14,004,900",+4,+6,+4,+63
+879,,2005-11-03 14:48:48,2005-11-01,DXCM,St Paul Travelers Companies Inc,10%,S - Sale,$13.30,"-218,000","3,853,510",-5%,"-$2,899,400",+1,-2,+7,+85
+880,,2005-10-27 17:23:32,2005-10-25,DXCM,St Paul Travelers Companies Inc,10%,S - Sale,$12.05,"-611,000","1,913,258",-24%,"-$7,362,550",+1,+10,+22,+99
+881,,2005-08-15 17:14:34,2005-08-12,DXCM,Skyler Jay S,Dir,P - Purchase,$10.20,"+9,950","121,107",+9%,"+$101,490",0,+15,+20,+73
+882,,2005-04-15 18:06:49,2005-04-13,DXCM,Skyler Jay S,Dir,P - Purchase,$12.00,"+30,000","20,000",-300%,"+$360,000",+3,+2,+12,+9
+883,,2005-04-15 18:04:47,2005-04-13,DXCM,Lucas Donald A,Dir,P - Purchase,$12.00,"+6,500","6,500",New,"+$78,000",+3,+2,+12,+9

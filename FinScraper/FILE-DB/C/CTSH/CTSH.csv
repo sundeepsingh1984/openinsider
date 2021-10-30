@@ -1,0 +1,793 @@
+,X,Filing Date,Trade Date,Ticker,Insider Name,Title,Trade Type  ,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m
+0,,,,,,,,,,,,,,,,
+1,,2021-10-05 17:59:25,2021-10-01,CTSH,Schmitt Becky,"EVP, Chief People Officer",S - Sale,$74.63,"-2,696","20,326",-12%,"-$201,202",,,,
+2,,2021-07-06 17:57:19,2021-07-01,CTSH,Schmitt Becky,"EVP, Chief People Officer",S - Sale,$69.43,"-2,888","18,222",-14%,"-$200,514",,,,
+3,,2021-06-16 17:53:35,2021-06-14,CTSH,Schmitt Becky,"EVP, Chief People Officer",S - Sale,$71.15,"-2,808","21,110",-12%,"-$199,789",,,,
+4,,2021-06-10 16:51:22,2021-06-08,CTSH,Telesmanic Robert,"SVP, Controller, CAO",S - Sale,$71.51,-200,"12,370",-2%,"-$14,303",,,,
+5,,2021-06-07 17:00:36,2021-06-03,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$70.84,"-1,031","45,178",-2%,"-$73,035",,,,
+6,D,2021-06-01 16:41:48,2021-05-27,CTSH,Patsalos-Fox Michael,Dir,S - Sale+OE,$71.20,"-5,858","61,972",-9%,"-$417,090",,,,
+7,,2021-03-18 16:52:27,2021-03-16,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$78.45,-471,"44,065",-1%,"-$36,952",,,,
+8,,2021-03-11 16:22:29,2021-03-09,CTSH,Telesmanic Robert,"SVP, Controller, CAO",S - Sale,$74.85,-228,"11,341",-2%,"-$17,065",,,,
+9,,2021-03-05 16:16:25,2021-03-03,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$73.61,"-1,971","40,592",-5%,"-$145,092",,,,
+10,,2020-12-17 16:16:55,2020-12-15,CTSH,Telesmanic Robert,"SVP, Controller, CAO",S - Sale,$79.85,-757,"10,667",-7%,"-$60,445",,,,
+11,,2020-12-16 16:26:00,2020-12-14,CTSH,Friedrich Matthew W.,GC,S - Sale,$79.24,-458,"5,043",-8%,"-$36,291",,,,
+12,,2020-12-16 16:25:25,2020-12-14,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$79.24,-461,"40,592",-1%,"-$36,529",,,,
+13,,2020-12-10 16:19:13,2020-12-08,CTSH,Friedrich Matthew W.,GC,S - Sale,$80.20,"-1,077","5,043",-18%,"-$86,372",,,,
+14,,2020-12-04 16:22:32,2020-12-02,CTSH,Friedrich Matthew W.,GC,S - Sale,$78.33,-178,"5,043",-3%,"-$13,943",,,,
+15,,2020-12-04 16:22:15,2020-12-02,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$78.33,"-1,461","37,975",-4%,"-$114,442",,,,
+16,D,2020-12-04 16:21:59,2020-12-03,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$78.07,"-6,926","36,628",-16%,"-$540,713",,,,
+17,D,2020-11-18 16:16:31,2020-11-16,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$78.17,"-5,430","36,628",-13%,"-$424,463",,,,
+18,,2020-10-19 16:17:00,2020-10-15,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$73.54,-723,"10,586",-6%,"-$53,168",,,,
+19,,2020-10-09 16:19:51,2020-10-07,CTSH,Sinha Dharmendra Kumar,"Pres, North America",S - Sale,$72.00,"-10,000","18,016",-36%,"-$720,000",,,,
+20,,2020-10-01 16:23:08,2020-09-29,CTSH,Sinha Dharmendra Kumar,"Pres, North America",S - Sale,$70.00,"-15,000","26,893",-36%,"-$1,050,045",,,,
+21,,2020-09-25 16:19:38,2020-09-23,CTSH,Sinha Dharmendra Kumar,"Pres, North America",S - Sale,$68.33,"-25,000","41,893",-37%,"-$1,708,200",,,,
+22,,2020-09-16 16:27:21,2020-09-14,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$69.16,-448,"37,975",-1%,"-$30,982",,,,
+23,,2020-09-16 16:27:01,2020-09-14,CTSH,Friedrich Matthew W.,GC,S - Sale,$69.15,-457,"2,518",-15%,"-$31,600",,,,
+24,,2020-09-16 16:26:42,2020-09-14,CTSH,Fox John Nelson Jr,Dir,S - Sale,$69.32,"-4,400","36,287",-11%,"-$305,007",,,,
+25,,2020-09-11 16:18:51,2020-09-09,CTSH,Friedrich Matthew W.,GC,S - Sale,$66.61,"-1,075","2,518",-30%,"-$71,602",,,,
+26,,2020-09-11 16:18:32,2020-09-09,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$66.60,-243,"10,586",-2%,"-$16,184",,,,
+27,,2020-09-04 16:16:20,2020-09-02,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$68.37,"-1,489","35,446",-4%,"-$101,804",,,,
+28,,2020-09-04 16:16:03,2020-09-02,CTSH,Friedrich Matthew W.,GC,S - Sale,$68.84,"-1,250","2,518",-33%,"-$86,050",,,,
+29,,2020-08-20 16:18:21,2020-08-18,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$67.50,-812,"10,484",-7%,"-$54,813",,,,
+30,D,2020-08-06 16:16:26,2020-08-04,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$67.67,"-6,140","40,687",-13%,"-$415,494",,,,
+31,,2020-06-17 16:05:19,2020-06-15,CTSH,Friedrich Matthew W.,GC,S - Sale,$54.62,-459,"1,072",-30%,"-$25,069",,,,
+32,,2020-06-17 16:02:05,2020-06-15,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$54.62,-448,"35,446",-1%,"-$24,469",,,,
+33,,2020-06-11 16:29:10,2020-06-09,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$57.36,-242,"10,570",-2%,"-$13,881",,,,
+34,,2020-06-05 16:39:44,2020-06-03,CTSH,Friedrich Matthew W.,GC,S - Sale,$54.83,"-3,153",0,-100%,"-$172,871",,,,
+35,,2020-06-05 16:37:32,2020-06-03,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$54.83,"-1,492","32,924",-4%,"-$81,806",,,,
+36,,2020-05-20 15:33:42,2020-05-18,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$52.94,"-3,770","10,484",-26%,"-$199,594",,,,
+37,,2020-03-18 16:36:38,2020-03-16,CTSH,Friedrich Matthew W.,GC,S - Sale,$46.34,-459,0,-100%,"-$21,270",,,,
+38,,2020-03-18 16:35:23,2020-03-16,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$46.47,-448,"32,924",-1%,"-$20,820",,,,
+39,,2020-03-06 15:58:25,2020-03-04,CTSH,Friedrich Matthew W.,GC,S - Sale,$60.45,"-3,123",0,-100%,"-$188,781",,,,
+40,,2020-03-06 15:56:53,2020-03-04,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$60.46,"-2,174","32,924",-6%,"-$131,438",,,,
+41,D,2020-03-03 14:35:53,2020-02-28,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale+OE,$60.57,"-1,839","34,406",-5%,"-$111,385",,,,
+42,,2020-02-26 15:48:47,2020-02-24,CTSH,Dsouza  Francisco,Dir,S - Sale,$68.42,"-37,419","150,772",-20%,"-$2,560,243",,,,
+43,D,2020-02-25 16:46:00,2020-02-21,CTSH,Breakiron-Evans Maureen,Dir,S - Sale+OE,$70.00,"-5,560","3,063",-64%,"-$389,200",,,,
+44,,2020-02-12 16:53:18,2020-02-10,CTSH,Dsouza  Francisco,Dir,S - Sale,$69.14,"-37,419","188,191",-17%,"-$2,587,161",,,,
+45,,2020-02-07 15:26:47,2020-02-05,CTSH,McLoughlin Karen,CFO,S - Sale,$64.66,"-1,118","66,183",-2%,"-$72,291",,,,
+46,,2020-02-06 16:01:39,2020-02-04,CTSH,McLoughlin Karen,CFO,S - Sale,$63.54,-725,"67,301",-1%,"-$46,067",,,,
+47,,2020-01-29 16:08:17,2020-01-27,CTSH,Dsouza  Francisco,Dir,S - Sale,$61.81,"-62,177","225,610",-22%,"-$3,843,353",,,,
+48,,2020-01-21 17:26:46,2020-01-16,CTSH,McLoughlin Karen,CFO,S - Sale,$62.02,"-18,396","68,026",-21%,"-$1,140,920",,,,
+49,,2020-01-15 16:28:42,2020-01-13,CTSH,Dsouza  Francisco,Dir,S - Sale,$60.87,"-62,177","287,787",-18%,"-$3,784,825",,,,
+50,,2020-01-07 15:39:51,2020-01-03,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$61.19,"-4,827","3,073",-61%,"-$295,354",,,,
+51,,2020-01-07 15:38:27,2020-01-03,CTSH,Friedrich Matthew W.,GC,S - Sale,$61.19,"-9,890",0,-100%,"-$605,120",,,,
+52,,2020-01-07 15:37:13,2020-01-03,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$61.18,"-17,215","34,763",-33%,"-$1,053,283",,,,
+53,,2020-01-02 14:02:54,2019-12-30,CTSH,Dsouza  Francisco,Dir,S - Sale,$61.66,"-62,177","339,695",-15%,"-$3,833,784",,,,
+54,,2019-12-19 16:12:46,2019-12-17,CTSH,McLoughlin Karen,CFO,S - Sale,$61.85,-318,"68,026",0%,"-$19,668",,,,
+55,,2019-12-18 14:37:30,2019-12-16,CTSH,Dsouza  Francisco,Dir,S - Sale,$61.85,"-62,177","401,872",-13%,"-$3,845,631",,,,
+56,,2019-12-17 14:58:38,2019-12-13,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$61.60,"-1,129","3,073",-27%,"-$69,543",,,,
+57,,2019-12-17 14:57:06,2019-12-13,CTSH,Friedrich Matthew W.,GC,S - Sale,$61.60,-454,0,-100%,"-$27,967",,,,
+58,D,2019-12-17 14:55:50,2019-12-13,CTSH,Breakiron-Evans Maureen,Dir,S - Sale+OE,$61.71,"-3,192","3,063",-51%,"-$196,963",,,,
+59,,2019-12-10 16:34:50,2019-12-06,CTSH,McLoughlin Karen,CFO,S - Sale,$62.46,"-1,000","68,026",-1%,"-$62,460",,,,
+60,,2019-12-05 15:27:31,2019-12-03,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$62.67,-891,"3,073",-22%,"-$55,835",,,,
+61,,2019-12-05 15:25:52,2019-12-03,CTSH,Friedrich Matthew W.,GC,S - Sale,$62.67,"-3,109",0,-100%,"-$194,835",,,,
+62,,2019-12-05 15:24:19,2019-12-03,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$62.66,-689,"34,319",-2%,"-$43,176",,,,
+63,,2019-12-04 13:50:23,2019-12-02,CTSH,Klein John E,Dir,S - Sale,$63.94,"-10,000","567,859",-2%,"-$639,403",,,,
+64,,2019-12-04 13:48:40,2019-12-02,CTSH,Dsouza  Francisco,Dir,S - Sale,$63.66,"-62,178","464,049",-12%,"-$3,958,488",,,,
+65,,2019-11-29 11:48:18,2019-11-26,CTSH,Dsouza  Francisco,Dir,S - Sale,$63.62,"-62,178","526,227",-11%,"-$3,955,963",,,,
+66,,2019-09-17 15:57:49,2019-09-13,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$64.30,-975,"2,010",-33%,"-$62,691",,,,
+67,,2019-09-17 15:55:12,2019-09-13,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$64.30,"-1,125","3,073",-27%,"-$72,340",,,,
+68,,2019-09-17 15:54:01,2019-09-13,CTSH,Friedrich Matthew W.,GC,S - Sale,$64.29,-452,0,-100%,"-$29,059",,,,
+69,,2019-09-13 15:48:50,2019-09-11,CTSH,McLoughlin Karen,CFO,S - Sale,$64.92,"-1,523","66,043",-2%,"-$98,873",,,,
+70,,2019-09-10 13:17:12,2019-09-06,CTSH,McLoughlin Karen,CFO,S - Sale,$64.27,"-1,000","67,566",-1%,"-$64,270",,,,
+71,,2019-09-06 16:52:40,2019-09-04,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$62.14,"-1,091","2,010",-35%,"-$67,800",,,,
+72,,2019-09-06 16:50:17,2019-09-04,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$62.23,-889,"3,073",-22%,"-$55,326",,,,
+73,,2019-09-06 16:48:08,2019-09-04,CTSH,Friedrich Matthew W.,GC,S - Sale,$62.23,"-3,104",0,-100%,"-$193,171",,,,
+74,,2019-09-06 16:43:32,2019-09-04,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$62.22,-678,"32,402",-2%,"-$42,186",,,,
+75,,2019-09-05 15:37:41,2019-09-03,CTSH,Klein John E,Dir,S - Sale,$61.13,"-10,000","577,859",-2%,"-$611,336",,,,
+76,,2019-07-11 17:24:45,2019-07-09,CTSH,McLoughlin Karen,CFO,S - Sale,$64.28,"-7,905","65,906",-11%,"-$508,133",,,,
+77,,2019-07-08 16:51:45,2019-07-03,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$64.05,"-2,086","3,073",-40%,"-$133,609",,,,
+78,,2019-07-08 16:50:12,2019-07-03,CTSH,Friedrich Matthew W.,GC,S - Sale,$64.02,"-4,965",0,-100%,"-$317,840",,,,
+79,,2019-07-08 16:48:59,2019-07-03,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$64.05,"-7,469","30,951",-19%,"-$478,382",,,,
+80,,2019-06-26 16:04:57,2019-06-24,CTSH,McLoughlin Karen,CFO,S - Sale,$64.09,-316,"65,906",0%,"-$20,252",,,,
+81,,2019-06-18 15:57:45,2019-06-14,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$61.91,"-1,246",0,-100%,"-$77,137",,,,
+82,,2019-06-18 15:56:11,2019-06-14,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$61.60,"-1,454","3,073",-32%,"-$89,570",,,,
+83,,2019-06-18 15:54:20,2019-06-14,CTSH,Friedrich Matthew W.,GC,S - Sale,$61.55,-452,0,-100%,"-$27,818",,,,
+84,A,2019-06-14 12:51:41,2019-03-04,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$71.81,-652,"26,784",-2%,"-$46,820",,,,
+85,A,2019-06-14 12:40:53,2019-01-03,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$61.88,"-5,412","28,128",-16%,"-$334,888",,,,
+86,,2019-06-13 15:34:11,2019-06-11,CTSH,McLoughlin Karen,CFO,S - Sale,$63.66,"-1,517","65,906",-2%,"-$96,572",,,,
+87,,2019-06-12 16:34:27,2019-06-10,CTSH,McLoughlin Karen,CFO,S - Sale,$62.85,"-1,500","67,423",-2%,"-$94,275",,,,
+88,,2019-06-07 15:31:38,2019-06-05,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$61.94,"-2,360","3,073",-43%,"-$146,180",,,,
+89,,2019-06-06 16:50:22,2019-06-04,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$60.16,"-1,369",0,-100%,"-$82,361",,,,
+90,,2019-06-06 16:49:20,2019-06-04,CTSH,Friedrich Matthew W.,GC,S - Sale,$60.61,"-3,092",0,-100%,"-$187,395",,,,
+91,,2019-06-06 16:46:57,2019-06-04,CTSH,Frank Malcolm,"Pres, Digital Business",S - Sale,$60.52,-685,"28,886",-2%,"-$41,456",,,,
+92,,2019-06-05 15:57:48,2019-06-03,CTSH,Klein John E,Dir,S - Sale,$61.77,"-10,000","587,859",-2%,"-$617,729",,,,
+93,,2019-05-24 12:27:02,2019-05-23,CTSH,Humphries Brian,CEO,P - Purchase,$61.09,"+19,000","19,000",New,"+$1,160,742",,,,
+94,,2019-05-22 16:10:39,2019-05-20,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$60.00,"-3,343","8,137",-29%,"-$200,580",,,,
+95,,2019-04-04 18:05:51,2019-04-02,CTSH,Veeraraghavachary Srinivasan,EVP - COO,S - Sale,$74.00,"-2,000","38,992",-5%,"-$148,000",,,,
+96,,2019-04-03 18:14:26,2019-04-01,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$73.73,-868,"11,480",-7%,"-$63,999",,,,
+97,,2019-04-03 18:09:46,2019-04-01,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$73.80,-396,0,-100%,"-$29,226",,,,
+98,,2019-03-21 17:42:17,2019-03-19,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$72.31,-75,"5,481",-1%,"-$5,423",,,,
+99,,2019-03-21 17:39:04,2019-03-19,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$72.31,-851,"14,503",-6%,"-$61,536",,,,
+100,,2019-03-19 17:28:22,2019-03-15,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$71.78,-442,"5,556",-7%,"-$31,727",,,,
+101,,2019-03-19 17:26:14,2019-03-15,CTSH,Mehta Rajeev,Pres,S - Sale,$71.62,"-19,664","40,316",-33%,"-$1,408,393",,,,
+102,,2019-03-19 17:23:56,2019-03-15,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$71.75,"-3,014","8,770",-26%,"-$216,255",,,,
+103,,2019-03-15 15:43:50,2019-03-13,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$71.66,"-1,245",0,-100%,"-$89,211",,,,
+104,M,2019-03-15 15:41:52,2019-03-13,CTSH,Mehta Rajeev,Pres,S - Sale,$71.50,"-20,000","59,980",-25%,"-$1,430,000",,,,
+105,,2019-03-15 15:40:09,2019-03-13,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$71.59,-977,"3,889",-20%,"-$69,942",,,,
+106,,2019-03-15 15:38:24,2019-03-13,CTSH,Friedrich Matthew W.,GC,S - Sale,$71.64,-450,0,-100%,"-$32,240",,,,
+107,,2019-03-13 16:15:38,2019-03-11,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$72.13,-496,"5,481",-8%,"-$35,776",,,,
+108,,2019-03-13 16:12:51,2019-03-11,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$72.13,"-1,526","13,963",-10%,"-$110,070",,,,
+109,,2019-03-11 16:06:43,2019-03-07,CTSH,Mehta Rajeev,Pres,S - Sale,$72.50,"-10,000","79,980",-11%,"-$725,000",,,,
+110,,2019-03-06 16:50:25,2019-03-04,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$72.45,"-1,533",0,-100%,"-$111,064",,,,
+111,,2019-03-06 16:48:48,2019-03-04,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$71.73,"-1,081","3,409",-24%,"-$77,543",,,,
+112,,2019-03-06 16:47:10,2019-03-04,CTSH,Friedrich Matthew W.,GC,S - Sale,$71.71,"-2,877",0,-100%,"-$206,312",,,,
+113,,2019-03-06 16:44:31,2019-03-04,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$71.81,-437,"26,999",-2%,"-$31,381",,,,
+114,,2019-02-19 15:17:31,2019-02-15,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$73.41,"-3,477","11,084",-24%,"-$255,236",,,,
+115,,2019-02-06 16:26:28,2019-02-04,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$71.23,-683,"5,288",-11%,"-$48,650",,,,
+116,,2019-02-06 16:25:02,2019-02-04,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$71.23,"-1,208","13,963",-8%,"-$86,046",,,,
+117,,2019-01-28 16:49:12,2019-01-24,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$68.03,-403,"5,971",-6%,"-$27,416",,,,
+118,,2019-01-28 16:48:11,2019-01-24,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$68.03,-168,"15,171",-1%,"-$11,429",,,,
+119,,2019-01-22 16:12:20,2019-01-18,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$68.03,-500,"15,339",-3%,"-$34,015",,,,
+120,,2019-01-15 16:38:35,2019-01-11,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$65.00,-838,"14,561",-5%,"-$54,470",,,,
+121,,2019-01-07 16:05:12,2019-01-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$61.88,"-7,251","26,289",-22%,"-$448,683",,,,
+122,M,2019-01-04 16:01:25,2019-01-02,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$63.28,"-3,013","3,409",-47%,"-$190,667",,,,
+123,,2018-12-18 16:15:59,2018-12-14,CTSH,Shaheen Allen,"EVP, NA Digital Hubs",S - Sale,$68.23,-976,0,-100%,"-$66,592",,,,
+124,,2018-12-18 16:14:43,2018-12-14,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$68.32,-748,"6,287",-11%,"-$51,105",,,,
+125,,2018-12-18 16:13:26,2018-12-14,CTSH,Friedrich Matthew W.,GC,S - Sale,$68.30,-449,0,-100%,"-$30,666",,,,
+126,,2018-12-17 15:40:43,2018-12-13,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$69.00,"-1,654","15,500",-10%,"-$114,126",,,,
+127,,2018-12-06 16:05:55,2018-12-04,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$71.51,"-1,232",0,-100%,"-$88,101",,,,
+128,,2018-12-06 16:04:30,2018-12-04,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$70.51,-845,"5,920",-12%,"-$59,582",,,,
+129,,2018-12-06 16:03:08,2018-12-04,CTSH,Friedrich Matthew W.,GC,S - Sale,$70.49,"-2,893",0,-100%,"-$203,913",,,,
+130,,2018-12-06 16:01:13,2018-12-04,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$70.48,"-3,190","22,281",-13%,"-$224,836",,,,
+131,,2018-11-19 17:01:37,2018-11-15,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$68.00,"-5,062","14,561",-26%,"-$344,227",,,,
+132,,2018-10-04 16:33:22,2018-10-02,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale,$77.15,-834,"19,623",-4%,"-$64,347",,,,
+133,,2018-09-27 16:27:16,2018-09-25,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$77.60,-665,"14,683",-4%,"-$51,604",,,,
+134,,2018-09-21 15:34:46,2018-09-19,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$77.05,-75,"5,060",-1%,"-$5,779",,,,
+135,,2018-09-20 16:30:22,2018-09-18,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$76.28,-439,"5,135",-8%,"-$33,487",,,,
+136,,2018-09-19 16:30:42,2018-09-17,CTSH,Friedrich Matthew W.,GC,S - Sale,$76.29,-447,0,-100%,"-$34,104",,,,
+137,,2018-09-18 16:37:21,2018-09-14,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$76.69,-973,0,-100%,"-$74,618",,,,
+138,,2018-09-18 16:35:03,2018-09-14,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$76.68,-744,"5,920",-11%,"-$57,052",,,,
+139,,2018-09-07 16:38:37,2018-09-05,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$75.29,"-1,227",0,-100%,"-$92,381",,,,
+140,,2018-09-07 16:37:21,2018-09-05,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$75.20,-842,"5,555",-13%,"-$63,321",,,,
+141,,2018-09-07 16:36:11,2018-09-05,CTSH,Friedrich Matthew W.,GC,S - Sale,$75.17,"-2,881",0,-100%,"-$216,562",,,,
+142,,2018-09-07 16:35:03,2018-09-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$75.20,-859,"19,761",-4%,"-$64,601",,,,
+143,,2018-08-23 09:37:54,2018-08-21,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$74.89,-352,0,-100%,"-$26,361",,,,
+144,,2018-08-14 16:32:17,2018-08-10,CTSH,Mehta Rajeev,Pres,S - Sale,$75.86,"-22,239","30,875",-42%,"-$1,687,064",,,,
+145,D,2018-08-10 16:26:25,2018-08-08,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale+OE,$77.62,"-17,986","19,623",-48%,"-$1,396,110",,,,
+146,,2018-07-16 16:43:34,2018-07-12,CTSH,McLoughlin Karen,CFO,S - Sale,$82.04,"-4,983","43,887",-10%,"-$408,805",,,,
+147,,2018-07-12 16:19:54,2018-07-10,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$81.50,-232,"3,985",-6%,"-$18,908",,,,
+148,,2018-07-10 16:12:10,2018-07-06,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$79.94,-36,"4,217",-1%,"-$2,878",,,,
+149,,2018-07-06 15:24:55,2018-07-03,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$79.97,-52,"5,555",-1%,"-$4,158",,,,
+150,,2018-07-06 15:23:04,2018-07-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$79.98,"-3,146","18,826",-14%,"-$251,624",,,,
+151,,2018-06-20 16:38:01,2018-06-18,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$79.89,-75,"4,217",-2%,"-$5,992",,,,
+152,,2018-06-20 16:36:58,2018-06-18,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$79.89,-664,"12,861",-5%,"-$53,047",,,,
+153,D,2018-06-19 16:11:47,2018-06-15,CTSH,Telesmanic Robert,"SVP, Cont., Chief Acct. Offc.",S - Sale+OE,$79.53,"-10,000","27,533",-27%,"-$795,252",,,,
+154,,2018-06-19 16:07:39,2018-06-15,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$80.64,-650,"4,292",-13%,"-$52,417",,,,
+155,D,2018-06-19 16:06:10,2018-06-15,CTSH,Mackay Leo S. Jr.,Dir,S - Sale+OE,$78.98,"-1,600","9,454",-14%,"-$126,366",,,,
+156,,2018-06-19 16:04:56,2018-06-15,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$79.80,"-5,500","34,028",-14%,"-$438,909",,,,
+157,,2018-06-15 16:04:15,2018-06-13,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$78.76,-610,352,-63%,"-$48,045",,,,
+158,,2018-06-15 16:01:39,2018-06-13,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$78.63,-743,"5,555",-12%,"-$58,423",,,,
+159,,2018-06-12 16:26:13,2018-06-08,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$76.87,"-2,410","4,867",-33%,"-$185,257",,,,
+160,,2018-06-12 16:23:56,2018-06-08,CTSH,McLoughlin Karen,CFO,S - Sale,$76.87,"-1,386","43,887",-3%,"-$106,542",,,,
+161,,2018-06-12 16:22:03,2018-06-08,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$76.87,"-1,200","12,861",-9%,"-$92,244",,,,
+162,,2018-06-07 16:31:46,2018-06-05,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$76.86,"-5,036",352,-93%,"-$387,058",,,,
+163,,2018-06-07 16:30:15,2018-06-05,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$76.85,"-4,710","5,555",-46%,"-$361,983",,,,
+164,,2018-06-07 16:28:21,2018-06-05,CTSH,Friedrich Matthew W.,GC,S - Sale,$76.85,"-2,874",0,-100%,"-$220,871",,,,
+165,,2018-06-07 16:27:00,2018-06-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$76.86,"-1,111","17,277",-6%,"-$85,390",,,,
+166,,2018-06-06 15:28:17,2018-06-04,CTSH,Gomatam Sumithra,Pres - Digital Operations,S - Sale,$77.02,"-1,597","6,312",-20%,"-$123,003",,,,
+167,,2018-03-29 17:37:47,2018-03-27,CTSH,Veeraraghavachary Srinivasan,EVP - COO,S - Sale,$82.29,"-2,500","23,794",-10%,"-$205,725",,,,
+168,,2018-03-19 16:45:04,2018-03-15,CTSH,McLoughlin Karen,CFO,S - Sale,$83.76,"-1,791","42,718",-4%,"-$150,014",,,,
+169,,2018-03-16 15:54:41,2018-03-14,CTSH,Velli Joseph M,Dir,P - Purchase,$84.10,"+2,500","2,500",New,"+$210,244",,,,
+170,,2018-03-15 14:07:52,2018-03-13,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$83.72,-774,0,-100%,"-$64,798",,,,
+171,,2018-03-15 14:05:45,2018-03-13,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$83.64,-959,"5,203",-16%,"-$80,207",,,,
+172,D,2018-03-15 14:02:17,2018-03-13,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$84.05,"-5,560","35,590",-14%,"-$467,313",,,,
+173,D,2018-03-14 16:56:39,2018-03-12,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale+OE,$84.62,"-1,519","8,537",-15%,"-$128,538",,,,
+174,,2018-03-13 14:24:23,2018-03-09,CTSH,Mehta Rajeev,Pres,S - Sale,$84.17,"-4,522","30,523",-13%,"-$380,621",,,,
+175,D,2018-03-08 16:36:46,2018-03-06,CTSH,Breakiron-Evans Maureen,Dir,S - Sale+OE,$82.86,"-20,000",255,-99%,"-$1,657,196",,,,
+176,,2018-03-07 15:26:18,2018-03-05,CTSH,Shaheen Allen,"EVP, NA Regional Delivery Ctrs",S - Sale,$82.13,"-1,528",0,-100%,"-$125,496",,,,
+177,,2018-03-07 15:23:56,2018-03-05,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$82.13,"-1,093","5,203",-17%,"-$89,766",,,,
+178,,2018-03-07 15:21:49,2018-03-05,CTSH,Friedrich Matthew W.,GC,S - Sale,$82.14,"-2,847",0,-100%,"-$233,849",,,,
+179,,2018-03-07 15:19:45,2018-03-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$82.11,"-1,091","16,069",-6%,"-$89,584",,,,
+180,D,2018-03-05 17:09:24,2018-03-01,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale+OE,$81.40,"-4,614","6,296",-42%,"-$375,571",,,,
+181,D,2018-03-05 17:04:34,2018-03-02,CTSH,Gomatam Sumithra,Pres - Digital Operations,S - Sale+OE,$80.50,"-1,060","6,872",-13%,"-$85,326",,,,
+182,,2018-02-23 11:49:29,2018-02-21,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$83.00,"-1,650","37,603",-4%,"-$136,950",,,,
+183,,2018-02-21 16:39:24,2018-02-16,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$81.50,"-3,318",0,-100%,"-$270,417",,,,
+184,D,2018-02-21 16:37:39,2018-02-16,CTSH,Breakiron-Evans Maureen,Dir,S - Sale+OE,$81.01,"-20,000",255,-99%,"-$1,620,124",,,,
+185,,2018-02-16 15:59:51,2018-02-14,CTSH,Mehta Rajeev,Pres,S - Sale,$79.50,"-17,998","30,523",-37%,"-$1,430,841",,,,
+186,,2018-02-16 15:58:33,2018-02-14,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$79.00,"-4,000","3,318",-55%,"-$316,000",,,,
+187,D,2018-02-16 15:57:16,2018-02-14,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale+OE,$79.81,"-10,000","7,876",-56%,"-$798,094",,,,
+188,D,2018-02-16 15:52:57,2018-02-14,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$79.83,"-6,000","35,590",-14%,"-$478,981",,,,
+189,,2018-02-09 17:10:46,2018-02-07,CTSH,Mehta Rajeev,Pres,S - Sale,$79.13,"-34,000","156,738",-18%,"-$2,690,250",,,,
+190,,2018-02-09 17:08:30,2018-02-07,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$79.00,"-1,726","39,253",-4%,"-$136,354",,,,
+191,,2018-01-25 17:05:09,2018-01-23,CTSH,Mehta Rajeev,Pres,S - Sale,$78.50,"-8,559","190,738",-4%,"-$671,882",,,,
+192,,2018-01-24 16:59:23,2018-01-22,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$78.00,"-25,000","196,300",-11%,"-$1,950,000",,,,
+193,,2018-01-24 16:57:41,2018-01-22,CTSH,Mehta Rajeev,Pres,S - Sale,$77.50,"-42,563","199,297",-18%,"-$3,298,633",,,,
+194,,2018-01-22 16:46:18,2018-01-18,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$77.00,"-25,000","221,300",-10%,"-$1,925,000",,,,
+195,,2018-01-22 16:44:04,2018-01-18,CTSH,Mehta Rajeev,Pres,S - Sale,$77.00,"-42,500","241,860",-15%,"-$3,272,500",,,,
+196,,2018-01-22 16:40:59,2018-01-18,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$77.00,"-1,726","40,979",-4%,"-$132,902",,,,
+197,,2018-01-19 15:58:40,2018-01-17,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$76.00,"-25,000","246,300",-9%,"-$1,900,000",,,,
+198,,2018-01-19 15:56:04,2018-01-17,CTSH,Mehta Rajeev,Pres,S - Sale,$76.00,"-42,500","284,360",-13%,"-$3,230,000",,,,
+199,,2018-01-19 15:53:27,2018-01-17,CTSH,Gomatam Sumithra,Pres - Digital Operations,S - Sale,$76.00,"-2,625","7,457",-26%,"-$199,500",,,,
+200,D,2018-01-18 15:18:47,2018-01-16,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$75.37,"-12,500","42,718",-23%,"-$942,113",,,,
+201,,2018-01-18 15:15:25,2018-01-16,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$75.44,"-25,000","271,300",-8%,"-$1,886,000",,,,
+202,DM,2018-01-12 16:58:15,2018-01-10,CTSH,Dsouza  Francisco,CEO,S - Sale+OE,$74.04,"-240,000","457,330",-34%,"-$17,768,794",,,,
+203,,2018-01-11 16:04:04,2018-01-09,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$73.47,-32,"3,369",-1%,"-$2,351",,,,
+204,,2017-12-19 15:50:36,2017-12-15,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$72.18,"-3,000","7,724",-28%,"-$216,543",,,,
+205,D,2017-12-14 14:44:35,2017-12-12,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$72.00,"-19,500","35,590",-35%,"-$1,404,000",,,,
+206,,2017-12-11 17:17:24,2017-12-07,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$71.36,"-1,278","3,366",-28%,"-$91,198",,,,
+207,,2017-12-11 17:15:56,2017-12-07,CTSH,McLoughlin Karen,CFO,S - Sale,$71.38,"-14,369","42,718",-25%,"-$1,025,714",,,,
+208,,2017-12-11 17:14:03,2017-12-07,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$71.36,"-4,635","10,724",-30%,"-$330,754",,,,
+209,,2017-12-08 15:04:36,2017-12-06,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$70.61,"-9,462","15,533",-38%,"-$668,147",,,,
+210,,2017-12-07 16:13:36,2017-12-05,CTSH,Shaheen Allen,EVP Corporate Development,S - Sale,$70.73,"-3,891",0,-100%,"-$275,224",,,,
+211,,2017-12-07 16:10:58,2017-12-05,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$70.77,"-1,325","9,817",-12%,"-$93,771",,,,
+212,,2017-12-07 16:08:54,2017-12-05,CTSH,Friedrich Matthew W.,GC,S - Sale,$70.75,"-2,717",0,-100%,"-$192,226",,,,
+213,D,2017-12-04 16:21:01,2017-11-30,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$72.24,"-9,482","42,718",-18%,"-$685,025",,,,
+214,DM,2017-11-22 14:16:37,2017-11-20,CTSH,Dsouza  Francisco,CEO,S - Sale+OE,$72.04,"-482,000","403,282",-54%,"-$34,721,611",,,,
+215,,2017-11-20 16:56:20,2017-11-16,CTSH,Mehta Rajeev,Pres,S - Sale,$75.25,"-42,500","291,840",-13%,"-$3,198,125",,,,
+216,,2017-11-15 13:07:17,2017-11-13,CTSH,Friedrich Matthew W.,GC,S - Sale,$74.30,"-2,711",0,-100%,"-$201,426",,,,
+217,DM,2017-11-08 13:09:57,2017-11-06,CTSH,Mackay Leo S. Jr.,Dir,S - Sale+OE,$74.80,"-14,247","6,797",-68%,"-$1,065,618",,,,
+218,,2017-11-08 13:05:15,2017-11-06,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$75.00,"-4,000","3,919",-51%,"-$300,000",,,,
+219,,2017-11-02 14:51:02,2017-10-31,CTSH,Gomatam Sumithra,Pres - Digital Operations,S - Sale,$76.00,"-3,163","6,346",-33%,"-$240,388",,,,
+220,,2017-10-13 16:13:30,2017-10-11,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$73.89,-32,"2,937",-1%,"-$2,364",,,,
+221,,2017-10-12 14:08:26,2017-10-10,CTSH,Gomatam Sumithra,Pres - Digital Operations,S - Sale,$74.00,"-8,000","9,509",-46%,"-$592,000",,,,
+222,,2017-10-12 14:06:28,2017-10-10,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$74.00,"-2,190","38,509",-5%,"-$162,060",,,,
+223,M,2017-09-27 16:12:13,2017-09-25,CTSH,Gomatam Sumithra,Pres - Digital Operations,S - Sale,$72.00,"-8,000","17,509",-31%,"-$576,012",,,,
+224,,2017-09-14 15:31:33,2017-09-12,CTSH,Veeraraghavachary Srinivasan,EVP - COO,S - Sale,$73.00,"-2,500","24,459",-9%,"-$182,500",,,,
+225,M,2017-09-14 15:29:44,2017-09-12,CTSH,Mehta Rajeev,Pres,S - Sale,$72.54,"-34,437","334,340",-9%,"-$2,497,947",,,,
+226,,2017-09-14 15:27:05,2017-09-12,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$73.00,"-1,726","39,576",-4%,"-$125,998",,,,
+227,,2017-09-14 15:25:18,2017-09-12,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$73.00,"-25,000","286,923",-8%,"-$1,825,000",,,,
+228,,2017-09-13 14:51:48,2017-09-11,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$72.00,"-25,000","311,923",-7%,"-$1,800,000",,,,
+229,,2017-09-13 14:49:59,2017-09-11,CTSH,Mehta Rajeev,Pres,S - Sale,$72.02,"-32,000","368,777",-8%,"-$2,304,569",,,,
+230,,2017-09-12 16:25:49,2017-09-08,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$71.41,-479,"2,841",-14%,"-$34,205",,,,
+231,,2017-09-12 16:23:28,2017-09-08,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$71.26,"-1,954","10,515",-16%,"-$139,248",,,,
+232,,2017-09-11 16:38:24,2017-09-07,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$71.57,"-1,725","8,407",-17%,"-$123,456",,,,
+233,,2017-09-07 16:10:08,2017-09-05,CTSH,Shaheen Allen,EVP Corporate Development,S - Sale,$70.20,"-2,358",0,-100%,"-$165,525",,,,
+234,D,2017-09-06 15:03:54,2017-09-01,CTSH,Mehta Rajeev,Pres,S - Sale+OE,$71.02,"-32,000","400,777",-7%,"-$2,272,640",,,,
+235,D,2017-09-06 14:48:38,2017-09-01,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale+OE,$71.00,"-25,000","336,923",-7%,"-$1,775,000",,,,
+236,,2017-08-30 16:50:13,2017-08-28,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$70.00,"-25,000","360,856",-6%,"-$1,750,000",,,,
+237,,2017-08-21 11:13:09,2017-08-16,CTSH,Chintamaneni Ramakrishna Prasad,"Pres Global Inds., Cnslt",S - Sale,$72.00,"-5,462","6,610",-45%,"-$393,264",,,,
+238,,2017-08-21 11:12:31,2017-08-16,CTSH,Veeraraghavachary Srinivasan,EVP - COO,S - Sale,$72.00,"-2,500","24,665",-9%,"-$180,000",,,,
+239,D,2017-08-17 17:49:51,2017-08-15,CTSH,Klein John E,Dir,S - Sale+OE,$71.86,"-11,560","609,192",-2%,"-$830,705",,,,
+240,M,2017-08-15 14:22:00,2017-08-11,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$70.93,"-8,151","5,429",-60%,"-$578,169",,,,
+241,,2017-08-14 15:58:37,2017-08-10,CTSH,Shaheen Allen,EVP Corporate Development,S - Sale,$70.58,-442,0,-100%,"-$31,196",,,,
+242,,2017-08-09 17:02:14,2017-08-07,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$69.69,"-7,315","8,407",-47%,"-$509,779",,,,
+243,,2017-08-09 16:57:20,2017-08-07,CTSH,Gomatam Sumithra,Pres - Digital Operations,S - Sale,$69.75,"-10,000","24,445",-29%,"-$697,469",,,,
+244,D,2017-08-09 16:54:01,2017-08-07,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$69.57,"-20,000","35,590",-36%,"-$1,391,448",,,,
+245,,2017-08-09 16:49:39,2017-08-07,CTSH,Breakiron-Evans Maureen,Dir,S - Sale,$69.70,"-12,368","1,075",-92%,"-$862,011",,,,
+246,,2017-08-08 15:36:36,2017-08-04,CTSH,Veeraraghavachary Srinivasan,EVP - COO,S - Sale,$71.00,"-2,500","27,165",-8%,"-$177,500",,,,
+247,,2017-07-24 16:35:15,2017-07-20,CTSH,Sinha Dharmendra Kumar,Pres Global Client Serv.,S - Sale,$70.00,"-7,156","4,505",-61%,"-$500,920",,,,
+248,,2017-07-24 16:32:51,2017-07-20,CTSH,Chintamaneni Ramakrishna Prasad,"Pres Global Inds., Cnslt",S - Sale,$70.00,"-7,975","12,072",-40%,"-$558,250",,,,
+249,,2017-07-21 14:03:59,2017-07-19,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$69.50,"-4,999","10,515",-32%,"-$347,431",,,,
+250,M,2017-07-21 14:02:02,2017-07-19,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$69.50,"-3,452","40,902",-8%,"-$239,914",,,,
+251,,2017-07-12 16:00:52,2017-07-10,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$66.99,-33,"2,415",-1%,"-$2,211",,,,
+252,,2017-06-23 10:50:28,2017-06-21,CTSH,Sinha Dharmendra Kumar,Pres Global Client Serv.,S - Sale,$68.00,"-6,597","11,661",-36%,"-$448,596",,,,
+253,,2017-06-23 10:47:46,2017-06-21,CTSH,Chintamaneni Ramakrishna Prasad,"Pres Global Inds., Cnslt",S - Sale,$68.00,"-5,051","20,047",-20%,"-$343,468",,,,
+254,,2017-06-21 16:34:26,2017-06-19,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$67.39,"-1,460","2,308",-39%,"-$98,389",,,,
+255,,2017-06-08 15:25:03,2017-06-06,CTSH,Shaheen Allen,EVP Corporate Development,S - Sale,$67.56,"-4,186",442,-90%,"-$282,815",,,,
+256,D,2017-06-08 14:51:24,2017-06-06,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale+OE,$67.44,"-10,000","15,514",-39%,"-$674,365",,,,
+257,,2017-06-06 12:46:18,2017-06-05,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$67.75,"-4,000","13,188",-23%,"-$271,000",,,,
+258,,2017-05-30 14:02:27,2017-05-25,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$66.75,"-4,205","13,540",-24%,"-$280,693",,,,
+259,,2017-05-30 14:01:05,2017-05-25,CTSH,Chintamaneni Ramakrishna Prasad,"Pres Global Inds., Cnslt",S - Sale,$67.00,"-5,400","21,682",-20%,"-$361,800",,,,
+260,,2017-05-30 13:59:18,2017-05-25,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$67.00,-690,"42,300",-2%,"-$46,230",,,,
+261,,2017-05-25 14:42:01,2017-05-23,CTSH,Chintamaneni Ramakrishna Prasad,"Pres Global Inds., Cnslt",S - Sale,$66.00,"-3,672","27,082",-12%,"-$242,352",,,,
+262,,2017-05-25 14:13:07,2017-05-23,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$66.00,"-1,500","10,515",-12%,"-$99,000",,,,
+263,,2017-05-23 12:09:32,2017-05-19,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$65.50,"-4,618","17,745",-21%,"-$302,479",,,,
+264,,2017-05-23 12:05:46,2017-05-19,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$65.32,"-1,500","12,015",-11%,"-$97,985",,,,
+265,,2017-05-18 10:48:07,2017-05-16,CTSH,Veeraraghavachary Srinivasan,EVP - COO,S - Sale,$65.00,"-3,069","24,737",-11%,"-$199,485",,,,
+266,,2017-05-18 10:45:25,2017-05-16,CTSH,Sinha Dharmendra Kumar,Pres Global Client Serv.,S - Sale,$65.00,"-9,253","14,195",-39%,"-$601,445",,,,
+267,,2017-05-18 10:42:53,2017-05-16,CTSH,Chatterjee Debashis,Pres Global Delivery,S - Sale,$65.00,"-1,524","42,990",-3%,"-$99,060",,,,
+268,DM,2017-05-17 11:44:17,2017-05-15,CTSH,Chintamaneni Ramakrishna Prasad,"Pres Global Inds., Cnslt",S - Sale+OE,$64.53,"-49,477","30,754",-62%,"-$3,192,802",,,,
+269,D,2017-05-17 11:39:54,2017-05-16,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale+OE,$65.00,"-1,890","2,108",-47%,"-$122,850",,,,
+270,,2017-05-12 11:35:38,2017-05-10,CTSH,Krishnaswamy Venkat,"Vice Chair Healthcare, Life Sc",S - Sale,$64.15,"-6,438","22,363",-22%,"-$412,978",0,,,
+271,,2017-05-09 19:34:16,2017-05-05,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$62.00,"-1,890","3,998",-32%,"-$117,180",0,,,
+272,M,2017-05-08 13:54:03,2017-05-04,CTSH,Veeraraghavachary Srinivasan,EVP - COO,S - Sale,$62.50,"-12,000","27,806",-30%,"-$750,000",+2,+2,,
+273,,2017-05-02 12:50:14,2017-04-28,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$60.25,"-1,043","13,515",-7%,"-$62,841",0,+7,,
+274,,2017-05-02 12:47:50,2017-04-28,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$60.00,"-1,890","5,888",-24%,"-$113,400",0,+7,,
+275,,2017-04-28 11:40:47,2017-04-26,CTSH,Middleton Sean,Pres - Cognizant Accelerator,S - Sale,$59.52,-34,"7,778",0%,"-$2,024",+1,+2,,
+276,,2017-03-15 11:06:56,2017-03-13,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$59.21,"-9,243","28,410",-25%,"-$547,287",0,-1,-1,
+277,D,2017-03-06 13:46:32,2017-03-03,CTSH,Shaheen Allen,EVP Corporate Development,S - Sale+OE,$59.86,"-2,305",0,-100%,"-$137,974",-2,-2,-3,
+278,,2017-02-27 11:09:22,2017-02-23,CTSH,McLoughlin Karen,CFO,S - Sale,$58.80,"-5,000","35,741",-12%,"-$294,000",0,+1,-1,
+279,D,2016-12-14 10:24:18,2016-12-12,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale+OE,$55.53,"-20,000","12,072",-62%,"-$1,110,680",-1,0,0,
+280,DM,2016-12-09 17:44:34,2016-12-07,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$56.31,"-19,430","40,741",-32%,"-$1,094,142",0,+2,+1,
+281,M,2016-12-09 17:40:08,2016-12-07,CTSH,Kandiah Gajakarnan Vibushanan,Pres - Digital Business,S - Sale,$56.55,"-3,047","12,072",-20%,"-$172,310",0,+2,+1,
+282,,2016-12-08 10:12:53,2016-12-06,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale,$54.69,"-1,612","10,079",-14%,"-$88,153",-2,-1,-1,
+283,,2016-12-08 10:10:47,2016-12-06,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$54.68,"-8,051","2,649",-75%,"-$440,225",-2,-1,-1,
+284,D,2016-12-06 17:49:28,2016-12-05,CTSH,Lennox James Patrick,EVP - Chief People Officer,S - Sale+OE,$54.67,-690,"11,691",-6%,"-$37,722",+3,+1,+3,
+285,D,2016-12-06 17:42:43,2016-12-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$54.67,-666,"10,700",-6%,"-$36,411",+3,+1,+3,
+286,DM,2016-12-06 17:33:21,2016-12-05,CTSH,Shaheen Allen,EVP Corporate Development,S - Sale+OE,$54.33,"-3,709",0,-100%,"-$201,525",+3,+1,+3,
+287,,2016-11-30 07:15:00,2016-11-28,CTSH,McLoughlin Karen,CFO,S - Sale,$58.16,"-1,873","40,741",-4%,"-$108,936",-1,-1,+1,
+288,D,2016-11-03 11:54:17,2016-11-01,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$51.27,"-10,000","42,614",-19%,"-$512,737",0,+3,+5,+23
+289,D,2016-09-07 11:01:15,2016-09-06,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$58.50,"-1,248","2,075",-38%,"-$73,007",0,-6,-13,-2
+290,D,2016-08-09 11:42:40,2016-08-05,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$60.00,"-20,000","40,741",-33%,"-$1,200,080",-1,-1,0,-8
+291,DM,2016-07-29 18:51:36,2016-07-28,CTSH,Dsouza  Francisco,CEO,S - Sale+OE,$57.69,"-200,000","564,602",-26%,"-$11,537,310",+2,+2,+1,-2
+292,DM,2016-07-27 18:56:37,2016-07-25,CTSH,Dsouza  Francisco,CEO,S - Sale+OE,$58.32,"-300,000","564,602",-35%,"-$17,494,780",-1,-1,-1,-1
+293,,2016-06-22 14:15:47,2016-06-20,CTSH,McLoughlin Karen,CFO,S - Sale,$61.13,"-8,018","40,741",-16%,"-$490,140",0,-9,-5,-8
+294,,2016-06-14 14:07:49,2016-06-10,CTSH,McLoughlin Karen,CFO,S - Sale,$60.26,-590,"48,759",-1%,"-$35,553",+1,+2,-3,-7
+295,,2016-06-10 09:51:22,2016-06-08,CTSH,McLoughlin Karen,CFO,S - Sale,$61.13,"-1,671","49,349",-3%,"-$102,148",-1,-2,-4,-6
+296,,2016-06-09 09:37:25,2016-06-07,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$60.60,-583,"1,501",-28%,"-$35,330",-1,-3,-6,-10
+297,,2016-06-09 09:34:06,2016-06-07,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$60.61,-527,0,-100%,"-$31,944",-1,-3,-6,-10
+298,DM,2016-06-07 12:29:46,2016-06-06,CTSH,Coburn Gordon,Pres,S - Sale+OE,$60.28,"-22,881","65,547",-26%,"-$1,379,317",+1,0,-6,-10
+299,D,2016-06-07 12:23:14,2016-06-06,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale+OE,$60.00,"-6,846",527,-93%,"-$410,760",+1,0,-6,-10
+300,D,2016-06-07 12:13:50,2016-06-06,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$59.96,"-8,780","2,084",-81%,"-$526,457",+1,0,-6,-10
+301,,2016-05-24 12:00:56,2016-05-20,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$63.00,"-15,922","364,972",-4%,"-$1,003,086",+2,0,0,-10
+302,DM,2016-05-19 19:46:38,2016-05-18,CTSH,Thiruvengadam Sridhar,COO,S - Sale+OE,$61.56,"-12,898","47,480",-21%,"-$793,954",+1,+1,-4,-13
+303,,2016-05-18 10:21:10,2016-05-16,CTSH,Klein John E,Chairman of the Board,S - Sale,$61.30,"-61,229","571,647",-10%,"-$3,753,344",+1,+2,-3,-12
+304,M,2016-05-13 11:24:48,2016-05-11,CTSH,Coburn Gordon,Pres,S - Sale,$61.43,"-27,119","70,040",-28%,"-$1,665,931",0,+1,-2,-13
+305,D,2016-05-12 10:39:38,2016-05-10,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$61.50,"-12,345","17,473",-41%,"-$759,218",0,+2,-1,-10
+306,,2016-04-11 10:19:31,2016-04-07,CTSH,McLoughlin Karen,CFO,S - Sale,$61.01,-880,"40,741",-2%,"-$53,689",0,0,+1,-15
+307,,2016-04-06 11:41:56,2016-04-04,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$62.13,"-17,036","380,894",-4%,"-$1,058,440",+1,-3,-6,-18
+308,,2016-04-01 10:38:21,2016-03-30,CTSH,McLoughlin Karen,CFO,S - Sale,$62.67,"-1,641","41,191",-4%,"-$102,844",+1,-4,-7,-12
+309,,2016-03-28 11:06:45,2016-03-24,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$60.00,"-12,296",0,-100%,"-$737,760",0,+5,0,-10
+310,D,2016-03-16 10:58:06,2016-03-14,CTSH,Breakiron-Evans Maureen,Dir,S - Sale+OE,$57.79,"-10,000","1,075",-90%,"-$577,910",+2,+1,+4,-5
+311,DM,2016-03-07 12:37:58,2016-03-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$57.95,"-1,586",754,-68%,"-$91,913",-1,-1,+6,0
+312,D,2016-02-24 11:11:15,2016-02-22,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$56.69,"-10,000","10,743",-48%,"-$566,942",+1,+4,+6,+4
+313,,2015-12-09 12:56:11,2015-12-07,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$62.22,"-17,168",0,-100%,"-$1,068,233",-3,-2,-10,-2
+314,M,2015-12-09 12:52:14,2015-12-07,CTSH,Coburn Gordon,Pres,S - Sale,$62.27,"-18,879","91,343",-17%,"-$1,175,633",-3,-2,-10,-2
+315,D,2015-12-07 12:32:05,2015-12-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$63.02,-666,"17,168",-4%,"-$41,973",-2,-7,-9,-4
+316,D,2015-12-07 12:25:31,2015-12-04,CTSH,Coburn Gordon,Pres,S - Sale+OE,$61.77,"-15,000","110,222",-12%,"-$926,550",-2,-7,-9,-4
+317,,2015-11-18 13:13:46,2015-11-16,CTSH,Chintamaneni Ramakrishna Prasad,"EVP, Pres Banking, Fin. Serv.",S - Sale,$66.00,-854,"45,862",-2%,"-$56,364",+2,+1,-6,-3
+318,,2015-11-12 11:10:46,2015-11-10,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$67.80,"-4,000","11,926",-25%,"-$271,204",-1,-4,-14,-10
+319,,2015-10-26 15:08:22,2015-10-22,CTSH,Sinha Dharmendra Kumar,"EVP, Pres Client Serv.",S - Sale,$68.00,"-1,858",979,-65%,"-$126,344",-1,-1,-7,-12
+320,,2015-09-10 13:13:14,2015-09-08,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$63.01,-958,0,-100%,"-$60,364",+1,+2,+7,-11
+321,,2015-09-10 13:11:15,2015-09-09,CTSH,McLoughlin Karen,CFO,S - Sale,$63.75,"-1,393","22,264",-6%,"-$88,804",+1,+2,+7,-11
+322,D,2015-09-08 15:15:52,2015-09-03,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale+OE,$62.77,-616,958,-39%,"-$38,667",+2,+1,+5,-9
+323,DM,2015-09-08 15:04:10,2015-09-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$61.90,"-2,041",0,-100%,"-$126,346",+2,+1,+5,-9
+324,D,2015-09-08 14:59:30,2015-09-04,CTSH,Coburn Gordon,Pres,S - Sale+OE,$61.76,"-6,446","73,725",-8%,"-$398,105",+2,+1,+5,-9
+325,,2015-08-07 11:45:18,2015-08-05,CTSH,Sinha Dharmendra Kumar,"EVP, Pres Client Serv.",S - Sale,$68.00,"-14,899",979,-94%,"-$1,013,132",+1,+1,-8,-13
+326,,2015-08-07 11:43:22,2015-08-05,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$67.36,"-20,000","352,695",-5%,"-$1,347,200",+1,+1,-8,-13
+327,,2015-08-07 11:40:29,2015-08-05,CTSH,Chatterjee Debashis,"EVP, Pres Technology Sol.",S - Sale,$67.36,"-1,200","29,720",-4%,"-$80,832",+1,+1,-8,-13
+328,,2015-08-07 11:37:39,2015-08-05,CTSH,McLoughlin Karen,CFO,S - Sale,$67.36,"-5,171","21,590",-19%,"-$348,319",+1,+1,-8,-13
+329,,2015-06-16 10:53:46,2015-06-12,CTSH,McLoughlin Karen,CFO,S - Sale,$63.75,"-5,000","26,761",-16%,"-$318,755",0,0,-3,-7
+330,,2015-06-09 10:58:39,2015-06-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$64.40,"-6,051",0,-100%,"-$389,676",0,-1,-7,-1
+331,,2015-06-09 10:55:49,2015-06-05,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$64.40,"-5,378",0,-100%,"-$346,338",0,-1,-7,-1
+332,,2015-06-09 10:53:12,2015-06-05,CTSH,Coburn Gordon,Pres,S - Sale,$64.19,"-14,043","74,645",-16%,"-$901,462",0,-1,-7,-1
+333,D,2015-06-05 12:21:15,2015-06-03,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale+OE,$65.47,-791,"5,378",-13%,"-$51,787",0,0,-7,-1
+334,D,2015-06-05 12:07:58,2015-06-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$65.53,-867,"6,051",-13%,"-$56,810",0,0,-7,-1
+335,D,2015-06-05 12:02:29,2015-06-04,CTSH,Coburn Gordon,Pres,S - Sale+OE,$65.14,"-15,000","88,688",-14%,"-$977,025",0,0,-7,-1
+336,M,2015-06-02 13:38:19,2015-05-29,CTSH,Narayanan Lakshmi,Vice Chairman of the Board,S - Sale,$65.13,"-100,000","85,210",-54%,"-$6,512,500",0,-3,-7,-1
+337,M,2015-05-29 12:27:33,2015-05-27,CTSH,Narayanan Lakshmi,Vice Chairman of the Board,S - Sale,$64.56,"-100,000","185,210",-35%,"-$6,456,178",0,-1,-2,0
+338,D,2015-05-20 12:56:12,2015-05-18,CTSH,Coburn Gordon,Pres,S - Sale+OE,$63.23,"-10,000","87,621",-10%,"-$632,300",0,-1,-3,+1
+339,D,2015-05-18 11:50:24,2015-05-14,CTSH,Wendel Thomas M,Dir,S - Sale+OE,$63.09,"-15,000","76,000",-16%,"-$946,335",+2,+2,-1,+6
+340,DM,2015-05-18 11:46:47,2015-05-14,CTSH,Coburn Gordon,Pres,S - Sale+OE,$63.11,"-30,000","87,621",-26%,"-$1,893,300",+2,+2,-1,+6
+341,D,2015-05-08 11:10:55,2015-05-06,CTSH,Mackay Leo S. Jr.,Dir,S - Sale+OE,$60.35,"-25,780","1,028",-96%,"-$1,555,942",+3,+4,+4,+9
+342,,2015-05-06 11:47:13,2015-05-04,CTSH,Sinha Dharmendra Kumar,"EVP, Pres Client Serv.",S - Sale,$65.00,"-6,996","10,106",-41%,"-$454,740",-1,+2,+6,+12
+343,,2015-05-06 11:45:55,2015-05-04,CTSH,Ramakrishnan Chandrasekaran,"Ex. Vice COB, Cog. India",S - Sale,$64.00,"-20,000","364,236",-5%,"-$1,280,000",-1,+2,+6,+12
+344,D,2015-05-06 11:43:40,2015-05-04,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$65.00,"-10,000","25,916",-28%,"-$650,000",-1,+2,+6,+12
+345,,2015-03-25 10:08:37,2015-03-23,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$63.99,"-4,235",0,-100%,"-$270,985",-3,-1,-3,-2
+346,,2015-03-20 11:08:33,2015-03-18,CTSH,McLoughlin Karen,CFO,S - Sale,$62.78,"-1,863","25,442",-7%,"-$116,959",0,-3,-5,-2
+347,D,2015-03-11 11:32:49,2015-03-09,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$61.79,"-8,300","9,028",-48%,"-$512,857",0,+3,+4,+4
+348,D,2015-03-09 13:35:48,2015-03-05,CTSH,Breakiron-Evans Maureen,Dir,S - Sale+OE,$62.20,"-10,000","1,500",-87%,"-$621,950",+1,-1,+1,+2
+349,,2015-03-09 13:31:44,2015-03-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$62.11,-969,"4,235",-19%,"-$60,187",+1,-1,+1,+2
+350,,2015-03-09 13:27:32,2015-03-05,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$62.13,"-1,241",0,-100%,"-$77,098",+1,-1,+1,+2
+351,D,2015-03-03 12:27:10,2015-03-02,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale+OE,$62.82,-752,0,-100%,"-$47,241",0,-2,-1,+1
+352,M,2015-02-23 14:00:29,2015-02-19,CTSH,Dsouza  Francisco,CEO,S - Sale,$62.04,"-93,445","385,945",-19%,"-$5,797,111",-1,-1,+1,+4
+353,,2015-02-23 13:54:27,2015-02-20,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$62.50,"-2,000","4,000",-33%,"-$125,000",-1,-1,+1,+4
+354,,2015-02-20 10:24:33,2015-02-18,CTSH,Chintamaneni Ramakrishna Prasad,"EVP, Pres Banking, Fin. Serv.",S - Sale,$60.38,"-6,000","35,775",-14%,"-$362,250",+2,+1,+3,+8
+355,,2015-02-20 10:20:45,2015-02-18,CTSH,Chatterjee Debashis,"EVP, Pres Technology Sol.",S - Sale,$61.00,-900,"26,010",-3%,"-$54,900",+2,+1,+3,+8
+356,,2015-02-17 12:43:19,2015-02-13,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$60.36,"-2,105","6,000",-26%,"-$127,060",0,+4,+3,+12
+357,D,2015-02-17 12:39:59,2015-02-12,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$60.00,"-10,000","24,568",-29%,"-$600,000",0,+4,+3,+12
+358,,2015-02-13 10:53:08,2015-02-11,CTSH,Thiruvengadam Sridhar,COO,S - Sale,$58.61,"-15,000","46,620",-24%,"-$879,165",0,+5,+3,+13
+359,,2015-02-06 12:01:24,2015-02-04,CTSH,Chatterjee Debashis,"EVP, Pres Technology Sol.",S - Sale,$58.00,-900,"26,910",-3%,"-$52,200",0,+5,+7,+16
+360,,2015-02-06 11:58:16,2015-02-04,CTSH,Dsouza  Francisco,CEO,S - Sale,$58.01,"-130,138","479,390",-21%,"-$7,549,240",0,+5,+7,+16
+361,,2015-01-15 12:47:12,2015-01-13,CTSH,Chatterjee Debashis,"EVP, Pres Technology Sol.",S - Sale,$55.00,-900,"27,810",-3%,"-$49,500",-1,+3,+11,+12
+362,,2014-12-31 12:09:48,2014-12-29,CTSH,Dsouza  Francisco,CEO,S - Sale,$53.84,"-100,654","609,528",-14%,"-$5,419,211",-1,-1,+2,+17
+363,,2014-12-24 12:24:20,2014-12-23,CTSH,McLoughlin Karen,CFO,S - Sale,$54.82,"-1,393","24,568",-5%,"-$76,364",0,-3,+3,+17
+364,,2014-12-23 14:19:00,2014-12-19,CTSH,McLoughlin Karen,CFO,S - Sale,$54.05,"-1,674","25,961",-6%,"-$90,480",0,-2,+3,+16
+365,,2014-12-17 12:21:24,2014-12-15,CTSH,McLoughlin Karen,CFO,S - Sale,$50.55,"-1,002","27,635",-3%,"-$50,651",0,+6,+7,+24
+366,D,2014-12-05 13:47:37,2014-12-04,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale+OE,$54.54,-959,0,-100%,"-$52,304",-1,-4,-5,+19
+367,D,2014-12-05 13:42:44,2014-12-04,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$53.54,-771,"2,685",-22%,"-$41,279",-1,-4,-5,+19
+368,D,2014-12-05 13:23:07,2014-12-03,CTSH,Chintamaneni Ramakrishna Prasad,"EVP, Pres Banking, Fin. Serv.",S - Sale+OE,$54.51,"-2,000","41,775",-5%,"-$109,026",-1,-4,-5,+19
+369,D,2014-12-03 15:10:48,2014-12-02,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$54.41,"-2,093","2,119",-50%,"-$113,880",0,-3,-3,+18
+370,D,2014-12-02 12:31:23,2014-12-01,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale+OE,$54.44,"-4,699",0,-100%,"-$255,818",+1,-3,-3,+22
+371,D,2014-11-12 11:14:12,2014-11-07,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$52.39,"-6,000","9,028",-40%,"-$314,358",0,-1,-3,+20
+372,,2014-11-12 11:09:23,2014-11-07,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$53.00,"-4,066","4,029",-50%,"-$215,498",0,-1,-3,+20
+373,,2014-11-07 13:25:02,2014-11-05,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$51.00,"-1,475",0,-100%,"-$75,225",+2,+1,0,+19
+374,,2014-11-07 13:21:53,2014-11-05,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$51.33,"-15,000","8,095",-65%,"-$769,950",+2,+1,0,+19
+375,DM,2014-11-07 13:16:33,2014-11-05,CTSH,Coburn Gordon,Pres,S - Sale+OE,$52.54,"-30,000","56,448",-35%,"-$1,576,050",+2,+1,0,+19
+376,D,2014-11-04 15:11:57,2014-10-31,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale+OE,$48.95,"-3,000","23,095",-11%,"-$146,850",-1,+10,+11,+24
+377,D,2014-11-04 15:07:49,2014-11-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$49.03,"-1,254","2,119",-37%,"-$61,484",-1,+10,+11,+24
+378,M,2014-11-04 15:01:47,2014-10-31,CTSH,Coburn Gordon,Pres,S - Sale,$48.78,"-31,714","56,448",-36%,"-$1,546,984",-1,+10,+11,+24
+379,M,2014-10-31 11:31:27,2014-10-29,CTSH,Coburn Gordon,Pres,S - Sale,$47.00,"-45,000","88,162",-34%,"-$2,115,000",+2,+10,+13,+31
+380,D,2014-09-05 12:09:47,2014-09-04,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$46.10,-771,"2,119",-27%,"-$35,539",0,-2,-4,+34
+381,D,2014-08-05 15:09:43,2014-08-04,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$49.87,"-1,254","1,553",-45%,"-$62,541",0,-11,-8,+10
+382,D,2014-07-03 11:46:58,2014-07-01,CTSH,Coburn Gordon,Pres,S - Sale+OE,$50.00,"-3,642","126,716",-3%,"-$182,100",+1,0,-1,+6
+383,D,2014-06-26 11:43:46,2014-06-24,CTSH,Coburn Gordon,Pres,S - Sale+OE,$50.00,"-3,858","126,716",-3%,"-$192,900",-1,0,+3,+9
+384,,2014-06-19 11:22:01,2014-06-17,CTSH,McLoughlin Karen,CFO,S - Sale,$48.50,"-7,990","22,173",-26%,"-$387,515",0,+1,+1,+5
+385,,2014-06-11 12:30:16,2014-06-09,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$50.25,"-3,000","22,066",-12%,"-$150,750",0,+2,+5,+11
+386,D,2014-06-11 12:28:02,2014-06-09,CTSH,Coburn Gordon,Pres,S - Sale+OE,$50.00,"-22,500","126,716",-15%,"-$1,125,000",0,+2,+5,+11
+387,,2014-06-09 12:43:57,2014-06-06,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$49.79,"-6,647",0,-100%,"-$330,954",0,-5,+1,+7
+388,,2014-06-09 12:40:10,2014-06-06,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$49.82,"-8,676","1,553",-85%,"-$432,238",0,-5,+1,+7
+389,,2014-06-09 12:33:59,2014-06-06,CTSH,McLoughlin Karen,CFO,S - Sale,$49.25,-803,"30,163",-3%,"-$39,548",0,-5,+1,+7
+390,D,2014-06-05 12:05:45,2014-06-04,CTSH,Coburn Gordon,Pres,S - Sale+OE,$48.24,"-4,656","126,716",-4%,"-$224,605",+1,-3,+4,+12
+391,D,2014-05-30 12:09:14,2014-05-29,CTSH,Coburn Gordon,Pres,S - Sale+OE,$48.82,"-22,038","104,876",-17%,"-$1,075,895",-1,0,+1,+9
+392,,2014-05-08 11:32:06,2014-05-06,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$49.23,"-1,643",810,-67%,"-$80,885",+2,+3,+6,+3
+393,,2014-05-08 11:30:14,2014-05-06,CTSH,McLoughlin Karen,CFO,S - Sale,$49.09,"-1,003","21,583",-4%,"-$49,237",+2,+3,+6,+3
+394,,2014-03-07 11:44:58,2014-03-07,CTSH,McLoughlin Karen,CFO,S - Sale,$106.66,-550,"10,549",-5%,"-$58,663",0,-6,-6,-14
+395,D,2014-03-07 11:37:38,2014-03-05,CTSH,Wendel Thomas M,Dir,S - Sale+OE,$105.01,"-10,000","38,000",-21%,"-$1,050,100",0,-6,-6,-14
+396,,2014-03-07 11:32:57,2014-03-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$105.11,-552,416,-57%,"-$58,021",0,-6,-6,-14
+397,D,2014-03-05 13:07:06,2014-03-04,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale+OE,$105.02,-926,0,-100%,"-$97,249",0,-1,-1,-13
+398,,2014-02-28 12:27:28,2014-02-26,CTSH,Sinha Dharmendra Kumar,"EVP, Pres Client Serv.",S - Sale,$103.98,"-2,471",0,-100%,"-$256,935",+1,+4,-4,-11
+399,,2014-02-26 09:59:42,2014-02-24,CTSH,Mehta Rajeev,"CEO, IT Services",S - Sale,$104.57,"-42,673","102,657",-29%,"-$4,462,316",0,+2,-5,-12
+400,D,2014-02-26 09:56:22,2014-02-24,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$105.00,"-5,000","10,137",-33%,"-$525,000",0,+2,-5,-12
+401,,2014-02-11 11:36:54,2014-02-07,CTSH,McLoughlin Karen,CFO,S - Sale,$96.91,-637,"10,137",-6%,"-$61,732",+2,+4,+7,-7
+402,,2014-02-06 13:56:00,2014-02-04,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$96.29,-854,0,-100%,"-$82,229",+3,+6,+15,-6
+403,D,2013-12-23 12:26:13,2013-12-20,CTSH,Coburn Gordon,Pres,S - Sale+OE,$98.00,"-50,000","57,990",-46%,"-$4,900,000",0,+2,0,0
+404,,2013-12-18 13:24:38,2013-12-16,CTSH,Klein John E,Chairman of the Board,S - Sale,$93.55,"-7,275","316,438",-2%,"-$680,559",+3,+5,+5,+4
+405,,2013-12-11 18:10:35,2013-12-06,CTSH,Krishnaswamy Venkat,"EVP, Pres Healthcare, Life Sc",S - Sale,$95.76,-754,"6,604",-10%,"-$72,203",0,+1,+7,0
+406,DM,2013-12-10 11:28:37,2013-12-06,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$95.62,"-52,750","142,250",-27%,"-$5,043,955",0,-1,+5,0
+407,,2013-12-10 11:22:22,2013-12-06,CTSH,McLoughlin Karen,CFO,S - Sale,$95.06,-401,"10,137",-4%,"-$38,119",0,-1,+5,0
+408,D,2013-12-10 11:19:11,2013-12-06,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$94.57,"-4,000","4,000",-50%,"-$378,280",0,-1,+5,0
+409,,2013-12-10 11:16:50,2013-12-06,CTSH,Schwartz Steven,"EVP, Chief Legal, CAO.",S - Sale,$95.06,"-6,203",0,-100%,"-$589,657",0,-1,+5,0
+410,DM,2013-12-05 12:16:56,2013-12-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$93.82,"-2,058",0,-100%,"-$193,082",0,0,+5,+7
+411,,2013-12-04 11:33:58,2013-12-02,CTSH,Coburn Gordon,Pres,S - Sale,$93.52,"-22,919","56,858",-29%,"-$2,143,385",-1,+1,+5,+4
+412,D,2013-12-02 11:43:07,2013-11-27,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$95.00,"-75,000","103,610",-42%,"-$7,125,000",0,+2,+8,+3
+413,D,2013-12-02 11:33:10,2013-11-27,CTSH,McLoughlin Karen,CFO,S - Sale+OE,$95.00,"-5,000","8,773",-36%,"-$475,000",0,+2,+8,+3
+414,D,2013-11-22 11:14:05,2013-11-20,CTSH,Howe Robert W,Dir,S - Sale+OE,$93.28,"-10,000","11,132",-47%,"-$932,800",-1,0,+5,+4
+415,D,2013-11-19 12:47:36,2013-11-15,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$94.30,"-75,000",0,-100%,"-$7,072,478",0,-1,+3,+1
+416,D,2013-11-19 12:39:42,2013-11-15,CTSH,Wendel Thomas M,Dir,S - Sale+OE,$93.75,"-10,000","38,000",-21%,"-$937,450",0,-1,+3,+1
+417,D,2013-11-19 12:35:43,2013-11-15,CTSH,Coburn Gordon,Pres,S - Sale+OE,$94.00,"-30,000","50,330",-37%,"-$2,820,000",0,-1,+3,+1
+418,D,2013-11-14 12:21:09,2013-11-12,CTSH,Mehta Rajeev,"Group Chief Exec-Ind, Markets",S - Sale+OE,$91.50,"-76,290","115,642",-40%,"-$6,980,688",+1,0,+1,+2
+419,,2013-11-08 10:38:51,2013-11-06,CTSH,McLoughlin Karen,CFO,S - Sale,$90.49,-653,"8,773",-7%,"-$59,090",+1,+4,+6,+10
+420,,2013-11-07 12:02:50,2013-11-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$88.78,-897,0,-100%,"-$79,639",-1,+2,+6,+5
+421,D,2013-11-07 12:00:33,2013-11-05,CTSH,Coburn Gordon,Pres,S - Sale+OE,$90.28,"-5,487","50,330",-10%,"-$495,366",-1,+2,+6,+5
+422,D,2013-10-31 12:51:00,2013-10-29,CTSH,Coburn Gordon,Pres,S - Sale+OE,$90.00,"-24,513","50,330",-33%,"-$2,206,170",-1,+4,+7,+13
+423,D,2013-10-23 10:14:12,2013-10-21,CTSH,Thiruvengadam Sridhar,COO,S - Sale+OE,$86.51,"-42,200","22,328",-65%,"-$3,650,663",-1,+3,+7,+14
+424,,2013-10-16 12:23:34,2013-10-14,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$87.65,"-1,658",0,-100%,"-$145,324",-1,+1,+8,+16
+425,D,2013-10-15 12:39:18,2013-10-11,CTSH,Ramakrishnan Chandrasekaran,"Group Chief Exec-Tech, Ops",S - Sale+OE,$85.15,"-25,000","135,291",-16%,"-$2,128,750",-3,-2,+4,+11
+426,D,2013-10-03 14:35:04,2013-10-01,CTSH,Ramakrishnan Chandrasekaran,"Group Chief Exec-Tech, Ops",S - Sale+OE,$83.00,"-25,000","135,291",-16%,"-$2,075,000",0,-2,+4,+22
+427,,2013-09-26 12:06:47,2013-09-24,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$83.00,"-12,195",0,-100%,"-$1,012,185",0,+1,+4,+14
+428,,2013-09-23 10:24:51,2013-09-19,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$84.03,"-2,350","12,195",-16%,"-$197,471",0,0,+5,+19
+429,DM,2013-09-19 16:20:15,2013-09-17,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$81.92,"-17,450","14,545",-55%,"-$1,429,419",0,+1,+4,+20
+430,,2013-09-19 16:16:05,2013-09-18,CTSH,McLoughlin Karen,CFO,S - Sale,$82.00,-523,"8,773",-6%,"-$42,886",0,+1,+4,+20
+431,D,2013-09-17 11:12:21,2013-09-13,CTSH,Ramakrishnan Chandrasekaran,"Group Chief Exec-Tech, Ops",S - Sale+OE,$79.14,"-38,000","135,291",-22%,"-$3,007,320",0,+2,+6,+26
+432,D,2013-09-13 14:54:09,2013-09-11,CTSH,Coburn Gordon,Pres,S - Sale+OE,$80.09,"-20,000","50,330",-28%,"-$1,601,720",+1,+5,+13,+28
+433,,2013-09-13 14:49:38,2013-09-11,CTSH,Dsouza  Francisco,CEO,S - Sale,$80.00,"-24,700","230,934",-10%,"-$1,976,000",+1,+5,+13,+28
+434,,2013-09-13 14:46:09,2013-09-11,CTSH,McLoughlin Karen,CFO,S - Sale,$80.00,"-1,200","9,296",-11%,"-$96,000",+1,+5,+13,+28
+435,,2013-09-06 13:30:13,2013-09-05,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$75.60,"-2,482","24,495",-9%,"-$187,639",+2,+4,+12,+41
+436,D,2013-09-05 15:53:51,2013-09-04,CTSH,Dsouza  Francisco,CEO,S - Sale+OE,$75.00,"-42,605","255,634",-14%,"-$3,195,375",0,+5,+10,+41
+437,D,2013-09-05 15:49:19,2013-09-04,CTSH,Coburn Gordon,Pres,S - Sale+OE,$75.00,"-22,892","50,330",-31%,"-$1,716,900",0,+5,+10,+41
+438,,2013-08-15 16:25:57,2013-08-13,CTSH,McLoughlin Karen,CFO,S - Sale,$73.49,-653,"9,973",-6%,"-$47,989",+1,+2,+12,+40
+439,,2013-08-08 14:21:19,2013-08-06,CTSH,McLoughlin Karen,CFO,S - Sale,$75.92,"-1,200","10,626",-10%,"-$91,104",-1,-2,+5,+29
+440,D,2013-08-05 10:55:01,2013-08-02,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale+OE,$73.20,-898,"1,107",-45%,"-$65,734",0,0,+1,+29
+441,,2013-07-17 14:27:39,2013-07-15,CTSH,McLoughlin Karen,CFO,S - Sale,$71.41,"-1,200","11,173",-10%,"-$85,692",0,+2,+2,+41
+442,,2013-06-18 12:24:41,2013-06-14,CTSH,Klein John E,Chairman of the Board,P - Purchase,$62.78,"+7,500","323,713",+2%,"+$470,828",+1,-3,+12,+47
+443,,2013-06-07 11:11:34,2013-06-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$63.81,"-1,498","1,107",-58%,"-$95,592",+2,-2,+1,+43
+444,,2013-05-07 10:48:17,2013-05-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$65.65,-897,555,-62%,"-$58,887",-1,-4,-3,+33
+445,D,2013-03-19 13:11:03,2013-03-15,CTSH,Coburn Gordon,Pres,S - Sale+OE,$78.82,"-28,750","60,621",-32%,"-$2,266,075",-1,-4,-9,+4
+446,,2013-03-15 12:32:11,2013-03-13,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$79.20,-896,"24,495",-4%,"-$70,963",0,-3,-7,0
+447,D,2013-03-12 13:14:35,2013-03-08,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$81.00,"-3,400","25,391",-12%,"-$275,400",-1,-3,-4,-2
+448,DM,2013-03-08 12:01:13,2013-03-06,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$80.29,"-18,125","26,291",-41%,"-$1,455,281",0,-2,-7,-6
+449,,2013-03-07 13:29:12,2013-03-05,CTSH,Coburn Gordon,Pres,S - Sale,$79.51,"-4,780","60,621",-7%,"-$380,059",0,-2,-9,-6
+450,,2013-02-21 12:41:22,2013-02-19,CTSH,Coburn Gordon,Pres,S - Sale,$78.26,"-4,094","61,005",-6%,"-$320,390",-2,0,-1,-8
+451,,2013-02-06 12:12:02,2013-02-04,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$78.10,-843,0,-100%,"-$65,834",-3,-2,+3,-6
+452,D,2012-12-20 12:02:04,2012-12-18,CTSH,Coburn Gordon,Pres,S - Sale+OE,$73.00,"-9,261","65,099",-12%,"-$676,053",+1,0,+7,-15
+453,D,2012-12-19 13:44:32,2012-12-17,CTSH,Coburn Gordon,Pres,S - Sale+OE,$73.00,"-6,989","65,099",-10%,"-$510,197",-1,-1,+7,-16
+454,D,2012-12-17 12:09:52,2012-12-13,CTSH,Klein John E,Chairman of the Board,S - Sale+OE,$72.02,"-50,900","417,900",-11%,"-$3,665,825",+1,+2,+8,-12
+455,D,2012-12-12 12:16:55,2012-12-10,CTSH,Howe Robert W,Dir,S - Sale+OE,$70.84,"-20,000","11,132",-64%,"-$1,416,800",0,+3,+9,-12
+456,D,2012-12-12 12:14:11,2012-12-10,CTSH,Dsouza  Francisco,CEO,S - Sale+OE,$70.78,"-242,280","267,514",-48%,"-$17,148,578",0,+3,+9,-12
+457,D,2012-12-11 11:34:49,2012-12-07,CTSH,Mehta Rajeev,"Group Chief Exec-Ind, Markets",S - Sale+OE,$70.08,"-100,000","98,502",-50%,"-$7,008,000",+2,+3,+6,-10
+458,D,2012-11-30 09:36:07,2012-11-29,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$67.08,"-120,000",0,-100%,"-$8,049,600",0,+4,+10,-3
+459,D,2012-11-07 11:34:12,2012-11-06,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$67.02,"-50,000",0,-100%,"-$3,351,000",-1,-3,+4,+2
+460,,2012-11-07 11:18:18,2012-11-05,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$65.85,-777,0,-100%,"-$51,165",-1,-3,+4,+2
+461,D,2012-11-02 10:48:00,2012-10-31,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$67.01,"-50,000",0,-100%,"-$3,350,500",-2,-3,0,-2
+462,D,2012-10-25 11:35:52,2012-10-23,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$69.32,"-50,000",0,-100%,"-$3,466,000",-1,-4,-4,-6
+463,D,2012-10-18 11:34:08,2012-10-16,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$70.15,"-50,000",0,-100%,"-$3,507,500",0,-1,-5,-7
+464,D,2012-10-11 10:49:25,2012-10-09,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$70.65,"-50,000",0,-100%,"-$3,532,656",+1,0,-5,+5
+465,,2012-10-09 16:12:37,2012-10-05,CTSH,Coburn Gordon,Pres,S - Sale,$72.00,"-30,000","42,180",-42%,"-$2,160,000",-1,0,-7,+8
+466,D,2012-10-04 08:55:20,2012-10-02,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$71.06,"-50,000",0,-100%,"-$3,553,000",0,-3,-8,+4
+467,D,2012-10-02 10:23:58,2012-09-28,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$70.01,"-50,000",0,-100%,"-$3,500,685",0,0,-6,+3
+468,D,2012-09-14 08:32:03,2012-09-12,CTSH,Ramakrishnan Chandrasekaran,"Group Chief Exec-Tech, Ops",S - Sale+OE,$68.00,"-30,000",0,-100%,"-$2,040,000",+1,-3,-1,+10
+469,D,2012-09-11 09:01:55,2012-09-07,CTSH,Ramakrishnan Chandrasekaran,"Group Chief Exec-Tech, Ops",S - Sale+OE,$66.00,"-20,000",0,-100%,"-$1,320,000",+1,+3,+5,+18
+470,D,2012-09-11 08:57:54,2012-09-07,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$66.50,"-200,000",0,-100%,"-$13,300,085",+1,+3,+5,+18
+471,D,2012-08-20 10:59:46,2012-08-16,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$65.00,"-100,000",0,-100%,"-$6,500,000",-1,+1,+7,+17
+472,D,2012-08-08 09:27:51,2012-08-06,CTSH,Ramakrishnan Chandrasekaran,"Group Chief Exec-Tech, Ops",S - Sale+OE,$64.00,"-30,000",0,-100%,"-$1,920,000",+1,+1,+3,+23
+473,,2012-08-07 11:54:22,2012-08-03,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$57.73,-776,0,-100%,"-$44,799",-1,+1,-1,+22
+474,,2012-07-27 09:16:12,2012-07-26,CTSH,McLoughlin Karen,CFO,S - Sale,$57.26,-451,"7,271",-6%,"-$25,824",+3,-1,+14,+37
+475,,2012-07-19 09:50:57,2012-07-17,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$58.12,"-4,323",0,-100%,"-$251,252",-1,-5,+9,+34
+476,,2012-06-11 09:27:23,2012-06-08,CTSH,McLoughlin Karen,CFO,S - Sale,$59.00,"-1,495","7,271",-17%,"-$88,205",-1,+3,-5,+21
+477,D,2012-06-07 11:45:45,2012-06-05,CTSH,Breakiron-Evans Maureen,Dir,P - Purchase,$58.22,"+1,000","1,000",New,"+$58,220",-1,-2,-4,+16
+478,,2012-05-21 12:35:01,2012-05-18,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$59.77,"-3,728",0,-100%,"-$222,823",+2,+1,+1,+11
+479,,2012-04-25 12:57:33,2012-04-24,CTSH,McLoughlin Karen,CFO,S - Sale,$72.70,-471,"6,578",-7%,"-$34,242",0,+1,-15,-4
+480,D,2012-03-29 09:49:11,2012-03-27,CTSH,Mehta Rajeev,"Group Chief Exec-Ind, Markets",S - Sale+OE,$78.00,"-3,710","52,940",-7%,"-$289,380",0,0,-3,-11
+481,D,2012-03-19 10:19:20,2012-03-15,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$76.12,"-100,000",0,-100%,"-$7,612,000",-1,-1,-3,-8
+482,D,2012-03-12 15:35:53,2012-03-09,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$72.74,"-25,000",0,-100%,"-$1,818,500",0,+6,+3,-8
+483,D,2012-03-12 15:34:09,2012-03-08,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$72.85,"-85,000",0,-100%,"-$6,192,250",0,+6,+3,-8
+484,D,2012-02-29 11:27:23,2012-02-27,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$72.12,"-40,000",0,-100%,"-$2,884,800",-1,-2,+7,-10
+485,,2012-02-21 10:53:54,2012-02-17,CTSH,Frank Malcolm,"EVP, Strategy, Marketing",S - Sale,$71.33,"-4,298",0,-100%,"-$306,576",-1,+1,+7,-9
+486,,2012-02-09 19:36:01,2012-02-07,CTSH,McLoughlin Karen,CFO,S - Sale,$72.97,-673,"6,198",-10%,"-$49,109",-1,0,+3,-9
+487,D,2012-02-07 13:24:40,2012-02-03,CTSH,Mehta Rajeev,"COO, Global Client Services",S - Sale+OE,$73.80,"-64,725","49,012",-57%,"-$4,776,705",0,-2,-2,-11
+488,D,2012-02-02 09:47:19,2012-01-31,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$71.75,"-5,000","78,083",-6%,"-$358,750",0,-3,-2,-23
+489,D,2012-01-30 09:40:39,2012-01-26,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$72.28,"-3,000","78,083",-4%,"-$216,840",0,+3,0,-18
+490,D,2012-01-27 09:33:54,2012-01-25,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$71.68,"-6,000","78,083",-7%,"-$430,080",0,+2,+1,-20
+491,D,2012-01-26 09:47:54,2012-01-24,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$71.06,"-5,000","78,083",-6%,"-$355,300",-1,+2,+1,-22
+492,D,2012-01-23 10:03:08,2012-01-19,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$70.67,"-7,500","78,083",-9%,"-$530,025",+1,+2,+1,-18
+493,D,2012-01-13 10:48:32,2012-01-11,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$70.51,"-2,500","78,083",-3%,"-$176,275",-1,+2,+2,-17
+494,D,2012-01-12 08:54:35,2012-01-10,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$70.00,"-5,000","78,083",-6%,"-$350,000",-2,-1,0,-21
+495,D,2011-10-31 11:10:06,2011-10-27,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$75.90,"-14,000","72,372",-16%,"-$1,062,600",-4,-6,-14,-3
+496,D,2011-10-14 08:38:38,2011-10-12,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$72.19,"-10,000","72,372",-12%,"-$721,900",+2,-2,-3,+2
+497,D,2011-10-12 14:23:17,2011-10-10,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$67.74,"-7,000","72,372",-9%,"-$474,180",+6,+6,0,+14
+498,D,2011-09-29 08:50:40,2011-09-27,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$66.51,"-17,000","72,372",-19%,"-$1,130,670",0,-2,+18,+17
+499,D,2011-09-19 14:26:50,2011-09-15,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$65.08,"-5,000","72,372",-6%,"-$325,400",-2,-4,+9,+17
+500,D,2011-09-15 13:53:41,2011-09-14,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$64.50,"-3,000","72,372",-4%,"-$193,500",+2,-2,+11,+19
+501,DM,2011-03-28 11:09:36,2011-03-24,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$78.20,"-19,062","13,908",-58%,"-$1,490,580",-1,+3,+2,-22
+502,D,2011-03-23 13:47:15,2011-03-22,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$77.25,"-7,500",0,-100%,"-$579,375",0,+5,+7,-17
+503,D,2011-03-11 08:00:43,2011-03-09,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$78.33,"-7,500",0,-100%,"-$587,475",0,-2,+5,-19
+504,D,2011-03-10 14:16:40,2011-03-09,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$78.33,"-3,500","6,832",-34%,"-$274,155",-3,-7,+3,-18
+505,D,2011-03-09 10:34:08,2011-03-08,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$77.62,"-10,000",0,-100%,"-$776,200",+1,-5,+5,-22
+506,D,2011-02-23 16:25:49,2011-02-18,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$77.53,"-5,000",0,-100%,"-$387,650",+1,+1,+4,-23
+507,D,2011-02-23 16:08:03,2011-02-18,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$77.53,"-3,000",0,-100%,"-$232,590",+1,+1,+4,-23
+508,DM,2011-02-22 16:17:53,2011-02-17,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$77.14,"-23,057","10,218",-69%,"-$1,778,714",-2,+2,+2,-26
+509,D,2011-02-18 08:14:56,2011-02-17,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$77.09,"-5,000",0,-100%,"-$385,450",+1,0,-2,-29
+510,D,2011-02-09 11:55:12,2011-02-08,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$76.69,"-20,000",0,-100%,"-$1,533,800",-3,0,-1,-15
+511,D,2011-02-04 13:31:44,2011-02-03,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$76.25,"-5,000",0,-100%,"-$381,250",+1,+1,+1,-8
+512,D,2011-02-03 11:32:18,2011-02-02,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$76.05,"-9,860",0,-100%,"-$749,853",-2,-3,0,-5
+513,D,2011-01-19 15:01:21,2011-01-18,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$76.40,"-3,500",0,-100%,"-$267,400",-1,-3,+1,-1
+514,D,2011-01-06 11:58:14,2011-01-05,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$75.93,"-7,640",0,-100%,"-$580,105",-1,-1,-1,+2
+515,D,2011-01-06 11:55:58,2011-01-05,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$75.93,"-7,500",0,-100%,"-$569,475",-1,-1,-1,+2
+516,D,2011-01-05 10:59:24,2011-01-03,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$75.43,"-7,500",0,-100%,"-$565,725",+3,+2,+1,+2
+517,D,2011-01-05 10:57:46,2011-01-03,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$75.43,"-10,000",0,-100%,"-$754,300",+3,+2,+1,+2
+518,D,2010-12-30 11:19:11,2010-12-29,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$73.98,"-15,000",0,-100%,"-$1,109,700",0,+3,-3,-1
+519,D,2010-12-30 11:15:41,2010-12-29,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$73.98,"-10,655",0,-100%,"-$788,257",0,+3,-3,-1
+520,D,2010-12-29 10:46:39,2010-12-27,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$73.21,"-5,000",0,-100%,"-$366,050",+1,+1,0,0
+521,D,2010-12-29 10:43:27,2010-12-27,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$73.21,"-7,500",0,-100%,"-$549,075",+1,+1,0,0
+522,D,2010-12-23 10:20:56,2010-12-22,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$72.88,"-5,000",0,-100%,"-$364,400",0,+1,+2,-1
+523,DM,2010-12-21 10:32:18,2010-12-17,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$72.46,"-20,000","35,570",-36%,"-$1,449,150",+1,+1,+2,0
+524,D,2010-12-21 10:27:59,2010-12-17,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$71.75,"-20,500",0,-100%,"-$1,470,850",+1,+1,+2,0
+525,D,2010-12-21 10:25:05,2010-12-17,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$71.74,"-20,375",0,-100%,"-$1,461,800",+1,+1,+2,0
+526,,2010-12-17 10:08:19,2010-12-16,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$70.25,"-1,856",0,-100%,"-$130,384",+3,+3,+7,-4
+527,D,2010-12-15 10:42:35,2010-12-13,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$70.87,"-5,000","1,856",-73%,"-$354,350",-1,+5,+7,-3
+528,D,2010-12-15 10:40:18,2010-12-13,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$70.87,"-7,500",0,-100%,"-$531,525",-1,+5,+7,-3
+529,D,2010-12-15 10:37:22,2010-12-13,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$70.81,"-10,000","15,275",-40%,"-$708,100",-1,+5,+7,-3
+530,D,2010-12-13 12:46:25,2010-12-09,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$70.49,"-5,964","15,275",-28%,"-$420,402",0,+3,+7,+1
+531,DM,2010-12-13 12:42:39,2010-12-09,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$70.72,"-4,434","1,856",-70%,"-$313,586",0,+3,+7,+1
+532,D,2010-12-07 11:35:40,2010-12-06,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$70.75,"-12,500",464,-96%,"-$884,375",-1,+1,+9,+6
+533,D,2010-12-06 12:07:45,2010-12-02,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$69.01,"-20,000",464,-98%,"-$1,380,160",+1,+1,+7,+7
+534,D,2010-12-06 12:03:40,2010-12-02,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$68.88,"-15,000","32,115",-32%,"-$1,033,200",+1,+1,+7,+7
+535,D,2010-12-06 12:01:19,2010-12-02,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$68.99,"-28,000",0,-100%,"-$1,931,770",+1,+1,+7,+7
+536,D,2010-12-02 16:34:54,2010-12-01,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$65.65,"-6,000",0,-100%,"-$393,900",0,+1,+6,+9
+537,D,2010-12-02 16:29:52,2010-12-01,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$66.85,"-15,000",0,-100%,"-$1,002,750",0,+1,+6,+9
+538,D,2010-10-27 14:51:49,2010-10-25,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$68.65,"-5,000",0,-100%,"-$343,250",-1,-2,-1,+22
+539,D,2010-10-27 14:29:20,2010-10-25,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$68.65,"-5,000","30,964",-14%,"-$343,250",-1,-2,-1,+22
+540,D,2010-10-26 11:25:01,2010-10-22,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$68.05,"-5,000",0,-100%,"-$340,250",-1,-3,-3,+22
+541,D,2010-10-25 10:52:36,2010-10-21,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$67.65,"-5,000","30,964",-14%,"-$338,250",-1,-4,-3,+20
+542,D,2010-10-25 10:47:38,2010-10-21,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$67.65,"-18,000",0,-100%,"-$1,217,700",-1,-4,-3,+20
+543,D,2010-10-22 12:16:11,2010-10-21,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$67.65,"-5,000",0,-100%,"-$338,250",+1,0,-3,+23
+544,D,2010-10-19 11:58:29,2010-10-15,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$66.51,"-5,000",0,-100%,"-$332,550",-2,+1,-7,+17
+545,D,2010-10-19 11:56:31,2010-10-15,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$66.51,"-15,000",0,-100%,"-$997,650",-2,+1,-7,+17
+546,D,2010-10-05 08:59:37,2010-10-01,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$66.62,"-7,500",0,-100%,"-$499,650",+2,-2,+1,+27
+547,D,2010-10-05 08:57:15,2010-10-01,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$66.62,"-2,500","30,964",-7%,"-$166,550",+2,-2,+1,+27
+548,D,2010-10-05 08:55:20,2010-10-01,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$66.62,"-17,500",0,-100%,"-$1,165,850",+2,-2,+1,+27
+549,D,2010-10-04 11:34:43,2010-09-30,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$65.58,"-7,500","30,964",-19%,"-$491,850",-2,-2,-1,+25
+550,D,2010-09-30 11:28:20,2010-09-28,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$65.02,"-20,000",0,-100%,"-$1,300,350",0,0,+4,+26
+551,D,2010-09-30 11:20:26,2010-09-28,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$65.16,"-10,000","30,964",-24%,"-$651,600",0,0,+4,+26
+552,D,2010-09-30 11:16:50,2010-09-28,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$65.02,"-46,000",0,-100%,"-$2,990,710",0,0,+4,+26
+553,D,2010-09-28 11:03:45,2010-09-24,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$64.36,"-10,000",0,-100%,"-$643,600",+2,+1,+5,+25
+554,D,2010-09-27 11:58:13,2010-09-24,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$64.36,"-5,000",0,-100%,"-$321,800",-1,+2,+5,+25
+555,D,2010-09-21 10:41:35,2010-09-17,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$64.07,"-17,500",0,-100%,"-$1,121,225",-1,-1,+1,+18
+556,D,2010-09-21 10:37:13,2010-09-20,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$64.26,"-5,000","30,964",-14%,"-$321,300",-1,-1,+1,+18
+557,D,2010-09-16 11:28:56,2010-09-15,CTSH,Klein John E,Chairman of the Board,S - Sale+OE,$62.75,"-40,000","428,700",-9%,"-$2,510,000",0,-2,+2,+15
+558,DM,2010-09-15 13:23:39,2010-09-13,CTSH,Wendel Thomas M,Dir,S - Sale+OE,$64.02,"-30,000","50,000",-38%,"-$1,920,600",-1,-1,+2,+15
+559,,2010-09-15 13:17:52,2010-09-13,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale,$63.91,"-5,812","84,458",-6%,"-$371,445",-1,-1,+2,+15
+560,D,2010-09-15 13:13:52,2010-09-13,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$64.22,"-11,291","16,182",-41%,"-$725,056",-1,-1,+2,+15
+561,DM,2010-09-15 09:42:22,2010-09-13,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$64.29,"-12,588",0,-100%,"-$809,308",-1,-1,+2,+15
+562,D,2010-09-10 12:50:20,2010-09-08,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$63.47,"-30,000","13,784",-69%,"-$1,904,100",+1,+3,+4,+23
+563,D,2010-09-10 12:47:45,2010-09-08,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$63.39,"-20,000","27,509",-42%,"-$1,267,800",+1,+3,+4,+23
+564,D,2010-09-09 09:27:17,2010-09-08,CTSH,Fox John Nelson Jr,Dir,S - Sale+OE,$63.64,"-6,000",0,-100%,"-$381,840",-2,0,+2,+24
+565,DM,2010-09-09 09:22:59,2010-09-07,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale+OE,$62.44,"-354,993","84,458",-81%,"-$22,165,390",-2,0,+2,+24
+566,DM,2010-09-09 08:45:30,2010-09-07,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$63.37,"-23,463",732,-97%,"-$1,486,875",-2,0,+2,+24
+567,D,2010-09-08 10:53:03,2010-09-03,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$62.03,"-10,284","1,195",-90%,"-$637,882",+2,+3,+4,+25
+568,D,2010-09-08 10:50:35,2010-09-03,CTSH,Wendel Thomas M,Dir,S - Sale+OE,$62.05,"-60,000","50,000",-55%,"-$3,723,000",+2,+3,+4,+25
+569,DM,2010-09-07 13:56:50,2010-09-02,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$61.65,"-40,000","11,509",-78%,"-$2,465,900",0,+2,+6,+22
+570,D,2010-08-20 12:30:07,2010-08-18,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$60.41,"-10,000","11,818",-46%,"-$604,100",+1,-3,+9,+30
+571,D,2010-08-12 13:48:05,2010-08-10,CTSH,Mehta Rajeev,"COO, Global Client Services",S - Sale+OE,$61.00,"-128,113",534,-100%,"-$7,814,893",-1,+1,+6,+25
+572,,2010-08-12 13:45:48,2010-08-10,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale,$61.30,"-9,371","11,818",-44%,"-$574,442",-1,+1,+6,+25
+573,D,2010-08-10 12:16:24,2010-08-09,CTSH,Howe Robert W,Dir,S - Sale+OE,$60.98,"-40,000","13,592",-75%,"-$2,439,285",0,-5,+3,+22
+574,D,2010-08-06 14:56:32,2010-08-04,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$61.55,"-5,000","2,284",-69%,"-$307,750",0,-3,+2,+23
+575,,2010-08-05 16:46:47,2010-08-03,CTSH,Mehta Rajeev,"COO, Global Client Services",S - Sale,$61.75,"-20,260","6,147",-77%,"-$1,251,055",0,-3,0,+25
+576,D,2010-08-05 16:37:31,2010-08-03,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$61.21,"-20,000","2,284",-90%,"-$1,224,200",0,-3,0,+25
+577,D,2010-07-27 10:45:53,2010-07-23,CTSH,Mehta Rajeev,"COO, Global Client Services",S - Sale+OE,$55.00,"-47,260","26,407",-64%,"-$2,599,300",-1,0,+5,+34
+578,D,2010-07-27 10:40:45,2010-07-23,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$55.11,"-7,000","2,284",-75%,"-$385,770",-1,0,+5,+34
+579,,2010-06-16 10:54:20,2010-06-15,CTSH,Wendel Thomas M,Dir,S - Sale,$53.50,"-10,000","70,000",-13%,"-$535,000",0,-3,+1,+31
+580,,2010-06-11 08:44:15,2010-06-10,CTSH,Wendel Thomas M,Dir,S - Sale,$51.01,"-10,000","80,000",-11%,"-$510,100",+1,+4,+3,+36
+581,,2010-06-10 14:35:45,2010-06-09,CTSH,Wendel Thomas M,Dir,S - Sale,$50.79,"-10,000","90,000",-10%,"-$507,900",+3,+8,+7,+39
+582,,2010-06-08 11:59:23,2010-06-04,CTSH,Wendel Thomas M,Dir,S - Sale,$51.83,"-10,000","100,000",-9%,"-$518,333",0,+5,+4,+40
+583,,2010-04-14 14:06:08,2010-04-13,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$54.00,"-1,856",0,-100%,"-$100,224",0,-1,-2,+19
+584,D,2010-03-11 08:56:12,2010-03-09,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$50.58,"-5,241","15,737",-25%,"-$265,090",0,+2,+2,+25
+585,,2010-03-09 10:47:34,2010-03-05,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$50.55,-463,0,-100%,"-$23,405",+1,+2,+2,+25
+586,A,2010-03-04 14:37:05,2009-12-10,CTSH,Howe Robert W,Dir,S - Sale,$44.09,"-5,000","15,592",-24%,"-$220,426",0,+2,+2,+16
+587,AD,2010-03-04 14:25:23,2009-12-09,CTSH,Howe Robert W,Dir,S - Sale+OE,$43.90,"-20,000","20,592",-49%,"-$878,091",0,+2,+2,+16
+588,D,2010-03-04 13:38:21,2010-03-02,CTSH,Klein John E,Chairman of the Board,S - Sale+OE,$51.04,"-40,000","428,700",-9%,"-$2,041,600",0,+2,+2,+16
+589,D,2010-03-03 13:54:20,2010-03-01,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$49.58,"-50,000","16,479",-75%,"-$2,479,000",-2,-1,0,+13
+590,D,2010-03-03 13:48:09,2010-03-01,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$49.73,"-62,880",0,-100%,"-$3,127,022",-2,-1,0,+13
+591,D,2010-02-25 14:36:09,2010-02-24,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$48.60,"-7,120",0,-100%,"-$346,032",0,+3,+7,+21
+592,D,2010-01-14 10:57:55,2010-01-13,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$48.60,"-40,000",0,-100%,"-$1,944,000",-1,-4,-3,+11
+593,D,2010-01-14 10:55:46,2010-01-13,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$48.60,"-22,915",0,-100%,"-$1,113,669",-1,-4,-3,+11
+594,D,2010-01-13 13:03:16,2010-01-12,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$48.14,"-25,000","15,328",-62%,"-$1,203,500",+3,0,0,+14
+595,D,2010-01-13 13:00:47,2010-01-12,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$48.29,"-10,000",0,-100%,"-$482,900",+3,0,0,+14
+596,D,2010-01-13 12:54:21,2010-01-12,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$48.23,"-37,585",0,-100%,"-$1,812,610",+3,0,0,+14
+597,D,2010-01-07 10:41:41,2010-01-06,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$47.60,"-5,000",0,-100%,"-$238,000",-4,+3,-8,+11
+598,D,2010-01-06 11:40:44,2010-01-05,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale+OE,$47.56,"-12,500",0,-100%,"-$594,500",0,0,-9,+9
+599,D,2010-01-06 11:35:14,2010-01-05,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$47.01,"-25,000","15,328",-62%,"-$1,175,250",0,0,-9,+9
+600,D,2010-01-06 11:33:02,2010-01-05,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$47.31,"-25,000",0,-100%,"-$1,182,750",0,0,-9,+9
+601,D,2010-01-05 09:45:56,2010-01-04,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$46.71,"-58,500",0,-100%,"-$2,732,535",+1,-1,-3,+6
+602,D,2009-12-30 09:46:37,2009-12-28,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$46.57,"-7,500",0,-100%,"-$349,275",0,+4,-4,+10
+603,D,2009-12-24 10:23:12,2009-12-23,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$46.03,"-50,000","15,328",-77%,"-$2,301,500",0,-2,-1,+14
+604,D,2009-12-24 10:14:34,2009-12-23,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$46.18,"-55,000",0,-100%,"-$2,539,900",0,-2,-1,+14
+605,D,2009-12-23 11:22:23,2009-12-22,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$45.82,"-27,500",0,-100%,"-$1,260,050",+1,-1,-1,+13
+606,D,2009-12-23 11:15:00,2009-12-21,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$45.00,"-32,500","14,995",-68%,"-$1,462,500",+1,-1,-1,+13
+607,,2009-12-16 11:53:31,2009-12-15,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$43.55,"-2,212",0,-100%,"-$96,333",+2,+6,+11,+24
+608,,2009-12-11 14:10:43,2009-12-10,CTSH,Howe Robert W,Dir,S - Sale,$44.09,"-5,000","18,000",-22%,"-$220,426",-2,-1,+6,+18
+609,D,2009-12-10 10:34:43,2009-12-09,CTSH,Howe Robert W,Dir,S - Sale+OE,$43.90,"-20,000","23,000",-47%,"-$878,091",+1,0,+5,+17
+610,D,2009-12-04 21:11:28,2009-12-03,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$45.78,"-10,000",0,-100%,"-$457,800",0,0,+7,+12
+611,D,2009-12-03 09:50:12,2009-12-02,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$45.55,"-20,000",0,-100%,"-$911,000",-3,-3,+3,+10
+612,,2009-11-25 09:57:51,2009-11-23,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale,$45.05,"-7,500","168,681",-4%,"-$337,898",+1,+2,+4,+14
+613,,2009-11-25 09:54:42,2009-11-23,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale,$44.82,"-48,000","176,181",-21%,"-$2,151,352",+1,+2,+4,+14
+614,,2009-11-25 09:52:04,2009-11-23,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale,$44.53,"-80,492","224,181",-26%,"-$3,583,992",+1,+2,+4,+14
+615,D,2009-11-25 09:48:27,2009-11-23,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale+OE,$44.29,"-39,448","304,673",-11%,"-$1,747,056",+1,+2,+4,+14
+616,D,2009-11-18 16:05:43,2009-11-17,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$45.70,"-31,500",0,-100%,"-$1,439,550",-3,-2,-4,+3
+617,,2009-11-17 14:38:23,2009-11-16,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale,$45.59,"-30,408","168,681",-15%,"-$1,386,372",0,-2,-4,+7
+618,,2009-11-17 14:33:52,2009-11-16,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale,$45.41,"-103,214","199,089",-34%,"-$4,687,449",0,-2,-4,+7
+619,D,2009-11-17 14:28:54,2009-11-16,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale+OE,$45.01,"-41,818","302,303",-12%,"-$1,882,064",0,-2,-4,+7
+620,D,2009-11-17 14:22:05,2009-11-16,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$45.49,"-45,000",0,-100%,"-$2,047,050",0,-2,-4,+7
+621,,2009-11-16 21:01:21,2009-11-16,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$45.22,"-3,084",0,-100%,"-$139,458",0,-4,-5,+8
+622,,2009-11-12 09:53:29,2009-11-10,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale,$43.90,"-15,064","11,284",-57%,"-$661,310",0,+3,-1,+13
+623,D,2009-11-10 09:39:09,2009-11-06,CTSH,Klein John E,Chairman of the Board,S - Sale+OE,$42.12,"-40,000","428,700",-9%,"-$1,684,802",-1,+3,0,+19
+624,,2009-08-11 17:06:47,2009-08-07,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale,$34.23,"-7,428","20,265",-27%,"-$254,260",+3,-1,+11,+37
+625,,2009-08-10 10:20:37,2009-08-07,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$34.10,"-2,801",0,-100%,"-$95,514",0,+1,+5,+28
+626,D,2009-08-05 14:17:48,2009-08-04,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$33.32,"-13,500",0,-100%,"-$449,820",+3,+1,+2,+34
+627,D,2009-07-29 13:37:24,2009-07-27,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$30.75,"-4,000",0,-100%,"-$123,000",0,+11,+16,+52
+628,D,2009-07-28 10:28:46,2009-07-24,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$30.25,"-2,500",0,-100%,"-$75,625",-2,-1,+16,+48
+629,D,2009-07-27 14:04:45,2009-07-23,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$29.80,"-2,500",0,-100%,"-$74,500",+1,-3,+15,+49
+630,D,2009-07-21 16:54:07,2009-07-20,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$29.80,"-2,500",0,-100%,"-$74,500",0,+5,+16,+65
+631,D,2009-07-20 16:55:49,2009-07-17,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$29.00,"-4,000",0,-100%,"-$116,000",-1,+3,+14,+63
+632,D,2009-07-17 17:31:25,2009-07-16,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$28.31,"-3,500",0,-100%,"-$99,085",+2,+4,+19,+67
+633,D,2009-07-16 16:42:12,2009-07-15,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$27.87,"-3,000",0,-100%,"-$83,610",+2,+3,+22,+73
+634,D,2009-07-16 16:37:53,2009-07-14,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$27.15,"-2,500",0,-100%,"-$67,875",+2,+3,+22,+73
+635,D,2009-06-15 11:53:31,2009-06-12,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$26.73,"-109,000",0,-100%,"-$2,913,570",-4,-4,+1,+65
+636,DM,2009-06-12 16:45:46,2009-06-10,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$26.99,"-28,000",0,-100%,"-$755,820",-4,-4,+1,+65
+637,D,2009-06-12 16:42:55,2009-06-11,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$26.74,"-26,500",0,-100%,"-$708,610",-4,-4,+1,+65
+638,D,2009-06-11 15:27:25,2009-06-09,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$27.47,"-25,500",0,-100%,"-$700,485",0,-3,-1,+66
+639,D,2009-06-11 15:25:49,2009-06-09,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$27.47,"-4,000","6,600",-38%,"-$109,880",0,-3,-1,+66
+640,D,2009-06-09 16:23:12,2009-06-05,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$27.24,"-8,000",0,-100%,"-$217,920",-3,-6,-7,+63
+641,D,2009-06-09 16:16:46,2009-06-08,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$27.08,"-30,000",0,-100%,"-$812,400",-3,-6,-7,+63
+642,D,2009-06-09 16:15:06,2009-06-05,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$27.24,"-32,000",0,-100%,"-$871,680",-3,-6,-7,+63
+643,,2009-06-05 16:36:31,2009-06-04,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$26.50,"-1,450",589,-71%,"-$38,425",-1,-2,-3,+68
+644,D,2009-06-05 16:05:13,2009-06-04,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$26.74,"-27,000",0,-100%,"-$721,980",-1,-2,-3,+68
+645,D,2009-05-04 17:00:20,2009-04-30,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$25.00,"-6,000","3,300",-65%,"-$150,000",+4,-3,+3,+57
+646,D,2009-03-17 10:18:05,2009-03-13,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$20.98,"-12,000",0,-100%,"-$251,760",+5,+3,+8,+79
+647,D,2009-03-16 10:51:04,2009-03-12,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$20.54,"-24,542",0,-100%,"-$504,093",-1,-2,+10,+77
+648,D,2009-03-13 10:52:09,2009-03-11,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$19.72,"-13,000",0,-100%,"-$256,360",+1,+4,+13,+81
+649,D,2009-03-11 11:20:49,2009-03-10,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$19.01,"-27,500",0,-100%,"-$522,775",+3,+14,+19,+88
+650,D,2009-03-10 12:19:11,2009-03-09,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$18.23,"-9,000",0,-100%,"-$164,070",+6,+15,+23,+96
+651,D,2009-03-09 12:10:04,2009-03-06,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$18.26,"-25,000",0,-100%,"-$456,500",-1,+15,+26,+89
+652,D,2009-03-09 12:02:19,2009-03-05,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$18.49,"-9,000",0,-100%,"-$166,410",-1,+15,+26,+89
+653,D,2009-03-06 12:28:40,2009-03-04,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$18.94,"-24,800",0,-100%,"-$469,712",-1,+13,+23,+87
+654,D,2009-03-04 16:54:27,2009-03-03,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$17.91,"-18,000",0,-100%,"-$322,380",-2,+1,+13,+89
+655,D,2009-03-04 16:43:40,2009-03-02,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$17.42,"-12,500",0,-100%,"-$217,750",-2,+1,+13,+89
+656,D,2008-06-03 09:35:51,2008-05-30,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$35.03,"-81,598",0,-100%,"-$2,858,378",+1,+2,-7,-44
+657,DM,2008-05-30 10:15:15,2008-05-29,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$32.75,"-95,000",0,-100%,"-$3,111,600",+5,+10,-2,-47
+658,D,2008-05-29 08:45:31,2008-05-27,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$31.15,"-123,402",0,-100%,"-$3,843,972",+4,+10,+1,-45
+659,D,2008-05-27 08:48:35,2008-05-22,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$30.94,"-70,000",0,-100%,"-$2,165,800",+4,+14,+13,-52
+660,D,2008-05-22 15:24:00,2008-05-21,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$30.84,"-30,000",0,-100%,"-$925,200",+3,+11,+16,-45
+661,D,2008-05-16 11:13:41,2008-05-15,CTSH,Howe Robert W,Dir,S - Sale+OE,$31.03,"-40,000","23,000",-63%,"-$1,241,211",0,-2,+13,-47
+662,D,2007-08-10 16:51:02,2007-08-09,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$88.00,"-62,000",0,-100%,"-$5,456,000",0,-9,-17,-22
+663,,2007-08-10 16:37:21,2007-08-09,CTSH,Schwartz Steven,"SVP, GC, Secr.",S - Sale,$88.50,-321,0,-100%,"-$28,409",0,-9,-17,-22
+664,,2007-05-24 14:31:50,2007-05-23,CTSH,Weissman Robert Evan,Dir,P - Purchase,$77.34,"+1,000","238,444",0%,"+$77,340",-2,+3,0,-21
+665,,2007-05-22 09:44:06,2007-05-21,CTSH,Weissman Robert Evan,Dir,P - Purchase,$78.00,"+1,000","237,444",0%,"+$78,000",0,-3,-2,-20
+666,D,2007-03-27 15:49:48,2007-03-26,CTSH,Dsouza  Francisco,"Pres, CEO",S - Sale+OE,$94.00,"-35,000","105,222",-25%,"-$3,290,000",-2,-9,-5,-21
+667,D,2007-02-27 10:58:29,2007-02-23,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$94.83,"-3,700",0,-100%,"-$350,869",-6,-9,-1,-22
+668,D,2007-02-26 11:02:04,2007-02-22,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$94.88,"-7,500",0,-100%,"-$711,630",-1,-8,0,-21
+669,D,2007-02-23 13:51:24,2007-02-21,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$94.54,"-14,540",0,-100%,"-$1,374,606",0,-5,-2,-21
+670,DM,2007-02-21 18:58:38,2007-02-20,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$94.49,"-46,898",0,-100%,"-$4,431,196",0,-7,-2,-22
+671,D,2007-02-20 12:03:16,2007-02-15,CTSH,Narayanan Lakshmi,Vice COB,S - Sale+OE,$94.35,"-34,000",0,-100%,"-$3,207,965",+1,0,-3,-20
+672,D,2007-02-12 15:59:30,2007-02-12,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$92.40,"-20,000","7,994",-71%,"-$1,847,975",0,+1,-4,-11
+673,DM,2007-02-12 15:55:31,2007-02-08,CTSH,Coburn Gordon,"Chief Oper., Fin. Officer",S - Sale+OE,$93.61,"-65,000","7,994",-89%,"-$6,084,660",0,+1,-4,-11
+674,D,2007-02-06 09:56:45,2007-02-05,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$91.40,"-19,800",0,-100%,"-$1,809,726",0,-1,-3,-10
+675,D,2007-02-06 09:52:36,2007-02-05,CTSH,Mehta Rajeev,"COO, Global Client Services",S - Sale+OE,$89.91,"-38,750","5,648",-87%,"-$3,483,945",0,-1,-3,-10
+676,D,2007-02-05 09:46:01,2007-02-02,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$85.97,"-5,000",0,-100%,"-$429,850",+8,+8,+5,-3
+677,D,2007-02-02 10:23:40,2007-01-31,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$85.28,"-5,000",0,-100%,"-$426,405",+1,+10,0,-1
+678,D,2007-01-31 17:08:05,2007-01-30,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$84.90,"-5,000",0,-100%,"-$424,511",0,+9,+5,-5
+679,,2007-01-26 11:25:15,2007-01-24,CTSH,Mehta Rajeev,"COO, Global Client Services",S - Sale,$83.00,"-5,500","5,648",-49%,"-$456,500",0,+2,+13,-2
+680,D,2007-01-26 11:22:26,2007-01-24,CTSH,Mehta Rajeev,"COO, Global Client Services",S - Sale+OE,$83.21,"-33,500","5,648",-86%,"-$2,787,368",0,+2,+13,-2
+681,D,2007-01-25 10:33:51,2007-01-24,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$84.26,"-5,000",0,-100%,"-$421,300",-1,+1,+12,-2
+682,D,2007-01-25 10:28:51,2007-01-23,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$82.64,"-10,000",0,-100%,"-$826,352",-1,+1,+12,-2
+683,D,2007-01-22 10:05:33,2007-01-18,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$82.25,"-2,568",0,-100%,"-$211,218",0,+2,+16,+5
+684,D,2007-01-19 09:32:40,2007-01-17,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$82.37,"-2,432",0,-100%,"-$200,322",+1,+3,+15,+8
+685,D,2007-01-17 14:03:21,2007-01-16,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$82.25,"-5,000",0,-100%,"-$411,255",0,+1,+15,+3
+686,D,2007-01-16 16:12:57,2007-01-12,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$81.33,"-19,500",0,-100%,"-$1,585,980",0,0,+13,+5
+687,D,2006-12-15 12:54:17,2006-12-14,CTSH,Ramakrishnan Chandrasekaran,"Pres, MD, Global Delivery",S - Sale+OE,$81.22,-500,0,-100%,"-$40,610",0,-4,+1,-4
+688,D,2006-12-12 09:50:46,2006-12-08,CTSH,Kontogouris Venetia,Dir,S - Sale+OE,$80.92,"-20,000","6,000",-77%,"-$1,618,314",0,-1,+2,-1
+689,D,2006-12-08 12:58:30,2006-12-06,CTSH,Klein John E,Chairman of the Board,S - Sale+OE,$80.71,"-30,000","220,600",-12%,"-$2,421,404",0,0,-2,-6
+690,D,2006-12-08 12:53:16,2006-12-06,CTSH,Howe Robert W,Dir,S - Sale+OE,$81.15,"-20,000","11,500",-63%,"-$1,622,988",0,0,-2,-6
+691,D,2006-12-08 12:34:48,2006-12-06,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$80.83,"-24,000","7,994",-75%,"-$1,939,805",0,0,-2,-6
+692,D,2006-05-15 10:28:50,2006-05-11,CTSH,Kontogouris Venetia,Dir,S - Sale+OE,$69.07,"-25,000","6,000",-81%,"-$1,726,873",+1,-2,-11,+16
+693,DM,2006-03-01 13:20:41,2006-02-27,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$58.69,"-20,000","7,501",-73%,"-$1,173,752",+1,-2,+4,+24
+694,D,2006-02-23 14:50:59,2006-02-22,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$56.55,"-35,000",0,-100%,"-$1,979,096",+1,+4,+1,+25
+695,D,2006-02-22 14:04:16,2006-02-21,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$55.75,"-2,500",0,-100%,"-$139,375",+4,+5,+3,+27
+696,D,2006-02-17 17:58:16,2006-02-17,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$55.59,"-40,500",0,-100%,"-$2,251,435",-1,+4,+1,+27
+697,D,2006-02-17 12:31:06,2006-02-16,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$55.46,"-7,000",0,-100%,"-$388,216",-1,+4,+1,+27
+698,D,2006-02-17 12:27:52,2006-02-16,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$55.17,"-60,000","7,501",-89%,"-$3,310,007",-1,+4,+1,+27
+699,D,2006-02-16 16:51:14,2006-02-15,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$55.44,"-15,000",0,-100%,"-$831,628",0,+3,+3,+28
+700,D,2005-12-16 10:48:16,2005-12-14,CTSH,Klein John E,Chairman of the Board,S - Sale+OE,$49.25,"-30,000","190,600",-14%,"-$1,477,400",0,+4,+1,+24
+701,D,2005-12-02 09:38:47,2005-12-01,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$49.50,"-10,000",0,-100%,"-$495,000",-1,-2,+2,+23
+702,D,2005-12-01 16:07:36,2005-12-01,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$49.28,"-33,876","7,501",-82%,"-$1,669,379",-1,-1,+1,+27
+703,D,2005-12-01 16:00:53,2005-11-30,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$49.00,"-4,000","7,501",-35%,"-$196,000",-1,-1,+1,+27
+704,D,2005-12-01 14:48:22,2005-11-29,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$49.01,"-12,124","7,501",-62%,"-$594,222",+2,+1,+3,+29
+705,D,2005-11-23 07:11:29,2005-11-22,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$48.75,"-10,000",0,-100%,"-$487,500",0,-1,+7,+25
+706,D,2005-06-21 16:25:31,2005-06-17,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$50.03,"-60,000","84,142",-42%,"-$3,002,076",0,-3,+4,+5
+707,D,2005-06-17 16:45:04,2005-06-16,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$49.00,"-13,500","7,501",-64%,"-$661,500",-2,-7,-3,-2
+708,D,2005-06-10 16:22:27,2005-06-10,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$48.02,"-20,000","7,501",-73%,"-$960,400",0,+5,+3,+4
+709,D,2005-06-10 15:56:22,2005-06-09,CTSH,Howe Robert W,Dir,S - Sale+OE,$47.03,"-24,236","13,400",-64%,"-$1,139,697",-1,+4,+2,+3
+710,D,2005-06-08 13:33:20,2005-06-07,CTSH,Howe Robert W,Dir,S - Sale+OE,$47.92,"-5,764","13,400",-30%,"-$276,195",-1,+1,0,+3
+711,D,2005-06-03 15:48:51,2005-06-03,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$48.02,"-13,437","7,501",-64%,"-$645,245",-2,-1,-2,+1
+712,D,2005-06-03 12:09:30,2005-06-02,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$47.95,"-40,145",0,-100%,"-$1,925,142",-2,-1,-2,+1
+713,D,2005-06-03 12:07:08,2005-06-01,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$48.05,"-16,563","7,501",-69%,"-$795,813",-2,-1,-2,+1
+714,D,2005-06-02 11:41:32,2005-06-01,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$48.01,"-5,555",0,-100%,"-$266,696",0,-2,-2,+2
+715,D,2005-06-02 11:29:23,2005-05-31,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$48.00,"-30,000","84,142",-26%,"-$1,440,000",0,-2,-2,+2
+716,D,2005-06-01 10:57:08,2005-05-31,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$48.00,"-5,000",0,-100%,"-$240,000",0,-2,-1,+1
+717,D,2005-06-01 10:52:23,2005-05-31,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$47.87,"-53,600",0,-100%,"-$2,565,987",0,-2,-1,+1
+718,D,2005-06-01 10:46:52,2005-05-27,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$47.75,-700,0,-100%,"-$33,425",0,-2,-1,+1
+719,D,2005-05-27 13:29:42,2005-05-26,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$47.00,"-5,000",0,-100%,"-$235,000",0,-1,-3,+3
+720,D,2005-05-16 17:26:34,2005-05-13,CTSH,Kontogouris Venetia,Dir,S - Sale+OE,$43.00,"-25,000","6,000",-81%,"-$1,075,011",+1,+5,+11,+6
+721,D,2005-04-08 12:16:00,2005-04-06,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$48.22,"-10,000","84,142",-11%,"-$482,224",-4,-13,-7,-7
+722,D,2005-04-07 11:40:08,2005-04-05,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$48.01,"-14,000","84,142",-14%,"-$672,090",0,-5,-8,-4
+723,D,2005-04-07 11:37:01,2005-04-05,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$47.25,"-30,000","7,501",-80%,"-$1,417,500",0,-5,-8,-4
+724,D,2005-04-04 10:57:23,2005-03-31,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$46.00,"-25,732","84,142",-23%,"-$1,183,672",+1,0,-8,0
+725,D,2005-03-31 11:26:28,2005-03-29,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$46.00,"-28,268","84,142",-25%,"-$1,300,348",+2,+5,-8,0
+726,D,2005-03-30 12:40:34,2005-03-28,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$46.80,"-19,492","6,904",-74%,"-$912,226",+2,+8,-5,+1
+727,D,2005-03-28 16:03:21,2005-03-24,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$46.80,"-10,508","6,904",-60%,"-$491,774",-2,+1,-7,-4
+728,D,2005-03-24 14:01:10,2005-03-22,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$46.00,"-25,000","6,904",-78%,"-$1,150,015",0,0,-11,-5
+729,D,2004-12-15 10:04:51,2004-12-14,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$40.00,"-5,000",0,-100%,"-$200,000",-1,-3,-9,+19
+730,D,2004-12-15 10:01:36,2004-12-13,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$39.15,"-92,000",0,-100%,"-$3,602,036",-1,-3,-9,+19
+731,D,2004-12-14 15:45:07,2004-12-14,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$40.08,"-1,500","6,904",-18%,"-$60,121",+3,0,-5,+20
+732,D,2004-12-14 10:10:28,2004-12-10,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$38.75,"-8,691",0,-100%,"-$336,776",+3,0,-5,+20
+733,D,2004-11-18 14:50:38,2004-11-17,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$39.00,"-5,000",0,-100%,"-$195,000",0,0,+3,+18
+734,D,2004-11-04 14:54:34,2004-11-03,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$37.00,"-5,000",0,-100%,"-$185,000",+1,+1,+5,+21
+735,D,2004-11-03 12:32:59,2004-11-01,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$34.11,"-35,000",0,-100%,"-$1,193,713",+4,+6,+10,+23
+736,D,2004-11-02 13:10:14,2004-11-01,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$34.02,"-11,000","6,904",-61%,"-$374,228",+2,+8,+13,+26
+737,D,2004-11-01 14:02:18,2004-10-29,CTSH,Narayanan Lakshmi,"Pres, CEO",S - Sale+OE,$33.94,"-15,000",0,-100%,"-$509,036",0,+7,+12,+24
+738,D,2004-09-14 17:18:53,2004-09-14,CTSH,Kontogouris Venetia,Dir,S - Sale+OE,$29.25,"-78,000","6,000",-93%,"-$2,281,207",-2,-3,+10,+59
+739,D,2004-09-09 12:55:52,2004-09-08,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$28.00,"-5,000",0,-100%,"-$140,000",+4,+3,+12,+64
+740,D,2004-09-02 17:54:36,2004-09-02,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$28.05,"-27,000","56,142",-32%,"-$757,285",-1,+4,+8,+68
+741,D,2004-07-28 16:42:38,2004-07-27,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$27.11,"-36,000","6,904",-84%,"-$975,974",+1,-2,-1,+32
+742,D,2004-07-28 16:27:22,2004-07-27,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$27.03,"-27,000","56,142",-32%,"-$729,885",+1,-2,-1,+32
+743,D,2004-06-29 16:38:09,2004-06-25,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$26.00,"-27,000","56,142",-32%,"-$702,002",+1,-4,+7,+58
+744,D,2004-06-29 14:13:11,2004-06-25,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$25.75,"-23,550","5,824",-80%,"-$606,460",-4,-8,+3,+54
+745,D,2004-06-28 13:46:00,2004-06-24,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$25.50,"-24,000","56,142",-30%,"-$612,060",+2,-5,+6,+56
+746,D,2004-06-28 13:10:38,2004-06-24,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$25.75,-450,"5,824",-7%,"-$11,588",+2,-5,+6,+56
+747,D,2004-06-23 13:48:55,2004-06-22,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$25.25,"-2,259","5,824",-28%,"-$57,040",+3,+3,-4,+61
+748,D,2004-06-23 13:46:26,2004-06-21,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$25.25,"-21,741","5,824",-79%,"-$548,968",+3,+3,-4,+61
+749,D,2004-06-23 13:40:19,2004-06-21,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$25.00,"-27,000","56,142",-32%,"-$675,028",+3,+3,-4,+61
+750,D,2004-06-21 14:59:56,2004-06-18,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$24.76,"-17,090","5,824",-75%,"-$423,092",+1,+6,-1,+61
+751,D,2004-06-21 13:23:49,2004-06-17,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$49.51,-600,"2,912",-17%,"-$29,705",+1,+6,-1,+61
+752,D,2004-06-17 13:56:14,2004-06-16,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$49.50,"-5,855","2,912",-67%,"-$289,837",0,+3,+1,+66
+753,D,2004-06-16 11:54:18,2004-06-14,CTSH,Ramakrishnan Chandrasekaran,EVP,S - Sale+OE,$46.42,"-5,000",0,-100%,"-$232,100",+2,+1,+4,+64
+754,D,2004-04-27 12:26:39,2004-04-23,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$49.02,"-12,000","28,071",-30%,"-$588,240",-3,-10,-4,+35
+755,D,2004-04-26 10:58:19,2004-04-22,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$48.51,"-7,500","2,912",-72%,"-$363,796",-1,-10,-8,+33
+756,D,2004-04-06 15:43:37,2004-04-05,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$48.50,"-7,500","2,912",-72%,"-$363,750",-3,-4,-8,+28
+757,D,2004-04-05 17:58:26,2004-04-02,CTSH,Dsouza  Francisco,COO,S - Sale+OE,$47.47,"-12,000","28,071",-30%,"-$569,595",-3,-3,-10,+29
+758,D,2004-04-05 14:13:21,2004-04-02,CTSH,Coburn Gordon,"EVP, CFO",S - Sale+OE,$47.53,"-24,000","2,912",-89%,"-$1,140,802",+1,-2,-9,+30
+759,D,2004-03-01 13:59:55,2004-03-01,CTSH,Howe Robert W,Dir,S - Sale+OE,$48.07,"-15,000","6,700",-69%,"-$721,043",+1,-2,-3,+15
+760,,2003-12-05 12:51:32,2003-12-03,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$49.16,"-12,000","98,160",-11%,"-$589,920",0,0,+10,0
+761,,2003-12-04 11:02:52,2003-12-02,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$48.67,"-13,700","98,160",-12%,"-$666,745",-3,-5,+6,-5
+762,,2003-12-03 12:34:19,2003-12-01,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$47.60,"-25,000","98,160",-20%,"-$1,190,000",-2,-5,-3,-9
+763,,2003-11-14 12:01:06,2003-11-12,CTSH,Howe Robert W,Dir,S - Sale,$46.75,"-5,000","6,700",-43%,"-$233,750",-2,-3,-4,-13
+764,,2003-11-14 11:56:12,2003-11-12,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$47.14,-500,"98,160",-1%,"-$23,570",-2,-3,-4,-13
+765,,2003-11-12 10:06:31,2003-11-07,CTSH,Coburn Gordon,"SVP, CFO",S - Sale,$46.94,"-3,501","2,322",-60%,"-$164,321",+5,0,+4,-1
+766,,2003-11-12 10:03:01,2003-11-07,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$47.01,"-25,000","98,160",-20%,"-$1,175,250",+5,0,+4,-1
+767,,2003-11-05 15:04:28,2003-11-03,CTSH,Wendel Thomas M,Dir,S - Sale,$45.85,"-30,000",0,-100%,"-$1,375,500",-2,-3,+1,-3
+768,,2003-11-05 11:55:08,2003-11-03,CTSH,Narayanan Lakshmi,"Pres, COO",S - Sale,$47.50,"-10,000",0,-100%,"-$475,000",-2,-3,+1,-3
+769,,2003-11-03 16:17:53,2003-10-31,CTSH,Dsouza  Francisco,SVP,S - Sale,$45.53,"-36,000","28,071",-56%,"-$1,639,052",-1,+2,+5,-5
+770,,2003-10-22 16:47:59,2003-10-20,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$43.85,"-40,000","98,160",-29%,"-$1,753,850",0,+2,+7,+16
+771,,2003-10-15 14:44:57,2003-10-13,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$43.39,"-50,000","98,160",-34%,"-$2,169,341",0,-4,+7,+5
+772,,2003-10-14 12:30:24,2003-10-09,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$41.00,"-4,775","98,160",-5%,"-$195,775",0,0,+1,+5
+773,,2003-10-10 10:29:22,2003-10-08,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$41.15,"-20,225","98,160",-17%,"-$832,200",+10,+7,+18,+17
+774,,2003-10-08 10:04:20,2003-10-06,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$39.65,"-25,000","98,160",-20%,"-$991,290",-1,+10,+13,+17
+775,,2003-10-07 15:08:14,2003-10-03,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$39.50,"-25,000","98,160",-20%,"-$987,584",-1,+9,+13,+17
+776,,2003-09-23 15:59:33,2003-09-22,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale,$39.06,"-25,000","98,160",-20%,"-$976,608",+1,-5,+8,+7
+777,D,2003-09-19 13:12:33,2003-09-17,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale+OE,$39.50,"-25,000","98,160",-20%,"-$987,500",+1,-8,+6,+10
+778,D,2003-09-17 15:08:22,2003-09-15,CTSH,Coburn Gordon,"SVP, CFO",S - Sale+OE,$36.54,"-15,000","3,165",-83%,"-$548,031",+6,+2,+14,+15
+779,D,2003-09-10 16:55:30,2003-09-08,CTSH,Klein John E,Dir,S - Sale+OE,$37.76,"-30,000","98,700",-23%,"-$1,132,885",+3,+7,+10,+17
+780,D,2003-09-09 16:30:19,2003-09-05,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale+OE,$38.84,"-25,000","98,160",-20%,"-$971,000",-4,-2,+7,+16
+781,D,2003-09-03 15:20:34,2003-08-29,CTSH,Coburn Gordon,"SVP, CFO",S - Sale+OE,$34.82,"-20,000","3,165",-86%,"-$696,360",+2,+1,+1,+23
+782,DM,2003-09-03 15:18:04,2003-08-29,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale+OE,$35.87,"-52,250","98,160",-35%,"-$1,874,448",+2,+1,+1,+23
+783,D,2003-09-02 16:17:46,2003-08-28,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale+OE,$34.63,"-31,868","98,160",-25%,"-$1,103,449",+2,+2,-1,+26
+784,D,2003-09-02 16:15:16,2003-08-28,CTSH,Coburn Gordon,"SVP, CFO",S - Sale+OE,$34.55,"-10,000","3,165",-76%,"-$345,531",+2,+2,-1,+26
+785,D,2003-08-29 14:48:09,2003-08-27,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale+OE,$32.76,"-25,000","98,160",-20%,"-$818,941",0,+11,+7,+36
+786,D,2003-08-29 14:47:47,2003-08-27,CTSH,Coburn Gordon,"SVP, CFO",S - Sale+OE,$33.34,"-5,000","3,165",-61%,"-$166,700",0,+11,+7,+36
+787,DM,2003-08-27 15:12:00,2003-08-25,CTSH,Narayanan Lakshmi,"Pres, COO",S - Sale+OE,$32.16,"-15,000",0,-100%,"-$482,432",+3,+16,+13,+48
+788,D,2003-08-26 15:28:13,2003-08-22,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale+OE,$32.32,"-28,100","98,160",-22%,"-$908,250",+1,+16,+17,+50
+789,DM,2003-07-30 16:22:07,2003-07-28,CTSH,Mahadeva Wijeyaraj,"COB, CEO",S - Sale+OE,$32.15,"-25,000","98,160",-20%,"-$803,669",+1,-1,+9,+75
+790,D,2003-07-30 15:46:04,2003-07-28,CTSH,Howe Robert W,Dir,S - Sale+OE,$31.55,"-15,000","11,700",-56%,"-$473,250",-3,-4,+6,+73
+791,,2003-07-28 15:02:28,2003-07-25,CTSH,Coburn Gordon,"SVP, CFO",S - Sale,$31.05,"-15,000","3,165",-83%,"-$465,770",0,-3,+2,+78
